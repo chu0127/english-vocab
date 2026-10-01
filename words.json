@@ -25,6 +25,24 @@
         { "id": "stay-focused-on", "word": "stay focused on", "ipa": "/steɪ ˈfəʊkəst ɒn/", "pos": "片語", "zh": "專注於", "example": "Stay focused on your study.", "example_zh": "專心讀書。" },
         { "id": "avoid-ing", "word": "avoid + -ing", "ipa": "/əˈvɔɪd/ + -ing", "pos": "片語", "zh": "避免做", "example": "Avoid eating too much sugar.", "example_zh": "避免食太多糖。", "say": "avoid", "accept": [ "avoid", "avoid -ing", "avoid ing" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-02 · AI at Work",
+      "added": "2026-10-02",
+      "words": [
+        { "id": "translate", "word": "translate", "ipa": "/trænzˈleɪt/", "pos": "動詞", "zh": "翻譯", "example": "These tools can write emails, translate documents and even plan meetings, saving people a lot of time.", "example_zh": "呢啲工具可以寫電郵、翻譯文件，甚至安排會議，幫大家慳返好多時間。" },
+        { "id": "document", "word": "document", "ipa": "/ˈdɒkjumənt/", "pos": "名詞", "zh": "文件", "example": "These tools can write emails, translate documents and even plan meetings, saving people a lot of time.", "example_zh": "呢啲工具可以寫電郵、翻譯文件，甚至安排會議，幫大家慳返好多時間。" },
+        { "id": "wisely", "word": "wisely", "ipa": "/ˈwaɪzli/", "pos": "副詞", "zh": "明智地、聰明噉", "example": "However, we should learn how to use them wisely.", "example_zh": "不過，我哋應該學識點樣明智噉用佢哋。" },
+        { "id": "colleague", "word": "colleague", "ipa": "/ˈkɒliːɡ/", "pos": "名詞", "zh": "同事", "example": "For example, my colleague Mandy used to spend two hours writing a weekly report.", "example_zh": "例如，我同事 Mandy 以前要用兩個鐘寫一份週報。" },
+        { "id": "draft", "word": "draft", "ipa": "/drɑːft/", "pos": "名詞", "zh": "草稿、初稿", "example": "Now an AI tool helps her prepare a first draft in ten minutes, allowing her to focus on more important work.", "example_zh": "而家 AI 工具幫佢十分鐘就整好初稿，令佢可以專心做更重要嘅工作。" },
+        { "id": "focus-on", "word": "focus on", "ipa": "/ˈfəʊkəs ɒn/", "pos": "片語", "zh": "專注於", "example": "Now an AI tool helps her prepare a first draft in ten minutes, allowing her to focus on more important work.", "example_zh": "而家 AI 工具幫佢十分鐘就整好初稿，令佢可以專心做更重要嘅工作。" },
+        { "id": "make-a-mistake", "word": "make a mistake", "ipa": "/ˌmeɪk ə mɪˈsteɪk/", "pos": "片語", "zh": "犯錯", "example": "If we copy its answers without checking them, we may make serious mistakes.", "example_zh": "如果我哋唔檢查就照抄佢嘅答案，可能會犯嚴重錯誤。", "accept": [ "make mistakes", "make mistake" ] },
+        { "id": "worry-about", "word": "worry about", "ipa": "/ˈwʌri əˌbaʊt/", "pos": "片語", "zh": "擔心", "example": "Another problem is that some workers worry about losing their jobs.", "example_zh": "另一個問題係，有啲員工擔心會失業。" },
+        { "id": "understandable", "word": "understandable", "ipa": "/ˌʌndəˈstændəbl/", "pos": "形容詞", "zh": "可以理解嘅", "example": "Although this worry is understandable, AI cannot replace people who keep learning.", "example_zh": "雖然呢種擔心可以理解，但係 AI 取代唔到不斷學習嘅人。" },
+        { "id": "replace", "word": "replace", "ipa": "/rɪˈpleɪs/", "pos": "動詞", "zh": "取代", "example": "Although this worry is understandable, AI cannot replace people who keep learning.", "example_zh": "雖然呢種擔心可以理解，但係 AI 取代唔到不斷學習嘅人。" },
+        { "id": "confident", "word": "confident", "ipa": "/ˈkɒnfɪdənt/", "pos": "形容詞", "zh": "有信心嘅", "example": "Companies should let their staff try these tools and provide training, making everyone feel more confident.", "example_zh": "公司應該畀員工試用呢啲工具，同埋提供培訓，令大家更有信心。" },
+        { "id": "be-willing-to", "word": "be willing to", "ipa": "/bi ˈwɪlɪŋ tə/", "pos": "片語", "zh": "願意", "example": "In the end, people who are willing to learn will always find a place in the workplace.", "example_zh": "總括嚟講，願意學習嘅人喺職場永遠都會有一席之地。" }
+      ]
     }
   ]
 }
