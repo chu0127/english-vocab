@@ -25,6 +25,7 @@ with sync_playwright() as pw:
     b = pw.chromium.launch(executable_path="/usr/bin/google-chrome", args=["--no-sandbox"])
     ctx = b.new_context(**IPHONE); pg = ctx.new_page(); errs = []
     pg.on("pageerror", lambda e: errs.append(str(e)))
+    pg.on("response", lambda r: r.status >= 400 and print("  HTTP", r.status, r.url))
     pg.on("console", lambda m: m.type == "error" and "cloudflareinsights" not in m.text and errs.append(m.text))
     r = pg.goto(URL, wait_until="load"); wait(pg, "window.__ready")
     mode = pg.evaluate("store.mode"); print("storage mode:", mode)

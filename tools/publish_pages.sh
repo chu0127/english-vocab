@@ -12,6 +12,10 @@ MSG="${1:-Update vocab app $(date '+%Y-%m-%d %H:%M')}"
 cp dist/index.html index.html
 git add -A
 if git diff --cached --quiet; then echo "冇新改動要 commit（照樣檢查網站）"; else git commit -q -m "$MSG"; echo "committed: $MSG"; fi
+# use gh's login for git push (repo-local setting, idempotent)
+git config --local --get-all credential.https://github.com.helper | grep -q "gh auth git-credential" || {
+  git config --local credential.https://github.com.helper ""
+  git config --local --add credential.https://github.com.helper '!gh auth git-credential'; }
 git push -q origin main
 SHA=$(git rev-parse HEAD)
 BUILT=$(grep -o 'const BUILD=[^;]*' index.html | grep -o '"id": "[0-9a-f]*"' | grep -o '[0-9a-f]\{12\}')

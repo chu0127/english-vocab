@@ -570,8 +570,8 @@ function bkMsg(m, bad) { const el = $("#bkMsg"); if (el) { el.textContent = m; e
 async function doImport(text) {
   const st = await decodeState(text);
   S = mergeState(S, st); invalidate(); fc.order = null; await flush();
-  bkMsg(`✅ 匯入成功：而家已學 ${learned()} 個字、連續 ${streak()} 日`);
   renderStats(); updateTop();
+  bkMsg(`✅ 匯入成功：而家已學 ${learned()} 個字、連續 ${streak()} 日`);
 }
 $("#tab-stats").addEventListener("click", async e => {
   const a = e.target.closest("[data-act]"); if (!a) return;
