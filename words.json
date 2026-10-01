@@ -1,0 +1,30 @@
+{
+  "_說明": "每課一個 lesson 物件；詳見 HOW-TO-ADD-WORDS.md。id 唔好改（進度靠佢對應）。",
+  "lessons": [
+    {
+      "lesson": "Lesson 1 · Steve Jobs 作文",
+      "added": "2026-10-01",
+      "words": [
+        { "id": "admire", "word": "admire", "ipa": "/ədˈmaɪə/", "pos": "動詞", "zh": "欣賞、敬佩", "example": "I admire my teacher.", "example_zh": "我好欣賞我嘅老師。" },
+        { "id": "co-founder", "word": "co-founder", "ipa": "/ˌkəʊˈfaʊndə/", "pos": "名詞", "zh": "聯合創辦人", "example": "He is a co-founder of the company.", "example_zh": "佢係嗰間公司嘅聯合創辦人。" },
+        { "id": "be-known-for", "word": "be known for", "ipa": "/bi ˈnəʊn fɔː/", "pos": "片語", "zh": "以……聞名", "example": "Hong Kong is known for its food.", "example_zh": "香港以美食聞名。" },
+        { "id": "creative", "word": "creative", "ipa": "/kriˈeɪtɪv/", "pos": "形容詞", "zh": "有創意嘅", "example": "She is a creative designer.", "example_zh": "佢係一個有創意嘅設計師。" },
+        { "id": "introduce", "word": "introduce", "ipa": "/ˌɪntrəˈdjuːs/", "pos": "動詞", "zh": "推出、介紹", "example": "They introduced a new phone.", "example_zh": "佢哋推出咗一部新手機。" },
+        { "id": "communicate", "word": "communicate", "ipa": "/kəˈmjuːnɪkeɪt/", "pos": "動詞", "zh": "溝通", "example": "We communicate by email.", "example_zh": "我哋用電郵溝通。" },
+        { "id": "path-to-success", "word": "path to success", "ipa": "/ˌpɑːθ tə səkˈses/", "pos": "名詞片語", "zh": "成功之路", "example": "Every path to success is different.", "example_zh": "每條成功之路都唔同。" },
+        { "id": "plain-sailing", "word": "plain sailing", "ipa": "/ˌpleɪn ˈseɪlɪŋ/", "pos": "片語", "zh": "一帆風順", "example": "Life is not always plain sailing.", "example_zh": "人生唔係永遠一帆風順。" },
+        { "id": "be-forced-to", "word": "be forced to", "ipa": "/bi ˈfɔːst tə/", "pos": "片語", "zh": "被迫做", "example": "He was forced to leave.", "example_zh": "佢被迫離開。" },
+        { "id": "valuable", "word": "valuable", "ipa": "/ˈvæljuəbl/", "pos": "形容詞", "zh": "有價值嘅", "example": "Time is valuable.", "example_zh": "時間好寶貴。" },
+        { "id": "character", "word": "character", "ipa": "/ˈkærəktə/", "pos": "名詞", "zh": "性格", "example": "She has a strong character.", "example_zh": "佢性格好堅強。" },
+        { "id": "persistent", "word": "persistent", "ipa": "/pəˈsɪstənt/", "pos": "形容詞", "zh": "堅持不懈嘅", "example": "Be persistent and you will succeed.", "example_zh": "堅持落去，你就會成功。" },
+        { "id": "although", "word": "although", "ipa": "/ɔːlˈðəʊ/", "pos": "連接詞", "zh": "雖然", "example": "Although it rained, we went out.", "example_zh": "雖然落雨，我哋都照出街。" },
+        { "id": "ups-and-downs", "word": "ups and downs", "ipa": "/ˌʌps ən ˈdaʊnz/", "pos": "片語", "zh": "起起跌跌", "example": "Life has ups and downs.", "example_zh": "人生有起有跌。" },
+        { "id": "give-up-on", "word": "give up (on)", "ipa": "/ˌɡɪv ˈʌp (ɒn)/", "pos": "片語", "zh": "放棄", "example": "Never give up on your dream.", "example_zh": "永遠唔好放棄你嘅夢想。", "say": "give up on", "accept": [ "give up", "give up on" ] },
+        { "id": "a-testament-to", "word": "a testament to", "ipa": "/ə ˈtestəmənt tə/", "pos": "片語", "zh": "證明、見證", "example": "Her success is a testament to hard work.", "example_zh": "佢嘅成功證明咗努力嘅價值。" },
+        { "id": "determination", "word": "determination", "ipa": "/dɪˌtɜːmɪˈneɪʃn/", "pos": "名詞", "zh": "決心", "example": "He showed great determination.", "example_zh": "佢展現出好大嘅決心。" },
+        { "id": "stay-focused-on", "word": "stay focused on", "ipa": "/steɪ ˈfəʊkəst ɒn/", "pos": "片語", "zh": "專注於", "example": "Stay focused on your study.", "example_zh": "專心讀書。" },
+        { "id": "avoid-ing", "word": "avoid + -ing", "ipa": "/əˈvɔɪd/ + -ing", "pos": "片語", "zh": "避免做", "example": "Avoid eating too much sugar.", "example_zh": "避免食太多糖。", "say": "avoid", "accept": [ "avoid", "avoid -ing", "avoid ing" ] }
+      ]
+    }
+  ]
+}
