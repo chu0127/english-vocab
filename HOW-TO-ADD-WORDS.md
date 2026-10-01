@@ -74,7 +74,7 @@ cd /workspace/vocab-app
 
 - 改咗例句想重錄：`.venv/bin/python tools/gen_audio.py --force <id> <id2>`
 - 如果 edge-tts 連唔到網，個字照樣可以用：App 會自動用手機／瀏覽器內置英文語音（en-GB）。
-- 大小參考：每個字（生字 + 例句兩段錄音）大約加 **35 KB**。100 個字 ≈ 3.5 MB，300 個字 ≈ 10 MB（`build.py` 超過 10 MB 會警告；GitHub 單一檔案上限 100 MB，但太大手機會載得慢）。太大時可以考慮將舊課分拆另一個 App。
+- 大小參考：每個字（生字 + 例句兩段錄音）大約加 **35–65 KB**（例句越長越大；2026-10-02 31 個字 ≈ 1.5 MB）。100 個字 ≈ 5 MB，200 個字 ≈ 10 MB（`build.py` 超過 10 MB 會警告；GitHub 單一檔案上限 100 MB，但太大手機會載得慢）。太大時可以考慮將舊課分拆另一個 App。
 
 ## 第 3 步：測試
 
@@ -121,3 +121,8 @@ cd /workspace/vocab-app
 - SRS 規則（`src/app.js` 嘅 `IV`）：第 1–7 級分別隔 1、2、4、7、15、30、60 日；
   記得 → 升一級；有啲唔確定 → 降一級、聽日再溫；唔記得 → 返第 1 級、今次再出、聽日再溫。
   每日新字數喺「進度 → 設定」改（預設 10）。
+
+## 每日文章生字
+
+每日文章（`/workspace/daily-articles/`）嘅生字唔使手動改 `words.json`：寫好 `article.json` 之後跑
+`/workspace/daily-articles/tools/finish_day.sh /workspace/daily-articles/<日期>`，佢會自動加字（略過重複）、錄音、建置、測試同發佈。詳見 `/workspace/daily-articles/HOW-TO-DAILY.md`。
