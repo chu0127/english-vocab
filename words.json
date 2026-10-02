@@ -61,6 +61,24 @@
         { "id": "productive", "word": "productive", "ipa": "/prəˈdʌktɪv/", "pos": "形容詞", "zh": "有效率嘅、多產嘅", "example": "This can help staff feel happier and become more productive.", "example_zh": "咁樣可以幫員工開心啲，做嘢都更有效率。" },
         { "id": "investment", "word": "investment", "ipa": "/ɪnˈvestmənt/", "pos": "名詞", "zh": "投資", "example": "Taking care of ourselves is not a waste of time; it is an investment in our future.", "example_zh": "照顧好自己唔係嘥時間，而係對我哋將來嘅投資。" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-03 · Studying While Working",
+      "added": "2026-10-03",
+      "words": [
+        { "id": "full-time", "word": "full-time", "ipa": "/ˌfʊl ˈtaɪm/", "pos": "副詞", "zh": "全職", "example": "I work full-time at a logistics company, so I take an evening English course twice a week.", "example_zh": "我喺一間物流公司做全職，所以一個禮拜上兩晚英文夜校。", "accept": [ "full time", "fulltime" ] },
+        { "id": "challenge", "word": "challenge", "ipa": "/ˈtʃælɪndʒ/", "pos": "名詞", "zh": "挑戰", "example": "The biggest challenge is time.", "example_zh": "最大嘅挑戰係時間。" },
+        { "id": "look-after", "word": "look after", "ipa": "/ˌlʊk ˈɑːftə/", "pos": "片語", "zh": "照顧", "example": "I also have to look after my two children, leaving me very little free time.", "example_zh": "我仲要照顧兩個仔女，令我得返好少空閒時間。" },
+        { "id": "feel-like-ing", "word": "feel like + -ing", "ipa": "/ˈfiːl laɪk/ + -ing", "pos": "片語", "zh": "想做（某事）", "example": "Sometimes I did not finish my homework on time, and I felt like giving up.", "example_zh": "有時我冇準時做完功課，真係好想放棄。", "say": "feel like", "accept": [ "feel like", "felt like" ] },
+        { "id": "manage", "word": "manage", "ipa": "/ˈmænɪdʒ/", "pos": "動詞", "zh": "管理、處理", "example": "However, I have learned to manage my time better.", "example_zh": "不過，我已經學識更好噉管理時間。" },
+        { "id": "revise", "word": "revise", "ipa": "/rɪˈvaɪz/", "pos": "動詞", "zh": "溫習", "example": "I keep revising vocabulary on my phone while I am on the MTR, and I listen to English podcasts when I cook.", "example_zh": "我搭港鐵嗰陣會不停用手機溫生字，煮飯嗰陣就聽英文 podcast。" },
+        { "id": "encourage", "word": "encourage", "ipa": "/ɪnˈkʌrɪdʒ/", "pos": "動詞", "zh": "鼓勵", "example": "My classmates also make me feel less alone because we share notes and encourage each other.", "example_zh": "我啲同學都令我冇咁孤單，因為我哋會分享筆記，互相鼓勵。" },
+        { "id": "benefit", "word": "benefit", "ipa": "/ˈbenɪfɪt/", "pos": "名詞", "zh": "好處、益處", "example": "Studying has brought me many benefits.", "example_zh": "讀書帶咗好多好處畀我。" },
+        { "id": "notice", "word": "notice", "ipa": "/ˈnəʊtɪs/", "pos": "動詞", "zh": "留意到、察覺", "example": "I can now write simple emails in English by myself, and my manager has noticed my progress.", "example_zh": "而家我可以自己用英文寫簡單電郵，我上司都留意到我嘅進步。" },
+        { "id": "progress", "word": "progress", "ipa": "/ˈprəʊɡres/", "pos": "名詞", "zh": "進步、進展", "example": "Although progress is slow, every small step counts.", "example_zh": "雖然進步得慢，但係每一小步都有用。" },
+        { "id": "be-proud-of", "word": "be proud of", "ipa": "/bi ˈpraʊd əv/", "pos": "片語", "zh": "以……為傲", "example": "My children are proud of me, and they have started to read more at home too.", "example_zh": "我啲仔女都以我為傲，佢哋喺屋企都開始多咗閱讀。" },
+        { "id": "patient", "word": "patient", "ipa": "/ˈpeɪʃnt/", "pos": "形容詞", "zh": "有耐性嘅", "example": "Successful learners usually possess the character of being patient.", "example_zh": "成功嘅學習者通常都具備有耐性嘅性格。" }
+      ]
     }
   ]
 }
