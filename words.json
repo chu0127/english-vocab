@@ -43,6 +43,24 @@
         { "id": "confident", "word": "confident", "ipa": "/ˈkɒnfɪdənt/", "pos": "形容詞", "zh": "有信心嘅", "example": "Companies should let their staff try these tools and provide training, making everyone feel more confident.", "example_zh": "公司應該畀員工試用呢啲工具，同埋提供培訓，令大家更有信心。" },
         { "id": "be-willing-to", "word": "be willing to", "ipa": "/bi ˈwɪlɪŋ tə/", "pos": "片語", "zh": "願意", "example": "In the end, people who are willing to learn will always find a place in the workplace.", "example_zh": "總括嚟講，願意學習嘅人喺職場永遠都會有一席之地。" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-03 · Work-Life Balance",
+      "added": "2026-10-03",
+      "words": [
+        { "id": "working-hours", "word": "working hours", "ipa": "/ˈwɜːkɪŋ ˌaʊəz/", "pos": "名詞片語", "zh": "工作時間、工時", "example": "Hong Kong is famous for its long working hours.", "example_zh": "香港出名工時長。", "accept": [ "working hour" ] },
+        { "id": "harm", "word": "harm", "ipa": "/hɑːm/", "pos": "動詞", "zh": "損害、傷害", "example": "First, working too much can harm our health.", "example_zh": "第一，做嘢做得太多會損害我哋嘅健康。" },
+        { "id": "stressed", "word": "stressed", "ipa": "/strest/", "pos": "形容詞", "zh": "有壓力嘅、緊張嘅", "example": "When people do not get enough sleep, they often feel tired and stressed.", "example_zh": "當人瞓得唔夠，就成日會覺得攰同有壓力。" },
+        { "id": "suffer-from", "word": "suffer from", "ipa": "/ˈsʌfə frəm/", "pos": "片語", "zh": "受……困擾、患有", "example": "Some even suffer from back pain or headaches, making it hard for them to concentrate.", "example_zh": "有啲人甚至會受腰痛或者頭痛困擾，令佢哋好難集中精神。" },
+        { "id": "concentrate", "word": "concentrate", "ipa": "/ˈkɒnsntreɪt/", "pos": "動詞", "zh": "集中精神", "example": "Some even suffer from back pain or headaches, making it hard for them to concentrate.", "example_zh": "有啲人甚至會受腰痛或者頭痛困擾，令佢哋好難集中精神。" },
+        { "id": "lead-to", "word": "lead to", "ipa": "/ˈliːd tə/", "pos": "片語", "zh": "導致、引致", "example": "Over time, stress can also lead to more serious problems, such as heart disease.", "example_zh": "長遠嚟講，壓力仲可能會引致更嚴重嘅問題，例如心臟病。" },
+        { "id": "attention", "word": "attention", "ipa": "/əˈtenʃn/", "pos": "名詞", "zh": "關注、注意", "example": "Second, family life also needs our attention.", "example_zh": "第二，家庭生活都需要我哋嘅關注。" },
+        { "id": "regret", "word": "regret", "ipa": "/rɪˈɡret/", "pos": "動詞", "zh": "後悔", "example": "He missed many of his daughter's school activities, and he deeply regretted it.", "example_zh": "佢錯過咗好多次個女學校嘅活動，令佢好後悔。" },
+        { "id": "employer", "word": "employer", "ipa": "/ɪmˈplɔɪə/", "pos": "名詞", "zh": "僱主", "example": "Employers should let workers leave on time and allow them to work flexible hours.", "example_zh": "僱主應該畀員工準時放工，同埋容許佢哋彈性上班。" },
+        { "id": "flexible", "word": "flexible", "ipa": "/ˈfleksəbl/", "pos": "形容詞", "zh": "有彈性嘅、靈活嘅", "example": "Employers should let workers leave on time and allow them to work flexible hours.", "example_zh": "僱主應該畀員工準時放工，同埋容許佢哋彈性上班。" },
+        { "id": "productive", "word": "productive", "ipa": "/prəˈdʌktɪv/", "pos": "形容詞", "zh": "有效率嘅、多產嘅", "example": "This can help staff feel happier and become more productive.", "example_zh": "咁樣可以幫員工開心啲，做嘢都更有效率。" },
+        { "id": "investment", "word": "investment", "ipa": "/ɪnˈvestmənt/", "pos": "名詞", "zh": "投資", "example": "Taking care of ourselves is not a waste of time; it is an investment in our future.", "example_zh": "照顧好自己唔係嘥時間，而係對我哋將來嘅投資。" }
+      ]
     }
   ]
 }
