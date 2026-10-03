@@ -79,6 +79,24 @@
         { "id": "be-proud-of", "word": "be proud of", "ipa": "/bi ˈpraʊd əv/", "pos": "片語", "zh": "以……為傲", "example": "My children are proud of me, and they have started to read more at home too.", "example_zh": "我啲仔女都以我為傲，佢哋喺屋企都開始多咗閱讀。" },
         { "id": "patient", "word": "patient", "ipa": "/ˈpeɪʃnt/", "pos": "形容詞", "zh": "有耐性嘅", "example": "Successful learners usually possess the character of being patient.", "example_zh": "成功嘅學習者通常都具備有耐性嘅性格。" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-04 · Public Transport",
+      "added": "2026-10-04",
+      "words": [
+        { "id": "public-transport", "word": "public transport", "ipa": "/ˌpʌblɪk ˈtrænspɔːt/", "pos": "名詞片語", "zh": "公共交通", "example": "Hong Kong has one of the best public transport systems in the world.", "example_zh": "香港擁有世界上最好嘅公共交通系統之一。", "accept": [ "public transportation" ] },
+        { "id": "reliable", "word": "reliable", "ipa": "/rɪˈlaɪəbl/", "pos": "形容詞", "zh": "可靠嘅、靠得住嘅", "example": "The MTR is usually fast, clean and very reliable for daily travel.", "example_zh": "港鐵平時出街通常又快、又乾淨、又好可靠。" },
+        { "id": "traffic-jam", "word": "traffic jam", "ipa": "/ˈtræfɪk dʒæm/", "pos": "名詞片語", "zh": "塞車、交通擠塞", "example": "Many office workers prefer taking the train because it helps them avoid traffic jams.", "example_zh": "好多上班族寧願搭火車，因為咁樣可以幫佢哋避開塞車。", "accept": [ "traffic jams" ] },
+        { "id": "carriage", "word": "carriage", "ipa": "/ˈkærɪdʒ/", "pos": "名詞", "zh": "（火車／港鐵）車廂", "example": "Although carriages are often crowded in rush hour, passengers do not usually wait long for another train.", "example_zh": "雖然繁忙時間車廂成日好擠，但係乘客通常唔使等耐就有另一班車。", "accept": [ "carriages" ] },
+        { "id": "crowded", "word": "crowded", "ipa": "/ˈkraʊdɪd/", "pos": "形容詞", "zh": "擠擁嘅、人多嘅", "example": "Although carriages are often crowded in rush hour, passengers do not usually wait long for another train.", "example_zh": "雖然繁忙時間車廂成日好擠，但係乘客通常唔使等耐就有另一班車。" },
+        { "id": "rush-hour", "word": "rush hour", "ipa": "/ˈrʌʃ aʊə/", "pos": "名詞片語", "zh": "繁忙時間、高峰時段", "example": "Although carriages are often crowded in rush hour, passengers do not usually wait long for another train.", "example_zh": "雖然繁忙時間車廂成日好擠，但係乘客通常唔使等耐就有另一班車。" },
+        { "id": "play-a-role", "word": "play a role", "ipa": "/pleɪ ə rəʊl/", "pos": "片語", "zh": "扮演角色、發揮作用", "example": "Buses and minibuses also play an important role in our daily lives.", "example_zh": "巴士同小巴喺我哋日常生活入面都扮演重要角色。", "say": "play a role", "accept": [ "play an important role", "play a part" ] },
+        { "id": "distant", "word": "distant", "ipa": "/ˈdɪstənt/", "pos": "形容詞", "zh": "遙遠嘅、遠嘅", "example": "Buses cover many areas that the MTR does not reach, letting people travel to more distant districts.", "example_zh": "巴士覆蓋好多港鐵去唔到嘅地方，畀人去到更遠嘅區。" },
+        { "id": "convenient", "word": "convenient", "ipa": "/kənˈviːniənt/", "pos": "形容詞", "zh": "方便嘅", "example": "Using public transport is not only convenient; it is also good for the environment.", "example_zh": "用公共交通唔單止方便，仲對環境有好處。" },
+        { "id": "environment", "word": "environment", "ipa": "/ɪnˈvaɪrənmənt/", "pos": "名詞", "zh": "環境", "example": "Using public transport is not only convenient; it is also good for the environment.", "example_zh": "用公共交通唔單止方便，仲對環境有好處。" },
+        { "id": "fare", "word": "fare", "ipa": "/feə/", "pos": "名詞", "zh": "車費、票價", "example": "The government should continue to improve the network and allow citizens to enjoy cheaper fares.", "example_zh": "政府應該繼續改善交通網絡，同埋容許市民享受平啲嘅車費。", "accept": [ "fares" ] },
+        { "id": "elderly", "word": "elderly", "ipa": "/ˈeldəli/", "pos": "形容詞", "zh": "年長嘅、長者嘅", "example": "We need to keep giving seats to elderly passengers and avoid eating or drinking on the MTR.", "example_zh": "我哋要繼續畀位畀長者乘客，同埋避免喺港鐵食嘢或者飲嘢。" }
+      ]
     }
   ]
 }
