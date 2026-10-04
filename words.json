@@ -97,6 +97,24 @@
         { "id": "fare", "word": "fare", "ipa": "/feə/", "pos": "名詞", "zh": "車費、票價", "example": "The government should continue to improve the network and allow citizens to enjoy cheaper fares.", "example_zh": "政府應該繼續改善交通網絡，同埋容許市民享受平啲嘅車費。", "accept": [ "fares" ] },
         { "id": "elderly", "word": "elderly", "ipa": "/ˈeldəli/", "pos": "形容詞", "zh": "年長嘅、長者嘅", "example": "We need to keep giving seats to elderly passengers and avoid eating or drinking on the MTR.", "example_zh": "我哋要繼續畀位畀長者乘客，同埋避免喺港鐵食嘢或者飲嘢。" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-05 · Healthy Eating",
+      "added": "2026-10-05",
+      "words": [
+        { "id": "takeaway", "word": "takeaway", "ipa": "/ˈteɪkəweɪ/", "pos": "名詞／形容詞", "zh": "外賣（嘅）", "example": "As a result, they often buy takeaway meals or eat at a cha chaan teng near their office.", "example_zh": "結果，佢哋成日買外賣，或者喺公司附近嘅茶餐廳食飯。", "accept": [ "takeaway meals", "takeaways" ] },
+        { "id": "contain", "word": "contain", "ipa": "/kənˈteɪn/", "pos": "動詞", "zh": "含有、包含", "example": "Although this food is cheap and tasty, it usually contains too much oil, salt and sugar.", "example_zh": "雖然呢啲食物又平又好味，但通常含有太多油、鹽同糖。", "accept": [ "contains" ] },
+        { "id": "put-on-weight", "word": "put on weight", "ipa": "/pʊt ɒn weɪt/", "pos": "片語", "zh": "增磅、變肥", "example": "Some office workers keep putting on weight, and others develop high blood pressure.", "example_zh": "有啲上班族不停增磅，有啲就患上高血壓。", "say": "put on weight", "accept": [ "putting on weight", "gain weight" ] },
+        { "id": "blood-pressure", "word": "blood pressure", "ipa": "/ˈblʌd ˌpreʃə/", "pos": "名詞片語", "zh": "血壓", "example": "Some office workers keep putting on weight, and others develop high blood pressure.", "example_zh": "有啲上班族不停增磅，有啲就患上高血壓。", "accept": [ "high blood pressure" ] },
+        { "id": "skip", "word": "skip", "ipa": "/skɪp/", "pos": "動詞", "zh": "唔食（某一餐）、跳過", "example": "Busy people also tend to skip breakfast, making them feel tired and hungry before lunch.", "example_zh": "忙碌嘅人亦都好多時唔食早餐，令佢哋未到晏晝就覺得又攰又肚餓。" },
+        { "id": "prepare", "word": "prepare", "ipa": "/prɪˈpeə/", "pos": "動詞", "zh": "準備", "example": "One simple idea is to prepare a lunch box at home the night before.", "example_zh": "一個簡單嘅方法，就係前一晚喺屋企準備好飯盒。" },
+        { "id": "lunch-box", "word": "lunch box", "ipa": "/ˈlʌntʃ bɒks/", "pos": "名詞片語", "zh": "飯盒", "example": "One simple idea is to prepare a lunch box at home the night before.", "example_zh": "一個簡單嘅方法，就係前一晚喺屋企準備好飯盒。", "accept": [ "lunchbox" ] },
+        { "id": "wet-market", "word": "wet market", "ipa": "/ˌwet ˈmɑːkɪt/", "pos": "名詞片語", "zh": "街市（賣新鮮餸菜嘅市場）", "example": "Fresh vegetables, fish and tofu from the wet market are cheap, allowing families to cook balanced meals.", "example_zh": "街市嘅新鮮蔬菜、魚同豆腐都好平，令一家人可以煮到均衡嘅餸菜。" },
+        { "id": "balanced", "word": "balanced", "ipa": "/ˈbælənst/", "pos": "形容詞", "zh": "均衡嘅", "example": "Fresh vegetables, fish and tofu from the wet market are cheap, allowing families to cook balanced meals.", "example_zh": "街市嘅新鮮蔬菜、魚同豆腐都好平，令一家人可以煮到均衡嘅餸菜。" },
+        { "id": "fried", "word": "fried", "ipa": "/fraɪd/", "pos": "形容詞", "zh": "炸嘅、煎嘅", "example": "If you must eat out, you can ask for less rice and avoid ordering fried dishes.", "example_zh": "如果一定要出街食，你可以要少飯，同埋避免叫炸嘢。" },
+        { "id": "make-a-difference", "word": "make a difference", "ipa": "/meɪk ə ˈdɪfrəns/", "pos": "片語", "zh": "有影響、帶嚟改變", "example": "Small daily habits make a big difference to our health.", "example_zh": "日常嘅小習慣，對我哋嘅健康有好大影響。", "say": "make a difference", "accept": [ "make a big difference" ] },
+        { "id": "diet", "word": "diet", "ipa": "/ˈdaɪət/", "pos": "名詞", "zh": "飲食、日常膳食", "example": "If we take care of our diet now, we will be able to enjoy a more active life in the future.", "example_zh": "如果我哋而家好好照顧自己嘅飲食，將來就可以享受更有活力嘅生活。" }
+      ]
     }
   ]
 }
