@@ -115,6 +115,24 @@
         { "id": "make-a-difference", "word": "make a difference", "ipa": "/meɪk ə ˈdɪfrəns/", "pos": "片語", "zh": "有影響、帶嚟改變", "example": "Small daily habits make a big difference to our health.", "example_zh": "日常嘅小習慣，對我哋嘅健康有好大影響。", "say": "make a difference", "accept": [ "make a big difference" ] },
         { "id": "diet", "word": "diet", "ipa": "/ˈdaɪət/", "pos": "名詞", "zh": "飲食、日常膳食", "example": "If we take care of our diet now, we will be able to enjoy a more active life in the future.", "example_zh": "如果我哋而家好好照顧自己嘅飲食，將來就可以享受更有活力嘅生活。" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-06 · Keeping Fit",
+      "added": "2026-10-06",
+      "words": [
+        { "id": "gym", "word": "gym", "ipa": "/dʒɪm/", "pos": "名詞", "zh": "健身室、健身中心", "example": "They are busy with work and family, and they often feel too tired to go to the gym.", "example_zh": "佢哋忙住工作同家庭，成日覺得太攰，唔想去健身室。", "accept": [ "the gym" ] },
+        { "id": "regular", "word": "regular", "ipa": "/ˈreɡjələ/", "pos": "形容詞", "zh": "恆常嘅、定期嘅", "example": "However, our bodies need regular exercise even more as we get older.", "example_zh": "不過，年紀越大，我哋嘅身體其實越需要恆常運動。" },
+        { "id": "middle-aged", "word": "middle-aged", "ipa": "/ˌmɪdl ˈeɪdʒd/", "pos": "形容詞", "zh": "中年嘅", "example": "Without enough exercise, middle-aged people can easily lose muscle and gain weight.", "example_zh": "如果運動唔夠，中年人好容易流失肌肉同埋增磅。", "accept": [ "middle aged" ] },
+        { "id": "muscle", "word": "muscle", "ipa": "/ˈmʌsl/", "pos": "名詞", "zh": "肌肉", "example": "Without enough exercise, middle-aged people can easily lose muscle and gain weight.", "example_zh": "如果運動唔夠，中年人好容易流失肌肉同埋增磅。", "accept": [ "muscles" ] },
+        { "id": "back-pain", "word": "back pain", "ipa": "/ˈbæk peɪn/", "pos": "名詞片語", "zh": "背痛、腰背痛", "example": "Some also have back pain after sitting at a desk for eight hours a day.", "example_zh": "有啲人一日坐喺枱前面八個鐘，仲會腰痛背痛。", "say": "back pain" },
+        { "id": "illness", "word": "illness", "ipa": "/ˈɪlnəs/", "pos": "名詞", "zh": "疾病", "example": "Although these problems seem small at first, they may lead to serious illnesses later.", "example_zh": "雖然呢啲問題起初睇落好細，但之後可能會引致嚴重嘅疾病。", "accept": [ "illnesses" ] },
+        { "id": "keep-fit", "word": "keep fit", "ipa": "/kiːp fɪt/", "pos": "片語", "zh": "保持健康、保持體態", "example": "The good news is that keeping fit does not have to take a lot of time.", "example_zh": "好消息係，保持健康唔一定要用好多時間。", "say": "keep fit", "accept": [ "keeping fit", "stay fit" ] },
+        { "id": "sports-centre", "word": "sports centre", "ipa": "/ˈspɔːts ˌsentə/", "pos": "名詞片語", "zh": "體育館、運動中心", "example": "Many public sports centres also let people use their fitness rooms at a low price.", "example_zh": "好多公共體育館都畀市民用好平嘅價錢用健身室。", "say": "sports centre", "accept": [ "sports center", "sports centres" ] },
+        { "id": "jog", "word": "jog", "ipa": "/dʒɒɡ/", "pos": "動詞", "zh": "緩步跑、慢跑", "example": "Now I keep jogging three times a week, and I feel more energetic at work.", "example_zh": "而家我一個星期堅持跑三次，返工覺得更加精神。", "accept": [ "jogging" ] },
+        { "id": "energetic", "word": "energetic", "ipa": "/ˌenəˈdʒetɪk/", "pos": "形容詞", "zh": "精力充沛嘅、好有精神", "example": "Now I keep jogging three times a week, and I feel more energetic at work.", "example_zh": "而家我一個星期堅持跑三次，返工覺得更加精神。" },
+        { "id": "stay-active", "word": "stay active", "ipa": "/steɪ ˈæktɪv/", "pos": "片語", "zh": "保持活躍、多郁多動", "example": "In my opinion, age should not stop us from staying active.", "example_zh": "我認為，年齡唔應該阻止我哋保持活躍。", "say": "stay active", "accept": [ "staying active", "keep active" ] },
+        { "id": "fitness", "word": "fitness", "ipa": "/ˈfɪtnəs/", "pos": "名詞", "zh": "體能、健康狀態", "example": "Our fitness is a testament to the effort we make every week, not to the number on our birthday cake.", "example_zh": "我哋嘅體能，係證明我哋每個星期付出嘅努力，而唔係生日蛋糕上面嘅數字。" }
+      ]
     }
   ]
 }
