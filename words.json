@@ -133,6 +133,24 @@
         { "id": "stay-active", "word": "stay active", "ipa": "/steɪ ˈæktɪv/", "pos": "片語", "zh": "保持活躍、多郁多動", "example": "In my opinion, age should not stop us from staying active.", "example_zh": "我認為，年齡唔應該阻止我哋保持活躍。", "say": "stay active", "accept": [ "staying active", "keep active" ] },
         { "id": "fitness", "word": "fitness", "ipa": "/ˈfɪtnəs/", "pos": "名詞", "zh": "體能、健康狀態", "example": "Our fitness is a testament to the effort we make every week, not to the number on our birthday cake.", "example_zh": "我哋嘅體能，係證明我哋每個星期付出嘅努力，而唔係生日蛋糕上面嘅數字。" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-20 · Work Stress",
+      "added": "2026-10-20",
+      "words": [
+        { "id": "under-pressure", "word": "under pressure", "ipa": "/ˌʌndə ˈpreʃə/", "pos": "片語", "zh": "承受壓力、有壓力", "example": "Many Hong Kong workers feel under pressure every day.", "example_zh": "好多香港打工仔每日都覺得好大壓力。", "say": "under pressure", "accept": [ "feel under pressure", "under a lot of pressure" ] },
+        { "id": "deadline", "word": "deadline", "ipa": "/ˈdedlaɪn/", "pos": "名詞", "zh": "限期、死線", "example": "Long working hours, tight deadlines and noisy offices can all increase stress.", "example_zh": "工時長、死線緊同嘈雜嘅辦公室，都會加重壓力。", "accept": [ "deadlines" ] },
+        { "id": "mental-health", "word": "mental health", "ipa": "/ˌmentl ˈhelθ/", "pos": "名詞片語", "zh": "精神健康、心理健康", "example": "The good news is that we can take small steps to protect our mental health.", "example_zh": "好消息係，我哋可以踏出細小一步，保護自己嘅精神健康。", "say": "mental health" },
+        { "id": "survey", "word": "survey", "ipa": "/ˈsɜːveɪ/", "pos": "名詞", "zh": "調查、問卷調查", "example": "According to recent surveys, many adults have difficulty in sleeping when work worries them.", "example_zh": "根據近期調查，好多大人一擔心工作就好難瞓得着。", "accept": [ "surveys" ] },
+        { "id": "counselling", "word": "counselling", "ipa": "/ˈkaʊnsəlɪŋ/", "pos": "名詞", "zh": "輔導、心理輔導", "example": "If your company offers counselling, you should not mind asking for help.", "example_zh": "如果你公司有輔導服務，你唔應該介意開口求助。", "accept": [ "counseling" ] },
+        { "id": "workload", "word": "workload", "ipa": "/ˈwɜːkləʊd/", "pos": "名詞", "zh": "工作量", "example": "My manager let me share the workload with two teammates, making the days more manageable.", "example_zh": "我嘅上司畀我同兩個隊友一齊分擔工作量，令日子好過啲。" },
+        { "id": "manageable", "word": "manageable", "ipa": "/ˈmænɪdʒəbl/", "pos": "形容詞", "zh": "應付得嚟嘅、可以處理嘅", "example": "My manager let me share the workload with two teammates, making the days more manageable.", "example_zh": "我嘅上司畀我同兩個隊友一齊分擔工作量，令日子好過啲。" },
+        { "id": "overtime", "word": "overtime", "ipa": "/ˈəʊvətaɪm/", "pos": "名詞／副詞", "zh": "加班、超時工作", "example": "Now I prefer walking home after overtime instead of sitting on my phone, and I sleep better.", "example_zh": "而家加班後我寧願行路返屋企，而唔係坐低玩電話，瞓覺都好啲。" },
+        { "id": "trusted", "word": "trusted", "ipa": "/ˈtrʌstɪd/", "pos": "形容詞", "zh": "信得過嘅、可信賴嘅", "example": "You can also talk to a trusted colleague or family member, allowing your stress to come out in words.", "example_zh": "你亦可以同信任嘅同事或者屋企人傾吓，畀壓力用說話宣洩出嚟。" },
+        { "id": "stretch", "word": "stretch", "ipa": "/stretʃ/", "pos": "動詞", "zh": "伸展、拉筋", "example": "One useful habit is to take a short break every two hours and stretch your shoulders.", "example_zh": "一個有用嘅習慣係每隔兩小時休息吓，伸展吓膊頭。" },
+        { "id": "habit", "word": "habit", "ipa": "/ˈhæbɪt/", "pos": "名詞", "zh": "習慣", "example": "One useful habit is to take a short break every two hours and stretch your shoulders.", "example_zh": "一個有用嘅習慣係每隔兩小時休息吓，伸展吓膊頭。", "accept": [ "habits" ] },
+        { "id": "calm", "word": "calm", "ipa": "/kɑːm/", "pos": "形容詞", "zh": "平靜嘅、冷靜嘅", "example": "If we start today, we will be able to enjoy clearer thinking and calmer evenings at home.", "example_zh": "如果我哋今日就開始，就可以享受更清晰嘅思緒，同埋喺屋企更平靜嘅夜晚。", "accept": [ "calmer" ] }
+      ]
     }
   ]
 }
