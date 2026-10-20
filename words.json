@@ -151,6 +151,21 @@
         { "id": "habit", "word": "habit", "ipa": "/ˈhæbɪt/", "pos": "名詞", "zh": "習慣", "example": "One useful habit is to take a short break every two hours and stretch your shoulders.", "example_zh": "一個有用嘅習慣係每隔兩小時休息吓，伸展吓膊頭。", "accept": [ "habits" ] },
         { "id": "calm", "word": "calm", "ipa": "/kɑːm/", "pos": "形容詞", "zh": "平靜嘅、冷靜嘅", "example": "If we start today, we will be able to enjoy clearer thinking and calmer evenings at home.", "example_zh": "如果我哋今日就開始，就可以享受更清晰嘅思緒，同埋喺屋企更平靜嘅夜晚。", "accept": [ "calmer" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-21 · Smartphones Family",
+      "added": "2026-10-21",
+      "words": [
+        { "id": "scroll-through", "word": "scroll through", "ipa": "/skrəʊl θruː/", "pos": "動詞片語", "zh": "滑動瀏覽（手機／網頁）", "example": "Parents scroll through news after work, and children keep watching short videos.", "example_zh": "家長放工後滑新聞，小朋友就不停睇短片。", "say": "scroll through", "accept": [ "scroll", "scrolling through" ] },
+        { "id": "screen-time", "word": "screen time", "ipa": "/ˈskriːn taɪm/", "pos": "名詞片語", "zh": "螢幕時間、用機時間", "example": "Others avoid talking about screen time, which can make family tension grow.", "example_zh": "有啲人避免討論螢幕時間，咁樣反而會令家庭氣氛更緊張。", "say": "screen time" },
+        { "id": "device", "word": "device", "ipa": "/dɪˈvaɪs/", "pos": "名詞", "zh": "裝置、設備（手機／平板）", "example": "Some people do not put their devices away, resulting in quieter meals and less eye contact.", "example_zh": "有啲人唔收起手機，結果飯桌更靜，眼神接觸更少。", "accept": [ "devices" ] },
+        { "id": "eye-contact", "word": "eye contact", "ipa": "/ˈaɪ ˌkɒntækt/", "pos": "名詞片語", "zh": "眼神接觸、對望", "example": "Some people do not put their devices away, resulting in quieter meals and less eye contact.", "example_zh": "有啲人唔收起手機，結果飯桌更靜，眼神接觸更少。", "say": "eye contact" },
+        { "id": "tension", "word": "tension", "ipa": "/ˈtenʃn/", "pos": "名詞", "zh": "緊張氣氛、壓力", "example": "Others avoid talking about screen time, which can make family tension grow.", "example_zh": "有啲人避免討論螢幕時間，咁樣反而會令家庭氣氛更緊張。" },
+        { "id": "face-to-face", "word": "face to face", "ipa": "/ˌfeɪs tə ˈfeɪs/", "pos": "副詞片語", "zh": "面對面", "example": "Now I prefer talking face to face instead of sending quick messages all evening, and I sleep better.", "example_zh": "而家我寧願面對面傾，而唔係成晚狂發短訊，瞓覺都好啲。", "say": "face to face", "accept": [ "face-to-face", "face to face" ] },
+        { "id": "board-game", "word": "board game", "ipa": "/ˈbɔːd geɪm/", "pos": "名詞", "zh": "桌上遊戲、桌游", "example": "My sister let me keep her old board games at home, making rainy evenings more fun.", "example_zh": "家姐畀我將佢啲舊桌游擺喺屋企，令落雨嘅夜晚好玩啲。", "say": "board game", "accept": [ "board games" ] },
+        { "id": "phone-free", "word": "phone-free", "ipa": "/ˈfəʊn friː/", "pos": "形容詞", "zh": "無手機嘅、唔用電話嘅", "example": "When I tried a phone-free Sunday last month, I wanted to finish a long novel myself.", "example_zh": "上個月我試過一個無手機星期日，本來想自己睇完一本長篇小說。", "say": "phone-free", "accept": [ "phone free" ] },
+        { "id": "conversation", "word": "conversation", "ipa": "/ˌkɒnvəˈseɪʃn/", "pos": "名詞", "zh": "對話、傾偈", "example": "Even though everyone sits in the same room, real conversation becomes rare and short.", "example_zh": "即使大家都坐喺同一間房，真正傾偈反而變得罕見又短暫。", "accept": [ "conversations" ] }
+      ]
     }
   ]
 }
