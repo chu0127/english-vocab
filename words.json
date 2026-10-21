@@ -166,6 +166,24 @@
         { "id": "phone-free", "word": "phone-free", "ipa": "/ˈfəʊn friː/", "pos": "形容詞", "zh": "無手機嘅、唔用電話嘅", "example": "When I tried a phone-free Sunday last month, I wanted to finish a long novel myself.", "example_zh": "上個月我試過一個無手機星期日，本來想自己睇完一本長篇小說。", "say": "phone-free", "accept": [ "phone free" ] },
         { "id": "conversation", "word": "conversation", "ipa": "/ˌkɒnvəˈseɪʃn/", "pos": "名詞", "zh": "對話、傾偈", "example": "Even though everyone sits in the same room, real conversation becomes rare and short.", "example_zh": "即使大家都坐喺同一間房，真正傾偈反而變得罕見又短暫。", "accept": [ "conversations" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-22 · Online vs Local",
+      "added": "2026-10-22",
+      "words": [
+        { "id": "browse", "word": "browse", "ipa": "/braʊz/", "pos": "動詞", "zh": "瀏覽（網頁／貨品）", "example": "They browse products on their phones after work, and they compare prices in minutes.", "example_zh": "佢哋放工後用手機瀏覽貨品，幾分鐘就可以比較價錢。", "accept": [ "browses", "browsing", "browsed" ] },
+        { "id": "compare", "word": "compare", "ipa": "/kəmˈpeə/", "pos": "動詞", "zh": "比較", "example": "They browse products on their phones after work, and they compare prices in minutes.", "example_zh": "佢哋放工後用手機瀏覽貨品，幾分鐘就可以比較價錢。", "accept": [ "compares", "comparing", "compared" ] },
+        { "id": "tempting", "word": "tempting", "ipa": "/ˈtemptɪŋ/", "pos": "形容詞", "zh": "吸引嘅、誘人嘅", "example": "Even though local shops are nearby, online deals often look more tempting.", "example_zh": "即使附近都有本地舖頭，網上優惠好多時睇落更吸引。" },
+        { "id": "try-on", "word": "try on", "ipa": "/traɪ ɒn/", "pos": "動詞片語", "zh": "試穿（衫／鞋）", "example": "Some shoppers have not tried on clothes in a store for months, which can lead to more returns.", "example_zh": "有啲人已經好幾個月冇喺店入面試衫，咁樣反而會令退貨更多。", "say": "try on", "accept": [ "tried on", "tries on", "trying on" ] },
+        { "id": "return", "word": "return", "ipa": "/rɪˈtɜːn/", "pos": "名詞", "zh": "退貨", "example": "Some shoppers have not tried on clothes in a store for months, which can lead to more returns.", "example_zh": "有啲人已經好幾個月冇喺店入面試衫，咁樣反而會令退貨更多。", "accept": [ "returns" ] },
+        { "id": "delivery", "word": "delivery", "ipa": "/dɪˈlɪvəri/", "pos": "名詞", "zh": "送貨、配送", "example": "Others ask, \"How long does delivery take?\", and they click \"buy now\" without waiting.", "example_zh": "有啲人會問「送貨要幾耐？」，然後唔等就撳「立即購買」。" },
+        { "id": "advantage", "word": "advantage", "ipa": "/ədˈvɑːntɪdʒ/", "pos": "名詞", "zh": "優勢、好處", "example": "Local stores still offer real advantages that apps cannot fully replace.", "example_zh": "實體店仍然有 App 唔可以完全取代嘅真正優勢。", "accept": [ "advantages" ] },
+        { "id": "fabric", "word": "fabric", "ipa": "/ˈfæbrɪk/", "pos": "名詞", "zh": "布料、質地", "example": "You can touch the fabric, ask staff for advice, and take your purchase home at once.", "example_zh": "你可以親手摸布料、問職員意見，而且即刻將買咗嘅嘢帶返屋企。" },
+        { "id": "purchase", "word": "purchase", "ipa": "/ˈpɜːtʃəs/", "pos": "名詞", "zh": "購買嘅東西、購物", "example": "You can touch the fabric, ask staff for advice, and take your purchase home at once.", "example_zh": "你可以親手摸布料、問職員意見，而且即刻將買咗嘅嘢帶返屋企。", "accept": [ "purchases" ] },
+        { "id": "neighbourhood", "word": "neighbourhood", "ipa": "/ˈneɪbəhʊd/", "pos": "名詞／形容詞", "zh": "鄰里、附近社區", "example": "When you support a neighbourhood shop, you help keep the street lively.", "example_zh": "當你支持鄰里舖頭，你就幫手令條街保持熱鬧。", "say": "neighbourhood", "accept": [ "neighborhood", "neighbourhood" ] },
+        { "id": "lively", "word": "lively", "ipa": "/ˈlaɪvli/", "pos": "形容詞", "zh": "熱鬧嘅、有生氣嘅", "example": "When you support a neighbourhood shop, you help keep the street lively.", "example_zh": "當你支持鄰里舖頭，你就幫手令條街保持熱鬧。" },
+        { "id": "in-person", "word": "in person", "ipa": "/ɪn ˈpɜːsn/", "pos": "副詞片語", "zh": "親身、當面", "example": "Now I prefer mixing both methods: I research online, then I buy important items in person.", "example_zh": "而家我寧願兩種方法一齊用：先上網研究，重要嘅嘢再親身去買。", "say": "in person" }
+      ]
     }
   ]
 }
