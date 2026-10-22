@@ -184,6 +184,23 @@
         { "id": "lively", "word": "lively", "ipa": "/ˈlaɪvli/", "pos": "形容詞", "zh": "熱鬧嘅、有生氣嘅", "example": "When you support a neighbourhood shop, you help keep the street lively.", "example_zh": "當你支持鄰里舖頭，你就幫手令條街保持熱鬧。" },
         { "id": "in-person", "word": "in person", "ipa": "/ɪn ˈpɜːsn/", "pos": "副詞片語", "zh": "親身、當面", "example": "Now I prefer mixing both methods: I research online, then I buy important items in person.", "example_zh": "而家我寧願兩種方法一齊用：先上網研究，重要嘅嘢再親身去買。", "say": "in person" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-23 · Smart Budgeting",
+      "added": "2026-10-23",
+      "words": [
+        { "id": "budgeting", "word": "budgeting", "ipa": "/ˈbʌdʒɪtɪŋ/", "pos": "名詞", "zh": "做預算、理財規劃", "example": "Many Hong Kong adults want to save money, but they find budgeting difficult after a long workday.", "example_zh": "好多香港大人想儲錢，但放工後覺得整預算好難。" },
+        { "id": "stable", "word": "stable", "ipa": "/ˈsteɪbl/", "pos": "形容詞", "zh": "穩定嘅", "example": "Even though salaries look stable, small daily costs can grow quickly.", "example_zh": "即使人工睇落穩定，每日嘅細開支都可以好快累積。" },
+        { "id": "track", "word": "track", "ipa": "/træk/", "pos": "動詞", "zh": "追蹤、跟住（收入／開支）", "example": "According to money guides, a simple budget helps people track income and expenses each month.", "example_zh": "根據理財指南，一份簡單預算可以幫人每月跟住收入同開支。", "accept": [ "tracks", "tracking", "tracked" ] },
+        { "id": "expense", "word": "expense", "ipa": "/ɪkˈspens/", "pos": "名詞", "zh": "開支、費用", "example": "According to money guides, a simple budget helps people track income and expenses each month.", "example_zh": "根據理財指南，一份簡單預算可以幫人每月跟住收入同開支。", "accept": [ "expenses" ] },
+        { "id": "emergency-fund", "word": "emergency fund", "ipa": "/ɪˈmɜːdʒənsi fʌnd/", "pos": "名詞片語", "zh": "緊急備用金", "example": "Others ask, \"How long does it take to build an emergency fund?\", and they feel unsure where to start.", "example_zh": "有啲人會問「起緊急備用金要幾耐？」，又覺得唔知由邊度開始。", "say": "emergency fund", "accept": [ "emergency funds" ] },
+        { "id": "fixed-cost", "word": "fixed cost", "ipa": "/fɪkst kɒst/", "pos": "名詞片語", "zh": "固定開支", "example": "A useful habit is to list fixed costs first, such as rent, MTR fares, and phone bills.", "example_zh": "一個有用習慣係先列出固定開支，例如租金、地鐵車費同電話費。", "say": "fixed cost", "accept": [ "fixed costs" ] },
+        { "id": "impulse-buy", "word": "impulse buy", "ipa": "/ˈɪmpʌls baɪ/", "pos": "名詞片語", "zh": "衝動消費、即興購買", "example": "Then you can set a weekly limit for eating out, making impulse buys less common.", "example_zh": "然後你可以為出外食定下每星期上限，令衝動消費冇咁常見。", "say": "impulse buy", "accept": [ "impulse buys" ] },
+        { "id": "spreadsheet", "word": "spreadsheet", "ipa": "/ˈspredʃiːt/", "pos": "名詞", "zh": "試算表（Excel／Google Sheets）", "example": "My colleague made me try a simple spreadsheet instead, and now I prefer reviewing it every Sunday night.", "example_zh": "我同事迫我改用簡單試算表，而家我寧願每個星期日晚都檢查一次。", "accept": [ "spreadsheets" ] },
+        { "id": "self-discipline", "word": "self-discipline", "ipa": "/ˌself ˈdɪsəplɪn/", "pos": "名詞", "zh": "自制力、自律", "example": "In my opinion, careful budgeting is a testament to self-discipline, not only a low salary.", "example_zh": "我認為，仔細預算證明我哋有自制力，唔只係因為人工低。", "say": "self-discipline" },
+        { "id": "ignore", "word": "ignore", "ipa": "/ɪɡˈnɔː/", "pos": "動詞", "zh": "忽略、不理會", "example": "Therefore, we should not ignore small costs when we plan our monthly money.", "example_zh": "所以，我哋計劃每月開支時，唔應該忽略細數。", "accept": [ "ignores", "ignoring", "ignored" ] },
+        { "id": "balance", "word": "balance", "ipa": "/ˈbæləns/", "pos": "名詞", "zh": "（銀行）結餘、餘額", "example": "Last year I did not check my bank app for weeks, and my balance became thinner than I expected.", "example_zh": "舊年我連續幾個星期都冇睇銀行 App，戶口結餘變得比預期更薄。", "accept": [ "balances" ] }
+      ]
     }
   ]
 }
