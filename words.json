@@ -201,6 +201,24 @@
         { "id": "ignore", "word": "ignore", "ipa": "/ɪɡˈnɔː/", "pos": "動詞", "zh": "忽略、不理會", "example": "Therefore, we should not ignore small costs when we plan our monthly money.", "example_zh": "所以，我哋計劃每月開支時，唔應該忽略細數。", "accept": [ "ignores", "ignoring", "ignored" ] },
         { "id": "balance", "word": "balance", "ipa": "/ˈbæləns/", "pos": "名詞", "zh": "（銀行）結餘、餘額", "example": "Last year I did not check my bank app for weeks, and my balance became thinner than I expected.", "example_zh": "舊年我連續幾個星期都冇睇銀行 App，戶口結餘變得比預期更薄。", "accept": [ "balances" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-24 · Caring for Parents",
+      "added": "2026-10-24",
+      "words": [
+        { "id": "ageing-population", "word": "ageing population", "ipa": "/ˈeɪdʒɪŋ ˌpɒpjʊˈleɪʃn/", "pos": "名詞片語", "zh": "人口老化、老化人口", "example": "Many Hong Kong adults face an ageing population, and they feel worried about their parents' daily health needs.", "example_zh": "好多香港大人面對人口老化，覺得擔心父母日常嘅健康需要。", "say": "ageing population", "accept": [ "aging population", "ageing populations" ] },
+        { "id": "rely-on", "word": "rely on", "ipa": "/rɪˈlaɪ ɒn/", "pos": "動詞片語", "zh": "依賴、依靠", "example": "According to recent reports, more parents rely on adult children after retirement.", "example_zh": "根據近期報告，越來越多父母喺退休後依賴成年子女。", "say": "rely on", "accept": [ "relies on", "relying on", "relied on", "rely" ] },
+        { "id": "retirement", "word": "retirement", "ipa": "/rɪˈtaɪəmənt/", "pos": "名詞", "zh": "退休", "example": "According to recent reports, more parents rely on adult children after retirement.", "example_zh": "根據近期報告，越來越多父母喺退休後依賴成年子女。" },
+        { "id": "caregiver", "word": "caregiver", "ipa": "/ˈkeəɡɪvə/", "pos": "名詞", "zh": "照顧者（照顧病人／長者嘅人）", "example": "Others become full-time caregivers at home, making family routines much harder to manage.", "example_zh": "有啲人喺屋企變成全職照顧者，令家庭日常變得更難應付。", "accept": [ "caregivers", "care giver", "care-giver" ] },
+        { "id": "medical-appointment", "word": "medical appointment", "ipa": "/ˈmedɪkl əˈpɔɪntmənt/", "pos": "名詞片語", "zh": "覆診／睇醫生預約", "example": "A useful habit is to book medical appointments early and share housework with brothers or sisters.", "example_zh": "一個有用習慣係提早預約覆診，同兄弟姊妹一齊分擔家務。", "say": "medical appointment", "accept": [ "medical appointments" ] },
+        { "id": "housework", "word": "housework", "ipa": "/ˈhaʊswɜːk/", "pos": "名詞", "zh": "家務", "example": "A useful habit is to book medical appointments early and share housework with brothers or sisters.", "example_zh": "一個有用習慣係提早預約覆診，同兄弟姊妹一齊分擔家務。" },
+        { "id": "community-centre", "word": "community centre", "ipa": "/kəˈmjuːnəti ˈsentə/", "pos": "名詞片語", "zh": "社區中心", "example": "Community centres also offer activities, so older people can meet companions without feeling like a burden.", "example_zh": "社區中心亦提供活動，等長者可以見到同伴，又唔會覺得自己係負擔。", "say": "community centre", "accept": [ "community centres", "community center", "community centers" ] },
+        { "id": "companion", "word": "companion", "ipa": "/kəmˈpænjən/", "pos": "名詞", "zh": "同伴、陪伴嘅人", "example": "Community centres also offer activities, so older people can meet companions without feeling like a burden.", "example_zh": "社區中心亦提供活動，等長者可以見到同伴，又唔會覺得自己係負擔。", "accept": [ "companions" ] },
+        { "id": "burden", "word": "burden", "ipa": "/ˈbɜːdn/", "pos": "名詞", "zh": "負擔、重擔", "example": "Community centres also offer activities, so older people can meet companions without feeling like a burden.", "example_zh": "社區中心亦提供活動，等長者可以見到同伴，又唔會覺得自己係負擔。", "accept": [ "burdens" ] },
+        { "id": "responsibility", "word": "responsibility", "ipa": "/rɪˌspɒnsəˈbɪləti/", "pos": "名詞", "zh": "責任、責任感", "example": "In my opinion, supporting ageing parents is a testament to responsibility, not only money.", "example_zh": "我認為，支援年長父母證明我哋有責任感，唔只係因為錢。", "accept": [ "responsibilities" ] },
+        { "id": "loneliness", "word": "loneliness", "ipa": "/ˈləʊnlinəs/", "pos": "名詞", "zh": "孤單、寂寞", "example": "Some workers do not visit their parents every week, which can lead to loneliness.", "example_zh": "有啲打工仔唔會每個星期探望父母，咁樣反而會引致孤單。" },
+        { "id": "guilt", "word": "guilt", "ipa": "/ɡɪlt/", "pos": "名詞", "zh": "內疚、愧疚", "example": "If we start today, we will be able to enjoy closer family ties later without constant guilt.", "example_zh": "如果我哋今日就開始，之後就可以喺冇成日內疚嘅情況下享有更親密嘅家庭關係。" }
+      ]
     }
   ]
 }
