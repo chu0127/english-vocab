@@ -219,6 +219,24 @@
         { "id": "loneliness", "word": "loneliness", "ipa": "/ˈləʊnlinəs/", "pos": "名詞", "zh": "孤單、寂寞", "example": "Some workers do not visit their parents every week, which can lead to loneliness.", "example_zh": "有啲打工仔唔會每個星期探望父母，咁樣反而會引致孤單。" },
         { "id": "guilt", "word": "guilt", "ipa": "/ɡɪlt/", "pos": "名詞", "zh": "內疚、愧疚", "example": "If we start today, we will be able to enjoy closer family ties later without constant guilt.", "example_zh": "如果我哋今日就開始，之後就可以喺冇成日內疚嘅情況下享有更親密嘅家庭關係。" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-25 · Small Flats",
+      "added": "2026-10-25",
+      "words": [
+        { "id": "affordable-housing", "word": "affordable housing", "ipa": "/əˈfɔːdəbl ˈhaʊzɪŋ/", "pos": "名詞片語", "zh": "負擔得起嘅住屋、可負擔房屋", "example": "People often ask, \"How long does it take to find affordable housing in this crowded city?\"", "example_zh": "人哋成日問：「喺呢個擠迫嘅城市搵到負擔得起嘅住屋要幾耐？」", "say": "affordable housing", "accept": [ "affordable house", "affordable houses" ] },
+        { "id": "frustrated", "word": "frustrated", "ipa": "/frʌˈstreɪtɪd/", "pos": "形容詞", "zh": "感到沮喪／無奈", "example": "Many Hong Kong adults live in small flats, and they feel frustrated about the limited space for rest at home.", "example_zh": "好多香港大人住喺細單位，對屋企休息空間有限覺得好無奈。", "accept": [ "frustrate", "frustrating", "frustration" ] },
+        { "id": "tenant", "word": "tenant", "ipa": "/ˈtenənt/", "pos": "名詞", "zh": "租客", "example": "Some tenants become stressed after work, which can lead to more arguments at home.", "example_zh": "有啲租客放工後變得好繃緊，咁樣反而會引致屋企多啲爭執。", "accept": [ "tenants" ] },
+        { "id": "declutter", "word": "declutter", "ipa": "/ˌdiːˈklʌtə/", "pos": "動詞", "zh": "執嘢、清理雜物（令空間整齊）", "example": "A useful habit is to declutter cupboards regularly and prefer folding furniture that saves precious space.", "example_zh": "一個有用習慣係定時執櫃，同寧願用慳珍貴空間嘅摺疊傢俬。", "accept": [ "decluttering", "decluttered", "declutters" ] },
+        { "id": "cupboard", "word": "cupboard", "ipa": "/ˈkʌbəd/", "pos": "名詞", "zh": "櫃、碗櫃／儲物櫃", "example": "A useful habit is to declutter cupboards regularly and prefer folding furniture that saves precious space.", "example_zh": "一個有用習慣係定時執櫃，同寧願用慳珍貴空間嘅摺疊傢俬。", "accept": [ "cupboards" ] },
+        { "id": "folding-furniture", "word": "folding furniture", "ipa": "/ˈfəʊldɪŋ ˈfɜːnɪtʃə/", "pos": "名詞片語", "zh": "摺疊傢俬", "example": "A useful habit is to declutter cupboards regularly and prefer folding furniture that saves precious space.", "example_zh": "一個有用習慣係定時執櫃，同寧願用慳珍貴空間嘅摺疊傢俬。", "say": "folding furniture", "accept": [ "foldable furniture", "folding furnitures" ] },
+        { "id": "landlord", "word": "landlord", "ipa": "/ˈlændlɔːd/", "pos": "名詞", "zh": "業主、房東", "example": "Landlords let us paint the walls in light colours, allowing the room to look bigger.", "example_zh": "業主畀我哋用淺色漆牆，令房間看起來大啲。", "accept": [ "landlords", "landlady", "landladies" ] },
+        { "id": "storage-tip", "word": "storage tip", "ipa": "/ˈstɔːrɪdʒ tɪp/", "pos": "名詞片語", "zh": "收納貼士／儲物竅門", "example": "Community centres also offer practical storage tips, so residents can manage crowded flats without constant worry.", "example_zh": "社區中心亦提供實用收納貼士，等住戶可以應付擠迫單位，又唔使成日擔心。", "say": "storage tip", "accept": [ "storage tips", "storage advice" ] },
+        { "id": "wardrobe", "word": "wardrobe", "ipa": "/ˈwɔːdrəʊb/", "pos": "名詞", "zh": "衣櫃", "example": "Last year I did not organise my wardrobe for months, and the mess became worse.", "example_zh": "舊年我連續幾個月都冇執衣櫃，亂糟糟情況變得更差。", "accept": [ "wardrobes" ] },
+        { "id": "housing-pressure", "word": "housing pressure", "ipa": "/ˈhaʊzɪŋ ˈpreʃə/", "pos": "名詞片語", "zh": "住屋壓力", "example": "In my opinion, coping with housing pressure is a testament to patience, not only income.", "example_zh": "我認為，應付住屋壓力證明我哋有耐性，唔只係因為收入。", "say": "housing pressure", "accept": [ "housing pressures" ] },
+        { "id": "patience", "word": "patience", "ipa": "/ˈpeɪʃns/", "pos": "名詞", "zh": "耐性、耐心", "example": "In my opinion, coping with housing pressure is a testament to patience, not only income.", "example_zh": "我認為，應付住屋壓力證明我哋有耐性，唔只係因為收入。" },
+        { "id": "frustration", "word": "frustration", "ipa": "/frʌˈstreɪʃn/", "pos": "名詞", "zh": "沮喪、煩躁、挫敗感", "example": "If we start today, we will be able to enjoy a calmer flat later without constant frustration.", "example_zh": "如果我哋今日就開始，之後就可以喺冇成日煩躁嘅情況下享有更平靜嘅單位。" }
+      ]
     }
   ]
 }
