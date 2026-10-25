@@ -237,6 +237,24 @@
         { "id": "patience", "word": "patience", "ipa": "/ˈpeɪʃns/", "pos": "名詞", "zh": "耐性、耐心", "example": "In my opinion, coping with housing pressure is a testament to patience, not only income.", "example_zh": "我認為，應付住屋壓力證明我哋有耐性，唔只係因為收入。" },
         { "id": "frustration", "word": "frustration", "ipa": "/frʌˈstreɪʃn/", "pos": "名詞", "zh": "沮喪、煩躁、挫敗感", "example": "If we start today, we will be able to enjoy a calmer flat later without constant frustration.", "example_zh": "如果我哋今日就開始，之後就可以喺冇成日煩躁嘅情況下享有更平靜嘅單位。" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-26 · Volunteering",
+      "added": "2026-10-26",
+      "words": [
+        { "id": "volunteer", "word": "volunteer", "ipa": "/ˌvɒlənˈtɪə/", "pos": "動詞／名詞", "zh": "做義工；義工", "example": "Many Hong Kong adults volunteer at weekends, and they feel useful when they help elderly neighbours in their district.", "example_zh": "好多香港大人喺週末做義工，幫區內長者時會覺得自己好有用。", "accept": [ "volunteers", "volunteered", "volunteering" ] },
+        { "id": "community-service", "word": "community service", "ipa": "/kəˈmjuːnəti ˈsɜːvɪs/", "pos": "名詞片語", "zh": "社區服務", "example": "People often ask, \"Where can busy workers find suitable community service near their homes?\"", "example_zh": "人哋成日問：「忙碌嘅打工仔可以喺屋企附近邊度搵到合適嘅社區服務？」", "say": "community service", "accept": [ "community services" ] },
+        { "id": "food-bank", "word": "food bank", "ipa": "/ˈfuːd bæŋk/", "pos": "名詞片語", "zh": "食物銀行", "example": "Even though free time is limited, many still join local food banks every month.", "example_zh": "即使空閒時間有限，好多人仍然每月參加區內食物銀行。", "say": "food bank", "accept": [ "food banks" ] },
+        { "id": "salary", "word": "salary", "ipa": "/ˈsæləri/", "pos": "名詞", "zh": "薪金、人工", "example": "According to recent reports, volunteers do not receive a salary, but they gain real confidence from service.", "example_zh": "根據近期報告，義工唔會收人工，但佢哋會喺服務入面得到真正自信。", "accept": [ "salaries" ] },
+        { "id": "confidence", "word": "confidence", "ipa": "/ˈkɒnfɪdəns/", "pos": "名詞", "zh": "自信、信心", "example": "According to recent reports, volunteers do not receive a salary, but they gain real confidence from service.", "example_zh": "根據近期報告，義工唔會收人工，但佢哋會喺服務入面得到真正自信。" },
+        { "id": "lonely", "word": "lonely", "ipa": "/ˈləʊnli/", "pos": "形容詞", "zh": "寂寞嘅、孤單嘅", "example": "Some helpers become more patient after chatting with lonely seniors, which can improve their own daily mood.", "example_zh": "有啲幫手同寂寞長者傾完偈之後會變得更有耐性，咁樣反而可以改善自己日常心情。", "accept": [ "lonelier", "loneliest" ] },
+        { "id": "senior", "word": "senior", "ipa": "/ˈsiːniə/", "pos": "名詞", "zh": "長者、年長人士", "example": "Some helpers become more patient after chatting with lonely seniors, which can improve their own daily mood.", "example_zh": "有啲幫手同寂寞長者傾完偈之後會變得更有耐性，咁樣反而可以改善自己日常心情。", "accept": [ "seniors" ] },
+        { "id": "organise", "word": "organise", "ipa": "/ˈɔːɡənaɪz/", "pos": "動詞", "zh": "籌辦、組織", "example": "Community centres let us organise simple activities, allowing shy adults to join without pressure.", "example_zh": "社區中心畀我哋籌辦簡單活動，令怕醜嘅大人可以冇壓力咁參加。", "accept": [ "organize", "organises", "organizes", "organised", "organized", "organising", "organizing" ] },
+        { "id": "shift", "word": "shift", "ipa": "/ʃɪft/", "pos": "名詞", "zh": "更次、班次（義工／工作時段）", "example": "A useful habit is to prefer regular short shifts rather than rare long ones that drain energy fast.", "example_zh": "一個有用習慣係寧願做穩定嘅短更，唔好偶發又超長、好快耗盡精力嘅班次。", "accept": [ "shifts" ] },
+        { "id": "inexperienced", "word": "inexperienced", "ipa": "/ˌɪnɪkˈspɪəriənst/", "pos": "形容詞", "zh": "冇經驗嘅、經驗不足", "example": "Busy adults sometimes avoid helping because they fear looking inexperienced in front of others.", "example_zh": "忙碌大人有時會避免幫手，因為驚喺人前顯得冇經驗。", "accept": [ "inexperience" ] },
+        { "id": "kindness", "word": "kindness", "ipa": "/ˈkaɪndnəs/", "pos": "名詞", "zh": "善意、善心", "example": "In my opinion, helping the community is a testament to kindness, not only free time on a calendar.", "example_zh": "我認為，幫助社區證明我哋有善心，唔只係日曆上有空檔。" },
+        { "id": "caring", "word": "caring", "ipa": "/ˈkeərɪŋ/", "pos": "形容詞", "zh": "關懷別人嘅、有愛心嘅", "example": "If we start today, we will be able to possess the character of being caring later without constant doubt.", "example_zh": "如果我哋今日就開始，之後就可以具備關懷別人嘅品格，又唔使成日懷疑自己。" }
+      ]
     }
   ]
 }
