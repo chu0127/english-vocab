@@ -255,6 +255,22 @@
         { "id": "kindness", "word": "kindness", "ipa": "/ˈkaɪndnəs/", "pos": "名詞", "zh": "善意、善心", "example": "In my opinion, helping the community is a testament to kindness, not only free time on a calendar.", "example_zh": "我認為，幫助社區證明我哋有善心，唔只係日曆上有空檔。" },
         { "id": "caring", "word": "caring", "ipa": "/ˈkeərɪŋ/", "pos": "形容詞", "zh": "關懷別人嘅、有愛心嘅", "example": "If we start today, we will be able to possess the character of being caring later without constant doubt.", "example_zh": "如果我哋今日就開始，之後就可以具備關懷別人嘅品格，又唔使成日懷疑自己。" }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-27 · Plastic Waste",
+      "added": "2026-10-27",
+      "words": [
+        { "id": "refuse", "word": "refuse", "ipa": "/rɪˈfjuːz/", "pos": "動詞", "zh": "拒絕", "example": "Many Hong Kong adults refuse single-use plastic bags at wet markets, and they feel proud when they carry a reusable tote instead.", "example_zh": "好多香港大人喺街市拒絕即棄膠袋，改拎可重用布袋時會覺得自豪。", "accept": [ "refuses", "refused", "refusing" ] },
+        { "id": "single-use", "word": "single-use", "ipa": "/ˌsɪŋɡl ˈjuːs/", "pos": "形容詞", "zh": "即棄嘅、一次性嘅", "example": "Many Hong Kong adults refuse single-use plastic bags at wet markets, and they feel proud when they carry a reusable tote instead.", "example_zh": "好多香港大人喺街市拒絕即棄膠袋，改拎可重用布袋時會覺得自豪。", "say": "single-use", "accept": [ "single use" ] },
+        { "id": "reusable", "word": "reusable", "ipa": "/ˌriːˈjuːzəbl/", "pos": "形容詞", "zh": "可重用嘅", "example": "Many Hong Kong adults refuse single-use plastic bags at wet markets, and they feel proud when they carry a reusable tote instead.", "example_zh": "好多香港大人喺街市拒絕即棄膠袋，改拎可重用布袋時會覺得自豪。", "accept": [ "re-usable" ] },
+        { "id": "tote", "word": "tote", "ipa": "/təʊt/", "pos": "名詞", "zh": "布袋、手提袋", "example": "Many Hong Kong adults refuse single-use plastic bags at wet markets, and they feel proud when they carry a reusable tote instead.", "example_zh": "好多香港大人喺街市拒絕即棄膠袋，改拎可重用布袋時會覺得自豪。", "accept": [ "totes", "tote bag", "tote bags" ] },
+        { "id": "plastic-waste", "word": "plastic waste", "ipa": "/ˈplæstɪk weɪst/", "pos": "名詞片語", "zh": "塑膠廢物", "example": "People often ask, \"How can busy workers reduce plastic waste during a short lunch break?\"", "example_zh": "人哋成日問：「忙碌嘅打工仔點樣喺短暫午餐時間減少塑膠廢物？」", "say": "plastic waste", "accept": [ "plastic wastes" ] },
+        { "id": "packaging", "word": "packaging", "ipa": "/ˈpækɪdʒɪŋ/", "pos": "名詞", "zh": "包裝", "example": "Some shoppers become more careful after seeing photos of polluted beaches, causing them to refuse extra packaging.", "example_zh": "有啲消費者睇完污染沙灘相片之後會變得更小心，令佢哋拒絕多餘包裝。" },
+        { "id": "polluted", "word": "polluted", "ipa": "/pəˈluːtɪd/", "pos": "形容詞", "zh": "受污染嘅", "example": "Some shoppers become more careful after seeing photos of polluted beaches, causing them to refuse extra packaging.", "example_zh": "有啲消費者睇完污染沙灘相片之後會變得更小心，令佢哋拒絕多餘包裝。", "accept": [ "pollute", "pollutes", "polluting", "pollution" ] },
+        { "id": "refill", "word": "refill", "ipa": "/ˌriːˈfɪl/", "pos": "動詞", "zh": "再加滿、加水", "example": "Local cafes let us refill water for free, allowing office workers to avoid buying bottled drinks.", "example_zh": "本地咖啡店畀我哋免費加水，令上班族可以避免買樽裝飲品。", "accept": [ "refills", "refilled", "refilling" ] },
+        { "id": "awkward", "word": "awkward", "ipa": "/ˈɔːkwəd/", "pos": "形容詞", "zh": "尷尬嘅、不自在", "example": "Busy adults sometimes avoid planning ahead because they fear looking awkward at the counter.", "example_zh": "忙碌大人有時會避免提前計劃，因為驚喺櫃位前顯得尷尬。", "accept": [ "awkwardly", "awkwardness" ] },
+        { "id": "eco-friendly", "word": "eco-friendly", "ipa": "/ˌiːkəʊ ˈfrendli/", "pos": "形容詞", "zh": "環保嘅、對環境友善", "example": "If we start today, we will be able to possess the character of being eco-friendly later without constant guilt.", "example_zh": "如果我哋今日就開始，之後就可以具備環保嘅品格，又唔使成日內疚。", "say": "eco-friendly", "accept": [ "eco friendly", "environmentally friendly" ] }
+      ]
     }
   ]
 }
