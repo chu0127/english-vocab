@@ -271,6 +271,24 @@
         { "id": "awkward", "word": "awkward", "ipa": "/ˈɔːkwəd/", "pos": "形容詞", "zh": "尷尬嘅、不自在", "example": "Busy adults sometimes avoid planning ahead because they fear looking awkward at the counter.", "example_zh": "忙碌大人有時會避免提前計劃，因為驚喺櫃位前顯得尷尬。", "accept": [ "awkwardly", "awkwardness" ] },
         { "id": "eco-friendly", "word": "eco-friendly", "ipa": "/ˌiːkəʊ ˈfrendli/", "pos": "形容詞", "zh": "環保嘅、對環境友善", "example": "If we start today, we will be able to possess the character of being eco-friendly later without constant guilt.", "example_zh": "如果我哋今日就開始，之後就可以具備環保嘅品格，又唔使成日內疚。", "say": "eco-friendly", "accept": [ "eco friendly", "environmentally friendly" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-28 · Waste Charging",
+      "added": "2026-10-28",
+      "words": [
+        { "id": "sort", "word": "sort", "ipa": "/sɔːt/", "pos": "動詞", "zh": "分類、整理", "example": "Many Hong Kong adults sort paper and plastic at home every evening, and they feel less guilty when the recycling bin looks full.", "example_zh": "好多香港大人每日夜晚喺屋企將紙同膠分類，回收桶睇落滿晒時會覺得冇咁內疚。", "accept": [ "sorts", "sorted", "sorting" ] },
+        { "id": "waste-charging", "word": "waste charging", "ipa": "/weɪst ˈtʃɑːdʒɪŋ/", "pos": "名詞片語", "zh": "垃圾收費", "example": "People often ask, \"How long does waste charging take to change our daily habits?\"", "example_zh": "人哋成日問：「垃圾收費要幾耐先改變我哋嘅日常習慣？」", "say": "waste charging", "accept": [ "waste charge", "waste charges" ] },
+        { "id": "designated", "word": "designated", "ipa": "/ˈdezɪɡneɪtɪd/", "pos": "形容詞", "zh": "指定嘅", "example": "Even though designated bags now cost money, many still throw away leftovers without thinking carefully.", "example_zh": "即使指定袋而家要俾錢，好多人仍然唔經大腦就掉剩菜。", "accept": [ "designate", "designates", "designating" ] },
+        { "id": "leftovers", "word": "leftovers", "ipa": "/ˈleftəʊvəz/", "pos": "名詞", "zh": "剩菜、剩餘食物", "example": "Even though designated bags now cost money, many still throw away leftovers without thinking carefully.", "example_zh": "即使指定袋而家要俾錢，好多人仍然唔經大腦就掉剩菜。", "accept": [ "leftover" ] },
+        { "id": "landfill", "word": "landfill", "ipa": "/ˈlændfɪl/", "pos": "名詞", "zh": "堆填區", "example": "According to government leaflets, waste charging does not remove the need to recycle, which still protects landfills and the sea.", "example_zh": "根據政府單張，垃圾收費唔會取代回收嘅需要，回收仍然保護堆填區同大海。", "accept": [ "landfills" ] },
+        { "id": "leaflet", "word": "leaflet", "ipa": "/ˈliːflət/", "pos": "名詞", "zh": "單張、宣傳紙", "example": "According to government leaflets, waste charging does not remove the need to recycle, which still protects landfills and the sea.", "example_zh": "根據政府單張，垃圾收費唔會取代回收嘅需要，回收仍然保護堆填區同大海。", "accept": [ "leaflets" ] },
+        { "id": "weigh", "word": "weigh", "ipa": "/weɪ/", "pos": "動詞", "zh": "秤、量重量", "example": "Some neighbours become more careful after reading the new rules, causing them to weigh their rubbish bags before bedtime.", "example_zh": "有啲鄰居睇完新規則之後會變得更小心，令佢哋瞓前會秤吓垃圾袋有幾重。", "accept": [ "weighs", "weighed", "weighing" ] },
+        { "id": "recyclables", "word": "recyclables", "ipa": "/rɪˈsaɪkləblz/", "pos": "名詞", "zh": "可回收物", "example": "A useful habit is to prefer sorting recyclables rather than stuffing everything into one heavy bag.", "example_zh": "一個有用習慣係寧願將可回收物分類，唔好將所有嘢塞入同一個重袋。", "say": "recyclables", "accept": [ "recyclable" ] },
+        { "id": "stuff", "word": "stuff", "ipa": "/stʌf/", "pos": "動詞", "zh": "塞入、塞滿", "example": "A useful habit is to prefer sorting recyclables rather than stuffing everything into one heavy bag.", "example_zh": "一個有用習慣係寧願將可回收物分類，唔好將所有嘢塞入同一個重袋。", "accept": [ "stuffs", "stuffed", "stuffing" ] },
+        { "id": "flatmate", "word": "flatmate", "ipa": "/ˈflætmeɪt/", "pos": "名詞", "zh": "室友（同住單位）", "example": "My flatmate made me check the recycling calendar, and now I enjoy reducing waste without constant worry.", "example_zh": "室友迫我睇回收日曆，而家我享受減廢又唔使成日擔心。", "accept": [ "flatmates", "housemate", "housemates" ] },
+        { "id": "collection-point", "word": "collection point", "ipa": "/kəˈlekʃn pɔɪnt/", "pos": "名詞片語", "zh": "收集點", "example": "Building a recycling habit is not plain sailing, and there are real ups and downs when collection points are closed.", "example_zh": "養成回收習慣並唔係一帆風順，收集點關閉時真係有高有低。", "say": "collection point", "accept": [ "collection points" ] },
+        { "id": "civic-duty", "word": "civic duty", "ipa": "/ˌsɪvɪk ˈdjuːti/", "pos": "名詞片語", "zh": "公民責任", "example": "In my opinion, joining waste charging well is a testament to civic duty, not only a way to save money.", "example_zh": "我認為，好好配合垃圾收費證明我哋有公民責任，唔只係慳錢方法。", "say": "civic duty", "accept": [ "civic duties" ] }
+      ]
     }
   ]
 }
