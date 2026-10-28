@@ -289,6 +289,21 @@
         { "id": "collection-point", "word": "collection point", "ipa": "/kəˈlekʃn pɔɪnt/", "pos": "名詞片語", "zh": "收集點", "example": "Building a recycling habit is not plain sailing, and there are real ups and downs when collection points are closed.", "example_zh": "養成回收習慣並唔係一帆風順，收集點關閉時真係有高有低。", "say": "collection point", "accept": [ "collection points" ] },
         { "id": "civic-duty", "word": "civic duty", "ipa": "/ˌsɪvɪk ˈdjuːti/", "pos": "名詞片語", "zh": "公民責任", "example": "In my opinion, joining waste charging well is a testament to civic duty, not only a way to save money.", "example_zh": "我認為，好好配合垃圾收費證明我哋有公民責任，唔只係慳錢方法。", "say": "civic duty", "accept": [ "civic duties" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-29 · Career English",
+      "added": "2026-10-29",
+      "words": [
+        { "id": "practise", "word": "practise", "ipa": "/ˈpræktɪs/", "pos": "動詞", "zh": "練習（英式拼法）", "example": "Many Hong Kong adults practise English after dinner every weekday, and they feel more confident when a meeting starts in English.", "example_zh": "好多香港大人每個平日晚飯後都會練習英文，會議用英文開始時會覺得更有自信。", "accept": [ "practice", "practises", "practised", "practising" ] },
+        { "id": "job-interview", "word": "job interview", "ipa": "/dʒɒb ˈɪntəvjuː/", "pos": "名詞片語", "zh": "工作面試", "example": "People often ask, \"How long does it take to speak clearly in a job interview?\"", "example_zh": "人哋成日問：「要講得清楚面試英文，究竟要幾耐？」", "say": "job interview", "accept": [ "job interviews", "interview" ] },
+        { "id": "career-coach", "word": "career coach", "ipa": "/kəˈrɪə kəʊtʃ/", "pos": "名詞片語", "zh": "事業教練、職涯顧問", "example": "According to career coaches, English does not replace hard work, which still builds trust with clients and bosses.", "example_zh": "根據事業教練，英文唔會取代努力，努力仍然同客戶同老闆建立信任。", "say": "career coach", "accept": [ "career coaches", "coach" ] },
+        { "id": "client", "word": "client", "ipa": "/ˈklaɪənt/", "pos": "名詞", "zh": "客戶", "example": "According to career coaches, English does not replace hard work, which still builds trust with clients and bosses.", "example_zh": "根據事業教練，英文唔會取代努力，努力仍然同客戶同老闆建立信任。", "accept": [ "clients" ] },
+        { "id": "mentor", "word": "mentor", "ipa": "/ˈmentɔː/", "pos": "名詞", "zh": "導師、指導者", "example": "My mentor made me practise one short speech daily, and now I enjoy speaking up without constant worry.", "example_zh": "導師迫我每日練一段短講，而家我享受發言又唔使成日擔心。", "accept": [ "mentors" ] },
+        { "id": "presentation", "word": "presentation", "ipa": "/ˌpreznˈteɪʃn/", "pos": "名詞", "zh": "簡報、報告演示", "example": "Last month I did not prepare for a presentation in English, and my voice became surprisingly weak.", "example_zh": "上個月我冇準備英文簡報，聲線變得出奇咁虛。", "accept": [ "presentations" ] },
+        { "id": "ambition", "word": "ambition", "ipa": "/æmˈbɪʃn/", "pos": "名詞", "zh": "抱負、野心", "example": "In my opinion, steady English practice is a testament to ambition, not only a way to pass exams.", "example_zh": "我認為，穩定練習英文證明有抱負，唔只係考試過關方法。", "accept": [ "ambitions" ] },
+        { "id": "professional", "word": "professional", "ipa": "/prəˈfeʃənl/", "pos": "形容詞", "zh": "專業嘅", "example": "If we start today, we will be able to possess the character of being professional later without constant guilt.", "example_zh": "如果我哋今日就開始，之後就可以具備專業品格，又唔使成日內疚。", "accept": [ "professionals", "professionally" ] },
+        { "id": "speak-up", "word": "speak up", "ipa": "/spiːk ʌp/", "pos": "動詞片語", "zh": "發言、大聲講出意見", "example": "My mentor made me practise one short speech daily, and now I enjoy speaking up without constant worry.", "example_zh": "導師迫我每日練一段短講，而家我享受發言又唔使成日擔心。", "say": "speak up", "accept": [ "speaking up", "speaks up", "spoke up" ] }
+      ]
     }
   ]
 }
