@@ -304,6 +304,20 @@
         { "id": "professional", "word": "professional", "ipa": "/prəˈfeʃənl/", "pos": "形容詞", "zh": "專業嘅", "example": "If we start today, we will be able to possess the character of being professional later without constant guilt.", "example_zh": "如果我哋今日就開始，之後就可以具備專業品格，又唔使成日內疚。", "accept": [ "professionals", "professionally" ] },
         { "id": "speak-up", "word": "speak up", "ipa": "/spiːk ʌp/", "pos": "動詞片語", "zh": "發言、大聲講出意見", "example": "My mentor made me practise one short speech daily, and now I enjoy speaking up without constant worry.", "example_zh": "導師迫我每日練一段短講，而家我享受發言又唔使成日擔心。", "say": "speak up", "accept": [ "speaking up", "speaks up", "spoke up" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-30 · Interview Prep",
+      "added": "2026-10-30",
+      "words": [
+        { "id": "interview", "word": "interview", "ipa": "/ˈɪntəvjuː/", "pos": "名詞／動詞", "zh": "面試；面試（某人）", "example": "Many Hong Kong adults prepare for job interviews after dinner every weekday.", "example_zh": "好多香港成年人每個平日晚飯後都會準備工作面試。", "accept": [ "interviews", "interviewed", "interviewing" ] },
+        { "id": "candidate", "word": "candidate", "ipa": "/ˈkændɪdət/", "pos": "名詞", "zh": "應徵者；候選人", "example": "Even though nerves make some people talk too fast, good candidates still practise slow answers.", "example_zh": "即使緊張令有啲人講得太快，好嘅應徵者仍然會練習慢慢答。", "accept": [ "candidates" ] },
+        { "id": "panel", "word": "panel", "ipa": "/ˈpænl/", "pos": "名詞", "zh": "面試小組；專責小組", "example": "Last month I did not prepare for a panel interview carefully.", "example_zh": "上個月我冇認真準備一場小組面試。", "accept": [ "panels" ] },
+        { "id": "pause", "word": "pause", "ipa": "/pɔːz/", "pos": "名詞／動詞", "zh": "停頓；暫停", "example": "How long did the awkward pause take?", "example_zh": "嗰段尷尬停頓用咗幾耐？", "accept": [ "pauses", "paused", "pausing" ] },
+        { "id": "tidy", "word": "tidy", "ipa": "/ˈtaɪdi/", "pos": "形容詞", "zh": "整齊的；乾淨的", "example": "Many people say yes, because looking tidy helps them feel ready.", "example_zh": "好多人話會，因為外表整齊幫助佢哋覺得準備好。", "accept": [ "tidily", "tidiness" ] },
+        { "id": "last-minute", "word": "last-minute", "ipa": "/ˌlɑːst ˈmɪnɪt/", "pos": "形容詞", "zh": "臨急嘅；最後一刻嘅", "example": "Although traffic in Hong Kong is busy, leaving early avoids last-minute stress.", "example_zh": "雖然香港交通繁忙，早啲出門可以避免臨急臨忙嘅壓力。", "say": "last-minute", "accept": [ "last minute" ] },
+        { "id": "frightening", "word": "frightening", "ipa": "/ˈfraɪtnɪŋ/", "pos": "形容詞", "zh": "令人害怕的", "example": "When you prepare with care, you become braver, and the room feels less frightening.", "example_zh": "當你用心準備，你會變得勇敢啲，而個房間亦會顯得冇咁可怕。", "accept": [ "frighten", "frightened" ] },
+        { "id": "strength", "word": "strength", "ipa": "/streŋθ/", "pos": "名詞", "zh": "優點；長處；力量", "example": "You should prepare three strengths, one weakness, and two questions for the interviewer.", "example_zh": "你應該準備三個優點、一個缺點，同兩個問面試官嘅問題。", "accept": [ "strengths" ] }
+      ]
     }
   ]
 }
