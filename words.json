@@ -318,6 +318,24 @@
         { "id": "frightening", "word": "frightening", "ipa": "/ˈfraɪtnɪŋ/", "pos": "形容詞", "zh": "令人害怕的", "example": "When you prepare with care, you become braver, and the room feels less frightening.", "example_zh": "當你用心準備，你會變得勇敢啲，而個房間亦會顯得冇咁可怕。", "accept": [ "frighten", "frightened" ] },
         { "id": "strength", "word": "strength", "ipa": "/streŋθ/", "pos": "名詞", "zh": "優點；長處；力量", "example": "You should prepare three strengths, one weakness, and two questions for the interviewer.", "example_zh": "你應該準備三個優點、一個缺點，同兩個問面試官嘅問題。", "accept": [ "strengths" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-10-31 · Customer Service",
+      "added": "2026-10-31",
+      "words": [
+        { "id": "customer", "word": "customer", "ipa": "/ˈkʌstəmə/", "pos": "名詞", "zh": "顧客；客戶", "example": "Many Hong Kong shops train staff to greet customers with a smile every morning.", "example_zh": "好多香港舖頭每個朝早都會訓練員工用笑容招呼顧客。", "accept": [ "customers" ] },
+        { "id": "staff", "word": "staff", "ipa": "/stɑːf/", "pos": "名詞", "zh": "員工；職員（集合名詞）", "example": "Many Hong Kong shops train staff to greet customers with a smile every morning.", "example_zh": "好多香港舖頭每個朝早都會訓練員工用笑容招呼顧客。", "accept": [ "staffs" ] },
+        { "id": "queue", "word": "queue", "ipa": "/kjuː/", "pos": "名詞／動詞", "zh": "排隊；人龍", "example": "Even though long queues make some people angry, polite workers still keep listening carefully.", "example_zh": "即使長龍令有啲人發脾氣，有禮貌嘅員工仍然會仔細咁繼續聽。", "accept": [ "queues", "queued", "queuing" ] },
+        { "id": "polite", "word": "polite", "ipa": "/pəˈlaɪt/", "pos": "形容詞", "zh": "有禮貌的", "example": "Even though long queues make some people angry, polite workers still keep listening carefully.", "example_zh": "即使長龍令有啲人發脾氣，有禮貌嘅員工仍然會仔細咁繼續聽。", "accept": [ "politely", "politeness" ] },
+        { "id": "apologise", "word": "apologise", "ipa": "/əˈpɒlədʒaɪz/", "pos": "動詞", "zh": "道歉（英式拼法）", "example": "They apologise for the wait, allowing the customer to feel heard before any refund talk.", "example_zh": "佢哋會為等候道歉，令顧客喺傾退款之前已經覺得有人聽到。", "accept": [ "apologize", "apologises", "apologised", "apologising", "apology" ] },
+        { "id": "refund", "word": "refund", "ipa": "/ˈriːfʌnd/", "pos": "名詞／動詞", "zh": "退款；退錢", "example": "They apologise for the wait, allowing the customer to feel heard before any refund talk.", "example_zh": "佢哋會為等候道歉，令顧客喺傾退款之前已經覺得有人聽到。", "accept": [ "refunds", "refunded", "refunding" ] },
+        { "id": "feedback", "word": "feedback", "ipa": "/ˈfiːdbæk/", "pos": "名詞", "zh": "意見；回饋", "example": "You should thank them for the feedback and ask how you can help.", "example_zh": "你應該多謝佢哋嘅意見，再問可以點樣幫手。" },
+        { "id": "complaint", "word": "complaint", "ipa": "/kəmˈpleɪnt/", "pos": "名詞", "zh": "投訴", "example": "Last Saturday I did not handle a complaint well at a small retail counter.", "example_zh": "上個星期六我喺一間細零售櫃枱冇處理好一個投訴。", "accept": [ "complaints", "complain" ] },
+        { "id": "retail", "word": "retail", "ipa": "/ˈriːteɪl/", "pos": "名詞／形容詞", "zh": "零售；零售的", "example": "Last Saturday I did not handle a complaint well at a small retail counter.", "example_zh": "上個星期六我喺一間細零售櫃枱冇處理好一個投訴。", "accept": [ "retailing", "retailer" ] },
+        { "id": "apology", "word": "apology", "ipa": "/əˈpɒlədʒi/", "pos": "名詞", "zh": "道歉", "example": "Does a sincere apology make customers more loyal?", "example_zh": "一句誠懇道歉會唔會令顧客更忠誠？", "accept": [ "apologies" ] },
+        { "id": "sincere", "word": "sincere", "ipa": "/sɪnˈsɪə/", "pos": "形容詞", "zh": "誠懇的；真心的", "example": "Does a sincere apology make customers more loyal?", "example_zh": "一句誠懇道歉會唔會令顧客更忠誠？", "accept": [ "sincerely", "sincerity" ] },
+        { "id": "loyal", "word": "loyal", "ipa": "/ˈlɔɪəl/", "pos": "形容詞", "zh": "忠誠的；忠心的", "example": "Does a sincere apology make customers more loyal?", "example_zh": "一句誠懇道歉會唔會令顧客更忠誠？", "accept": [ "loyalty", "loyally" ] }
+      ]
     }
   ]
 }
