@@ -336,6 +336,21 @@
         { "id": "sincere", "word": "sincere", "ipa": "/sɪnˈsɪə/", "pos": "形容詞", "zh": "誠懇的；真心的", "example": "Does a sincere apology make customers more loyal?", "example_zh": "一句誠懇道歉會唔會令顧客更忠誠？", "accept": [ "sincerely", "sincerity" ] },
         { "id": "loyal", "word": "loyal", "ipa": "/ˈlɔɪəl/", "pos": "形容詞", "zh": "忠誠的；忠心的", "example": "Does a sincere apology make customers more loyal?", "example_zh": "一句誠懇道歉會唔會令顧客更忠誠？", "accept": [ "loyalty", "loyally" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-01 · Remote Work",
+      "added": "2026-11-01",
+      "words": [
+        { "id": "remote", "word": "remote", "ipa": "/rɪˈməʊt/", "pos": "形容詞", "zh": "遙距的；遙遠的", "example": "Remote work becomes a habit, and some people feel freer without a long commute.", "example_zh": "遙距工作會變成習慣，有啲人冇咗長途通勤就覺得更自由。", "accept": [ "remotely" ] },
+        { "id": "commute", "word": "commute", "ipa": "/kəˈmjuːt/", "pos": "名詞／動詞", "zh": "通勤；上下班路程", "example": "Remote work becomes a habit, and some people feel freer without a long commute.", "example_zh": "遙距工作會變成習慣，有啲人冇咗長途通勤就覺得更自由。", "accept": [ "commutes", "commuted", "commuting" ] },
+        { "id": "distraction", "word": "distraction", "ipa": "/dɪˈstrækʃn/", "pos": "名詞", "zh": "干擾；分心嘅事物", "example": "A quiet corner does not remove every distraction, but it makes deep focus easier.", "example_zh": "一個安靜角落唔會清走所有干擾，但會令深度專注容易啲。", "accept": [ "distractions", "distract", "distracting" ] },
+        { "id": "timetable", "word": "timetable", "ipa": "/ˈtaɪmteɪbl/", "pos": "名詞", "zh": "時間表", "example": "Even though neighbours chat outside, careful workers still keep following a simple timetable.", "example_zh": "即使鄰居喺外面傾偈，細心嘅打工仔仍然會繼續跟住簡單時間表。", "accept": [ "timetables" ] },
+        { "id": "mute", "word": "mute", "ipa": "/mjuːt/", "pos": "動詞／形容詞", "zh": "靜音；啞的", "example": "They mute group chats during deep work, allowing the mind to stay on one task.", "example_zh": "佢哋會喺深度工作時靜音群組聊天，令大腦可以留喺單一任務。", "accept": [ "mutes", "muted", "muting" ] },
+        { "id": "reconnect", "word": "reconnect", "ipa": "/ˌriːkəˈnekt/", "pos": "動詞", "zh": "重新連線；重新連接", "example": "You should stay calm and ask how you can reconnect.", "example_zh": "你應該保持冷靜，再問可以點樣重新連線。", "accept": [ "reconnects", "reconnected", "reconnecting", "reconnection" ] },
+        { "id": "platform", "word": "platform", "ipa": "/ˈplætfɔːm/", "pos": "名詞", "zh": "平台（網上工具／站台）", "example": "They hold them on a shared online platform after lunch.", "example_zh": "佢哋會喺食晏之後用共用網上平台開會。", "accept": [ "platforms" ] },
+        { "id": "checklist", "word": "checklist", "ipa": "/ˈtʃeklɪst/", "pos": "名詞", "zh": "核對清單；檢查表", "example": "Now I do not ignore small breaks, and I keep a short checklist nearby.", "example_zh": "而家我唔會再忽略短休，亦會喺附近放住一張短清單。", "accept": [ "checklists" ] },
+        { "id": "focus", "word": "focus", "ipa": "/ˈfəʊkəs/", "pos": "名詞／動詞", "zh": "專注；焦點", "example": "A quiet corner does not remove every distraction, but it makes deep focus easier.", "example_zh": "一個安靜角落唔會清走所有干擾，但會令深度專注容易啲。", "accept": [ "focuses", "focused", "focusing", "focussed", "focussing" ] }
+      ]
     }
   ]
 }
