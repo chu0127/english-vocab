@@ -351,6 +351,24 @@
         { "id": "checklist", "word": "checklist", "ipa": "/ˈtʃeklɪst/", "pos": "名詞", "zh": "核對清單；檢查表", "example": "Now I do not ignore small breaks, and I keep a short checklist nearby.", "example_zh": "而家我唔會再忽略短休，亦會喺附近放住一張短清單。", "accept": [ "checklists" ] },
         { "id": "focus", "word": "focus", "ipa": "/ˈfəʊkəs/", "pos": "名詞／動詞", "zh": "專注；焦點", "example": "A quiet corner does not remove every distraction, but it makes deep focus easier.", "example_zh": "一個安靜角落唔會清走所有干擾，但會令深度專注容易啲。", "accept": [ "focuses", "focused", "focusing", "focussed", "focussing" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-02 · Bay Area Travel",
+      "added": "2026-11-02",
+      "words": [
+        { "id": "border", "word": "border", "ipa": "/ˈbɔːdə/", "pos": "名詞", "zh": "邊境；關口邊界", "example": "Many Hong Kong adults cross the border into the Greater Bay Area every weekend.", "example_zh": "好多香港成年人每個週末都會過關去大灣區。", "accept": [ "borders" ] },
+        { "id": "high-speed-rail", "word": "high-speed rail", "ipa": "/ˌhaɪ spiːd ˈreɪl/", "pos": "名詞片語", "zh": "高鐵；高速鐵路", "example": "Crossing becomes a habit, and some travellers feel freer after a short high-speed rail ride.", "example_zh": "過關會變成習慣，有啲旅客搭完短程高鐵之後覺得更自在。", "say": "high-speed rail", "accept": [ "high speed rail", "high-speed railway", "HSR" ] },
+        { "id": "itinerary", "word": "itinerary", "ipa": "/aɪˈtɪnərəri/", "pos": "名詞", "zh": "行程；旅程安排", "example": "A clear itinerary does not remove every delay, but it makes the day trip smoother.", "example_zh": "清晰行程唔會清走所有延誤，但會令一日遊更順暢。", "accept": [ "itineraries" ] },
+        { "id": "checkpoint", "word": "checkpoint", "ipa": "/ˈtʃekpɔɪnt/", "pos": "名詞", "zh": "檢查站；關口", "example": "Even though queues at the checkpoint look long, careful visitors still keep checking their documents early.", "example_zh": "即使關口排隊好似好長，細心嘅旅客仍然會提早檢查證件。", "accept": [ "checkpoints" ] },
+        { "id": "ferry", "word": "ferry", "ipa": "/ˈferi/", "pos": "名詞", "zh": "渡輪；渡船", "example": "What should you do when a ferry suddenly changes its schedule?", "example_zh": "當渡輪突然改期，你應該點做？", "accept": [ "ferries" ] },
+        { "id": "transfer", "word": "transfer", "ipa": "/trænsˈfɜː/", "pos": "動詞／名詞", "zh": "轉乘；轉換交通", "example": "You should stay calm and ask how you can transfer.", "example_zh": "你應該保持冷靜，再問可以點樣轉乘。", "accept": [ "transfers", "transferred", "transferring" ] },
+        { "id": "sightseeing", "word": "sightseeing", "ipa": "/ˈsaɪtsiːɪŋ/", "pos": "名詞", "zh": "觀光；遊覽", "example": "Where do most day-trippers start their Shenzhen sightseeing?", "example_zh": "多數一日遊旅客喺邊度開始深圳觀光？", "accept": [ "sightsee", "sights" ] },
+        { "id": "clearance", "word": "clearance", "ipa": "/ˈklɪərəns/", "pos": "名詞", "zh": "過關手續；清關", "example": "They start near the border after morning clearance.", "example_zh": "佢哋會喺朝早過關之後，喺關口附近開始。", "accept": [ "clearances", "clear" ] },
+        { "id": "luggage", "word": "luggage", "ipa": "/ˈlʌɡɪdʒ/", "pos": "名詞（不可數）", "zh": "行李", "example": "I packed too much luggage, causing the transfer to take longer than planned.", "example_zh": "我行李執得太多，導致轉車用時長過預計。", "accept": [ "baggage" ] },
+        { "id": "booking", "word": "booking", "ipa": "/ˈbʊkɪŋ/", "pos": "名詞", "zh": "預訂；訂位／訂票", "example": "Does a shared booking app make Bay Area travel more convenient?", "example_zh": "共用訂票 App 會唔會令大灣區出行更方便？", "accept": [ "bookings", "book", "booked" ] },
+        { "id": "peak", "word": "peak", "ipa": "/piːk/", "pos": "形容詞／名詞", "zh": "繁忙高峰的；高峰", "example": "Although peak hours fill every carriage, early tickets avoid bigger trouble.", "example_zh": "雖然繁忙時段每卡都坐滿，提早買票可以避免更大麻煩。", "accept": [ "peaks", "peaked" ] },
+        { "id": "destination", "word": "destination", "ipa": "/ˌdestɪˈneɪʃn/", "pos": "名詞", "zh": "目的地", "example": "When you respect local rules, you become calmer, and the destination feels safer for everyone.", "example_zh": "當你尊重當地規矩，你會變得平靜啲，目的地對每個人亦會顯得更安心。", "accept": [ "destinations" ] }
+      ]
     }
   ]
 }
