@@ -369,6 +369,24 @@
         { "id": "peak", "word": "peak", "ipa": "/piːk/", "pos": "形容詞／名詞", "zh": "繁忙高峰的；高峰", "example": "Although peak hours fill every carriage, early tickets avoid bigger trouble.", "example_zh": "雖然繁忙時段每卡都坐滿，提早買票可以避免更大麻煩。", "accept": [ "peaks", "peaked" ] },
         { "id": "destination", "word": "destination", "ipa": "/ˌdestɪˈneɪʃn/", "pos": "名詞", "zh": "目的地", "example": "When you respect local rules, you become calmer, and the destination feels safer for everyone.", "example_zh": "當你尊重當地規矩，你會變得平靜啲，目的地對每個人亦會顯得更安心。", "accept": [ "destinations" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-03 · Food Delivery Apps",
+      "added": "2026-11-03",
+      "words": [
+        { "id": "pressure", "word": "pressure", "ipa": "/ˈpreʃə/", "pos": "名詞", "zh": "壓力", "example": "Ordering dinner online becomes a habit, and tired workers feel less pressure when food arrives.", "example_zh": "網上叫晚餐會變成習慣，疲累嘅打工仔喺食物送到時會覺得壓力少啲。", "accept": [ "pressures" ] },
+        { "id": "courier", "word": "courier", "ipa": "/ˈkʊriə/", "pos": "名詞", "zh": "送遞員；快遞人員", "example": "What should you do when a courier cannot find your building?", "example_zh": "當送遞員搵唔到你座大廈，你應該點做？", "accept": [ "couriers" ] },
+        { "id": "fee", "word": "fee", "ipa": "/fiː/", "pos": "名詞", "zh": "費用；收費", "example": "Even though delivery fees look high on rainy nights, careful users still keep comparing prices.", "example_zh": "即使落雨晚嘅運費睇落好貴，細心嘅用戶仍然會繼續比較價錢。", "accept": [ "fees" ] },
+        { "id": "rating", "word": "rating", "ipa": "/ˈreɪtɪŋ/", "pos": "名詞", "zh": "評分；評價等級", "example": "They prefer checking restaurant ratings first, allowing them to avoid weak choices.", "example_zh": "佢哋寧願先睇餐廳評分，令自己可以避開差選擇。", "accept": [ "ratings", "rate", "rated" ] },
+        { "id": "rider", "word": "rider", "ipa": "/ˈraɪdə/", "pos": "名詞", "zh": "騎手；外賣騎手", "example": "You should stay calm and help the rider locate the entrance.", "example_zh": "你應該保持冷靜，再幫手讓騎手搵到入口。", "accept": [ "riders" ] },
+        { "id": "delay", "word": "delay", "ipa": "/dɪˈleɪ/", "pos": "名詞／動詞", "zh": "延誤；延遲", "example": "How long did the whole delay take to fix?", "example_zh": "成段延誤用咗幾耐先處理好？", "accept": [ "delays", "delayed", "delaying" ] },
+        { "id": "address", "word": "address", "ipa": "/əˈdres/", "pos": "名詞", "zh": "地址", "example": "Now I do not skip the address box, and I keep reading the map pin twice.", "example_zh": "而家我唔會再跳過地址欄，亦會將地圖針位讀兩次。", "accept": [ "addresses" ] },
+        { "id": "container", "word": "container", "ipa": "/kənˈteɪnə/", "pos": "名詞", "zh": "容器；外賣膠盒", "example": "Although plastic containers fill the rubbish bin, early planning avoids bigger waste.", "example_zh": "雖然膠盒塞滿垃圾桶，提早計劃可以避免更大浪費。", "accept": [ "containers" ] },
+        { "id": "waste", "word": "waste", "ipa": "/weɪst/", "pos": "名詞／動詞", "zh": "廢物；浪費", "example": "Although plastic containers fill the rubbish bin, early planning avoids bigger waste.", "example_zh": "雖然膠盒塞滿垃圾桶，提早計劃可以避免更大浪費。", "accept": [ "wastes", "wasted", "wasting" ] },
+        { "id": "budget", "word": "budget", "ipa": "/ˈbʌdʒɪt/", "pos": "名詞", "zh": "預算；開支計劃", "example": "When you respect your health and budget, you become calmer, and home meals feel warmer.", "example_zh": "當你尊重自己嘅健康同預算，你會變得平靜啲，家常飯亦會顯得更溫暖。", "accept": [ "budgets", "budgeting" ] },
+        { "id": "entrance", "word": "entrance", "ipa": "/ˈentrəns/", "pos": "名詞", "zh": "入口；大門口", "example": "You should stay calm and help the rider locate the entrance.", "example_zh": "你應該保持冷靜，再幫手讓騎手搵到入口。", "accept": [ "entrances" ] },
+        { "id": "locate", "word": "locate", "ipa": "/ləʊˈkeɪt/", "pos": "動詞", "zh": "找出位置；定位", "example": "You should stay calm and help the rider locate the entrance.", "example_zh": "你應該保持冷靜，再幫手讓騎手搵到入口。", "accept": [ "locates", "located", "locating", "location" ] }
+      ]
     }
   ]
 }

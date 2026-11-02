@@ -7,12 +7,12 @@ VOICE, RATE = "en-GB-SoniaNeural", "-10%"
 force = set(sys.argv[2:]) if len(sys.argv) > 1 and sys.argv[1] == "--force" else set()
 
 def compress_mp3(path):
-    """Re-encode to 24 kbps mono to keep dist/index.html under ~8–10 MB."""
+    """Re-encode to 16 kbps mono to keep dist/index.html under ~8–10 MB."""
     import subprocess, tempfile
     tmp = path.with_suffix(".tmp.mp3")
     try:
         subprocess.run(
-            ["ffmpeg", "-y", "-i", str(path), "-codec:a", "libmp3lame", "-b:a", "24k", "-ac", "1", "-ar", "24000", str(tmp)],
+            ["ffmpeg", "-y", "-i", str(path), "-codec:a", "libmp3lame", "-b:a", "16k", "-ac", "1", "-ar", "24000", str(tmp)],
             check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
         )
         if tmp.stat().st_size > 500:
