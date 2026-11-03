@@ -387,6 +387,21 @@
         { "id": "entrance", "word": "entrance", "ipa": "/ˈentrəns/", "pos": "名詞", "zh": "入口；大門口", "example": "You should stay calm and help the rider locate the entrance.", "example_zh": "你應該保持冷靜，再幫手讓騎手搵到入口。", "accept": [ "entrances" ] },
         { "id": "locate", "word": "locate", "ipa": "/ləʊˈkeɪt/", "pos": "動詞", "zh": "找出位置；定位", "example": "You should stay calm and help the rider locate the entrance.", "example_zh": "你應該保持冷靜，再幫手讓騎手搵到入口。", "accept": [ "locates", "located", "locating", "location" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-04 · Social Media",
+      "added": "2026-11-04",
+      "words": [
+        { "id": "rumour", "word": "rumour", "ipa": "/ˈruːmə/", "pos": "名詞", "zh": "謠言；傳聞", "example": "They prefer reading full news reports first, allowing them to avoid weak rumours.", "example_zh": "佢哋寧願先睇完整新聞報道，令自己可以避開薄弱謠言。", "accept": [ "rumours", "rumor", "rumors" ] },
+        { "id": "stranger", "word": "stranger", "ipa": "/ˈstreɪndʒə/", "pos": "名詞", "zh": "陌生人", "example": "What should you do when a stranger asks for private photos?", "example_zh": "當陌生人要求私人相片，你應該點做？", "accept": [ "strangers" ] },
+        { "id": "scroll", "word": "scroll", "ipa": "/skrəʊl/", "pos": "動詞／名詞", "zh": "滑動（手機畫面）；滑覽", "example": "Where do most office workers scroll during lunch breaks?", "example_zh": "多數辦公室職員喺午休時喺邊度滑手機？", "accept": [ "scrolls", "scrolled", "scrolling" ] },
+        { "id": "source", "word": "source", "ipa": "/sɔːs/", "pos": "名詞", "zh": "來源；出處", "example": "Last Sunday I did not check the source of a shocking post carefully.", "example_zh": "上個星期日我冇細心檢查一則驚人帖文嘅來源。", "accept": [ "sources" ] },
+        { "id": "misunderstanding", "word": "misunderstanding", "ipa": "/ˌmɪsʌndəˈstændɪŋ/", "pos": "名詞", "zh": "誤會；誤解", "example": "How long did the whole misunderstanding take to clear?", "example_zh": "成段誤會用咗幾耐先澄清？", "accept": [ "misunderstandings", "misunderstand", "misunderstood" ] },
+        { "id": "caption", "word": "caption", "ipa": "/ˈkæpʃn/", "pos": "名詞", "zh": "說明文字；圖片／帖文配文", "example": "Now I do not forward unknown links, and I keep reading captions twice.", "example_zh": "而家我唔會再轉發不明連結，亦會將說明文字讀兩次。", "accept": [ "captions" ] },
+        { "id": "stress", "word": "stress", "ipa": "/stres/", "pos": "名詞", "zh": "壓力；精神緊張", "example": "Although social media fills free time quickly, early limits avoid bigger stress.", "example_zh": "雖然社交媒體好快填滿空閒時間，提早設限可以避免更大壓力。", "accept": [ "stresses", "stressed", "stressful" ] },
+        { "id": "privacy", "word": "privacy", "ipa": "/ˈprɪvəsi/", "pos": "名詞", "zh": "私隱；隱私", "example": "When you respect your time and privacy, you become calmer, and real talks feel warmer.", "example_zh": "當你尊重自己嘅時間同私隱，你會變得平靜啲，真正傾偈亦會顯得更溫暖。", "accept": [ "private" ] },
+        { "id": "forward", "word": "forward", "ipa": "/ˈfɔːwəd/", "pos": "動詞", "zh": "轉發；傳送給他人", "example": "Now I do not forward unknown links, and I keep reading captions twice.", "example_zh": "而家我唔會再轉發不明連結，亦會將說明文字讀兩次。", "accept": [ "forwards", "forwarded", "forwarding" ] }
+      ]
     }
   ]
 }
