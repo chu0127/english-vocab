@@ -402,6 +402,24 @@
         { "id": "privacy", "word": "privacy", "ipa": "/ˈprɪvəsi/", "pos": "名詞", "zh": "私隱；隱私", "example": "When you respect your time and privacy, you become calmer, and real talks feel warmer.", "example_zh": "當你尊重自己嘅時間同私隱，你會變得平靜啲，真正傾偈亦會顯得更溫暖。", "accept": [ "private" ] },
         { "id": "forward", "word": "forward", "ipa": "/ˈfɔːwəd/", "pos": "動詞", "zh": "轉發；傳送給他人", "example": "Now I do not forward unknown links, and I keep reading captions twice.", "example_zh": "而家我唔會再轉發不明連結，亦會將說明文字讀兩次。", "accept": [ "forwards", "forwarded", "forwarding" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-05 · Online Scams",
+      "added": "2026-11-05",
+      "words": [
+        { "id": "scam", "word": "scam", "ipa": "/skæm/", "pos": "名詞", "zh": "騙案；騙局", "example": "Online scams become more common when busy workers feel tired after long days.", "example_zh": "當忙碌嘅打工仔做完長工感到攰，網上騙案會變得更常見。", "accept": [ "scams", "scammer", "scammers" ] },
+        { "id": "urgent", "word": "urgent", "ipa": "/ˈɜːdʒənt/", "pos": "形容詞", "zh": "緊急嘅；急切嘅", "example": "Even though a fake bank message looks urgent at first, smart users still keep checking the sender.", "example_zh": "即使一則假銀行短訊起初睇落好緊急，精明用戶仍然會繼續核對發送者。", "accept": [ "urgency", "urgently" ] },
+        { "id": "password", "word": "password", "ipa": "/ˈpɑːswɜːd/", "pos": "名詞", "zh": "密碼", "example": "What should you do when a stranger asks for your password or OTP?", "example_zh": "當陌生人要求你嘅密碼或者一次性密碼，你應該點做？", "accept": [ "passwords" ] },
+        { "id": "otp", "word": "OTP", "ipa": "/ˌəʊ tiː ˈpiː/", "pos": "名詞", "zh": "一次性密碼（One-Time Password）", "example": "What should you do when a stranger asks for your password or OTP?", "example_zh": "當陌生人要求你嘅密碼或者一次性密碼，你應該點做？", "say": "O T P", "accept": [ "otp", "one-time password", "one time password" ] },
+        { "id": "phishing", "word": "phishing", "ipa": "/ˈfɪʃɪŋ/", "pos": "名詞", "zh": "釣魚（騙取資料／密碼）", "example": "Where do most phishing links appear during busy mornings?", "example_zh": "忙碌嘅朝早，多數釣魚連結會喺邊度出現？", "accept": [ "phish", "phished" ] },
+        { "id": "verify", "word": "verify", "ipa": "/ˈverɪfaɪ/", "pos": "動詞", "zh": "核實；查證", "example": "Last Monday I did not verify a refund link carefully.", "example_zh": "上個星期一我冇細心核實一條退款連結。", "accept": [ "verifies", "verified", "verifying", "verification" ] },
+        { "id": "warning", "word": "warning", "ipa": "/ˈwɔːnɪŋ/", "pos": "名詞", "zh": "警告；警示", "example": "Now I do not trust unknown links, and I keep reading warnings twice.", "example_zh": "而家我唔會再信任不明連結，亦會將警告讀兩次。", "accept": [ "warnings", "warn", "warned" ] },
+        { "id": "victim", "word": "victim", "ipa": "/ˈvɪktɪm/", "pos": "名詞", "zh": "受害人；受害者", "example": "Does a short warning make victims more careful at night?", "example_zh": "一句簡短警告會唔會令受害人夜晚更小心？", "accept": [ "victims" ] },
+        { "id": "fraud", "word": "fraud", "ipa": "/frɔːd/", "pos": "名詞", "zh": "詐騙；欺詐", "example": "Although online fraud fills news headlines quickly, early habits avoid bigger losses.", "example_zh": "雖然網上詐騙好快佔滿新聞標題，提早養成習慣可以避免更大損失。", "accept": [ "frauds", "fraudulent" ] },
+        { "id": "suspicious", "word": "suspicious", "ipa": "/səˈspɪʃəs/", "pos": "形容詞", "zh": "可疑嘅", "example": "Friends can let juniors report suspicious calls, making weak habits stronger.", "example_zh": "朋友可以讓新手舉報可疑來電，令薄弱習慣變得更穩。", "accept": [ "suspicion", "suspiciously" ] },
+        { "id": "identity", "word": "identity", "ipa": "/aɪˈdentəti/", "pos": "名詞", "zh": "身分；身份", "example": "When you protect your accounts and identity, you become calmer, and daily life feels safer.", "example_zh": "當你保護自己嘅帳戶同身分，你會變得平靜啲，日常生活亦會顯得更安全。", "accept": [ "identities" ] },
+        { "id": "fake", "word": "fake", "ipa": "/feɪk/", "pos": "形容詞／名詞", "zh": "假嘅；偽造嘅", "example": "Even though a fake bank message looks urgent at first, smart users still keep checking the sender.", "example_zh": "即使一則假銀行短訊起初睇落好緊急，精明用戶仍然會繼續核對發送者。", "accept": [ "fakes", "faked", "faking" ] }
+      ]
     }
   ]
 }
