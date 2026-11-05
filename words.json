@@ -420,6 +420,19 @@
         { "id": "identity", "word": "identity", "ipa": "/aɪˈdentəti/", "pos": "名詞", "zh": "身分；身份", "example": "When you protect your accounts and identity, you become calmer, and daily life feels safer.", "example_zh": "當你保護自己嘅帳戶同身分，你會變得平靜啲，日常生活亦會顯得更安全。", "accept": [ "identities" ] },
         { "id": "fake", "word": "fake", "ipa": "/feɪk/", "pos": "形容詞／名詞", "zh": "假嘅；偽造嘅", "example": "Even though a fake bank message looks urgent at first, smart users still keep checking the sender.", "example_zh": "即使一則假銀行短訊起初睇落好緊急，精明用戶仍然會繼續核對發送者。", "accept": [ "fakes", "faked", "faking" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-06 · Work Inspiration",
+      "added": "2026-11-06",
+      "words": [
+        { "id": "inspire", "word": "inspire", "ipa": "/ɪnˈspaɪə/", "pos": "動詞", "zh": "啟發；鼓舞", "example": "My first supervisor still inspires me after many busy years.", "example_zh": "我第一位上司喺忙碌多年之後仍然啟發住我。", "accept": [ "inspires", "inspired", "inspiring", "inspiration" ] },
+        { "id": "supervisor", "word": "supervisor", "ipa": "/ˈsuːpəvaɪzə/", "pos": "名詞", "zh": "上司；主管", "example": "My first supervisor still inspires me after many busy years.", "example_zh": "我第一位上司喺忙碌多年之後仍然啟發住我。", "accept": [ "supervisors", "supervise", "supervised" ] },
+        { "id": "junior", "word": "junior", "ipa": "/ˈdʒuːniə/", "pos": "名詞／形容詞", "zh": "後輩；初級員工", "example": "A patient mentor does not remove every problem, but she makes juniors braver.", "example_zh": "有耐性嘅導師唔會清走每個難題，但會令後輩更勇敢。", "accept": [ "juniors" ] },
+        { "id": "confusing", "word": "confusing", "ipa": "/kənˈfjuːzɪŋ/", "pos": "形容詞", "zh": "令人混亂嘅；令人困惑嘅", "example": "What should a new staff member do when a task feels confusing?", "example_zh": "當一件工作令人覺得混亂，新同事應該點做？", "accept": [ "confuse", "confused", "confusion" ] },
+        { "id": "workplace", "word": "workplace", "ipa": "/ˈwɜːkpleɪs/", "pos": "名詞", "zh": "職場；工作場所", "example": "In short, workplace inspiration is not a loud speech without action.", "example_zh": "簡單嚟講，職場啟發唔係冇行動嘅大聲演講。", "accept": [ "workplaces" ] },
+        { "id": "meaningful", "word": "meaningful", "ipa": "/ˈmiːnɪŋfl/", "pos": "形容詞", "zh": "有意義嘅", "example": "When you meet a mentor who teaches with patience, you become calmer, and office life feels more meaningful.", "example_zh": "當你遇到一位用耐性教導嘅導師，你會變得平靜啲，辦公室生活亦會顯得更有意義。", "accept": [ "meaningfully", "meaning" ] },
+        { "id": "support", "word": "support", "ipa": "/səˈpɔːt/", "pos": "名詞／動詞", "zh": "支援；支持", "example": "Although mistakes fill the early months quickly, steady support avoids bigger failures.", "example_zh": "雖然錯誤好快佔滿初期幾個月，穩陣支援可以避免更大失敗。", "accept": [ "supports", "supported", "supporting" ] }
+      ]
     }
   ]
 }
