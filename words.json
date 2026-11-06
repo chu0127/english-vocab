@@ -433,6 +433,21 @@
         { "id": "meaningful", "word": "meaningful", "ipa": "/ˈmiːnɪŋfl/", "pos": "形容詞", "zh": "有意義嘅", "example": "When you meet a mentor who teaches with patience, you become calmer, and office life feels more meaningful.", "example_zh": "當你遇到一位用耐性教導嘅導師，你會變得平靜啲，辦公室生活亦會顯得更有意義。", "accept": [ "meaningfully", "meaning" ] },
         { "id": "support", "word": "support", "ipa": "/səˈpɔːt/", "pos": "名詞／動詞", "zh": "支援；支持", "example": "Although mistakes fill the early months quickly, steady support avoids bigger failures.", "example_zh": "雖然錯誤好快佔滿初期幾個月，穩陣支援可以避免更大失敗。", "accept": [ "supports", "supported", "supporting" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-07 · Sleep Routine",
+      "added": "2026-11-07",
+      "words": [
+        { "id": "routine", "word": "routine", "ipa": "/ruːˈtiːn/", "pos": "名詞", "zh": "作息；慣例", "example": "A steady sleep routine does not fix every problem, but it makes busy days clearer.", "example_zh": "穩定嘅睡眠作息唔會解決每個問題，但會令忙碌日子更清晰。", "accept": [ "routines" ] },
+        { "id": "scrolling", "word": "scrolling", "ipa": "/ˈskrəʊlɪŋ/", "pos": "名詞／動詞 -ing", "zh": "滑動螢幕；刷手機", "example": "People prefer scrolling on their phones first, allowing worry to stay longer.", "example_zh": "人哋寧願先喺手機刷螢幕，令擔憂停留更耐。", "say": "scrolling", "accept": [ "scroll", "scrolls", "scrolled" ] },
+        { "id": "energy", "word": "energy", "ipa": "/ˈenədʒi/", "pos": "名詞", "zh": "精力；能量", "example": "Where does real energy grow for the next busy morning?", "example_zh": "下一個忙碌朝早嘅真正精力會喺邊度成長？", "accept": [ "energies" ] },
+        { "id": "midnight", "word": "midnight", "ipa": "/ˈmɪdnaɪt/", "pos": "名詞", "zh": "午夜；半夜", "example": "Last month I did not sleep before midnight for two weeks.", "example_zh": "上個月我連續兩個禮拜都冇喺午夜前瞓。", "accept": [ "midnights" ] },
+        { "id": "bedtime", "word": "bedtime", "ipa": "/ˈbedtaɪm/", "pos": "名詞", "zh": "瞓覺時間；就寢時間", "example": "How long did it take to rebuild a healthier bedtime?", "example_zh": "重建一個更健康嘅瞓覺時間用咗幾耐？", "accept": [ "bedtimes" ] },
+        { "id": "sharper", "word": "sharper", "ipa": "/ˈʃɑːpə/", "pos": "形容詞（比較級）", "zh": "更靈活；更敏銳", "example": "It took three weeks, and I felt my mind become sharper.", "example_zh": "用咗三個禮拜，我覺得頭腦開始變得更靈活。", "accept": [ "sharp", "sharply" ] },
+        { "id": "focused", "word": "focused", "ipa": "/ˈfəʊkəst/", "pos": "形容詞", "zh": "專注嘅", "example": "Does a regular sleep routine make adults more focused at work?", "example_zh": "有規律嘅睡眠作息會唔會令成年人返工更專注？", "accept": [ "focus", "focuses", "focusing" ] },
+        { "id": "recover", "word": "recover", "ipa": "/rɪˈkʌvə/", "pos": "動詞", "zh": "恢復；復元", "example": "Adults can let their bodies recover each night, making weak mornings stronger.", "example_zh": "成年人可以讓身體每個夜晚恢復，令薄弱朝早變得更穩。", "accept": [ "recovers", "recovered", "recovering", "recovery" ] },
+        { "id": "luxury", "word": "luxury", "ipa": "/ˈlʌkʃəri/", "pos": "名詞", "zh": "奢侈品；奢華", "example": "In short, a good sleep routine is not a luxury without effort.", "example_zh": "簡單嚟講，良好睡眠作息唔係冇付出嘅奢侈品。", "accept": [ "luxuries", "luxurious" ] }
+      ]
     }
   ]
 }
