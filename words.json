@@ -448,6 +448,24 @@
         { "id": "recover", "word": "recover", "ipa": "/rɪˈkʌvə/", "pos": "動詞", "zh": "恢復；復元", "example": "Adults can let their bodies recover each night, making weak mornings stronger.", "example_zh": "成年人可以讓身體每個夜晚恢復，令薄弱朝早變得更穩。", "accept": [ "recovers", "recovered", "recovering", "recovery" ] },
         { "id": "luxury", "word": "luxury", "ipa": "/ˈlʌkʃəri/", "pos": "名詞", "zh": "奢侈品；奢華", "example": "In short, a good sleep routine is not a luxury without effort.", "example_zh": "簡單嚟講，良好睡眠作息唔係冇付出嘅奢侈品。", "accept": [ "luxuries", "luxurious" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-08 · Hiking Countryside",
+      "added": "2026-11-08",
+      "words": [
+        { "id": "hiking", "word": "hiking", "ipa": "/ˈhaɪkɪŋ/", "pos": "名詞／動詞 -ing", "zh": "行山；遠足", "example": "Many Hong Kong adults enjoy hiking on weekends when city life feels busy.", "example_zh": "好多香港成年人喺城市生活令人覺得忙碌時，會喺週末享受行山。", "say": "hiking", "accept": [ "hike", "hikes", "hiked" ] },
+        { "id": "countryside", "word": "countryside", "ipa": "/ˈkʌntrisaɪd/", "pos": "名詞", "zh": "郊野；鄉村", "example": "A quiet trail in the countryside does not cost much, but it makes tired minds fresher.", "example_zh": "郊野一條安靜山徑唔使使太多錢，但會令疲倦頭腦更清醒。", "accept": [ "countrysides" ] },
+        { "id": "trail", "word": "trail", "ipa": "/treɪl/", "pos": "名詞", "zh": "山徑；小徑", "example": "How long did it take to finish the Dragon's Back trail?", "example_zh": "行完龍脊嗰條山徑用咗幾耐？", "accept": [ "trails" ] },
+        { "id": "steep", "word": "steep", "ipa": "/stiːp/", "pos": "形容詞", "zh": "陡斜嘅；險峻嘅", "example": "Even though some paths are steep, hikers keep walking slowly and carefully.", "example_zh": "即使有啲路好斜，行山嘅人仍然繼續慢慢同小心噉行。", "accept": [ "steeper", "steepest", "steeply" ] },
+        { "id": "viewpoint", "word": "viewpoint", "ipa": "/ˈvjuːpɔɪnt/", "pos": "名詞", "zh": "觀景點；觀點", "example": "Letting yourself rest at a scenic viewpoint also helps.", "example_zh": "讓自己喺風景優美嘅觀景點休息都有幫助。", "accept": [ "viewpoints" ] },
+        { "id": "outdoors", "word": "outdoors", "ipa": "/ˌaʊtˈdɔːz/", "pos": "副詞／名詞", "zh": "戶外；室外", "example": "You should put office worries aside and try to walk outdoors.", "example_zh": "你應該暫時放下辦公室煩惱，並嘗試去戶外行。", "accept": [ "outdoor" ] },
+        { "id": "ridge", "word": "ridge", "ipa": "/rɪdʒ/", "pos": "名詞", "zh": "山脊", "example": "I nearly got lost near a ridge, causing my friends to call me.", "example_zh": "我差啲喺山脊附近迷路，導致朋友打電話畀我。", "accept": [ "ridges" ] },
+        { "id": "slope", "word": "slope", "ipa": "/sləʊp/", "pos": "名詞", "zh": "山坡；斜坡", "example": "Now I do not check my phone on steep slopes, and I keep looking at the sea view.", "example_zh": "而家我喺陡斜山坡上唔會再查手機，亦會繼續望住海景。", "accept": [ "slopes" ] },
+        { "id": "scenery", "word": "scenery", "ipa": "/ˈsiːnəri/", "pos": "名詞", "zh": "風景；景色", "example": "Many walkers say yes, because countryside scenery helps people feel ready for change.", "example_zh": "好多行山嘅人話會，因為郊野風景幫助人對改變感到準備好。", "accept": [ "sceneries" ] },
+        { "id": "scenic", "word": "scenic", "ipa": "/ˈsiːnɪk/", "pos": "形容詞", "zh": "風景優美嘅", "example": "Letting yourself rest at a scenic viewpoint also helps.", "example_zh": "讓自己喺風景優美嘅觀景點休息都有幫助。", "accept": [ "scenically" ] },
+        { "id": "pace", "word": "pace", "ipa": "/peɪs/", "pos": "名詞", "zh": "步速；節奏", "example": "When you keep a calm outdoor pace, you become fresher, and daily life feels more manageable.", "example_zh": "當你保持平靜嘅戶外步速，你會變得精神啲，日常生活亦會顯得更易應付。", "accept": [ "paces" ] },
+        { "id": "healthier", "word": "healthier", "ipa": "/ˈhelθiə/", "pos": "形容詞（比較級）", "zh": "更健康嘅", "example": "Does regular hiking make adults healthier in Hong Kong?", "example_zh": "有規律嘅行山會唔會令香港成年人更健康？", "accept": [ "healthy", "healthiest", "healthily" ] }
+      ]
     }
   ]
 }
