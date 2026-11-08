@@ -466,6 +466,24 @@
         { "id": "pace", "word": "pace", "ipa": "/peɪs/", "pos": "名詞", "zh": "步速；節奏", "example": "When you keep a calm outdoor pace, you become fresher, and daily life feels more manageable.", "example_zh": "當你保持平靜嘅戶外步速，你會變得精神啲，日常生活亦會顯得更易應付。", "accept": [ "paces" ] },
         { "id": "healthier", "word": "healthier", "ipa": "/ˈhelθiə/", "pos": "形容詞（比較級）", "zh": "更健康嘅", "example": "Does regular hiking make adults healthier in Hong Kong?", "example_zh": "有規律嘅行山會唔會令香港成年人更健康？", "accept": [ "healthy", "healthiest", "healthily" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-09 · Homework Pressure",
+      "added": "2026-11-09",
+      "words": [
+        { "id": "tutor", "word": "tutor", "ipa": "/ˈtjuːtə/", "pos": "名詞", "zh": "補習老師", "example": "After-school classes and private tutors do not always make children's learning easier.", "example_zh": "課後班同私人補習老師唔一定令小朋友嘅學習變得更容易。", "say": "tutor", "accept": [ "tutors" ] },
+        { "id": "after-school", "word": "after-school", "ipa": "/ˌɑːftəˈskuːl/", "pos": "形容詞", "zh": "課後嘅", "example": "After-school classes and private tutors do not always make children's learning easier.", "example_zh": "課後班同私人補習老師唔一定令小朋友嘅學習變得更容易。", "say": "after-school", "accept": [ "after school", "afterschool", "after-school class", "after-school classes" ] },
+        { "id": "schoolwork", "word": "schoolwork", "ipa": "/ˈskuːlwɜːk/", "pos": "名詞", "zh": "功課；學業", "example": "Children often become tired, and schoolwork starts to feel like a daily fear.", "example_zh": "小朋友好多時會變得疲倦，功課亦開始令人覺得好似每日嘅恐懼。", "accept": [ "school work", "school-work" ] },
+        { "id": "worried", "word": "worried", "ipa": "/ˈwʌrid/", "pos": "形容詞", "zh": "擔心嘅；憂慮嘅", "example": "What should a worried parent do when a child looks afraid of tests?", "example_zh": "當小朋友睇落怕測驗，擔心嘅家長應該點做？", "accept": [ "worry", "worries", "worrying" ] },
+        { "id": "learner", "word": "learner", "ipa": "/ˈlɜːnə/", "pos": "名詞", "zh": "學習者", "example": "Where does real progress grow for a young learner at home?", "example_zh": "一個年輕學習者嘅真正進步會喺屋企邊度成長？", "accept": [ "learners" ] },
+        { "id": "shame", "word": "shame", "ipa": "/ʃeɪm/", "pos": "名詞", "zh": "羞愧；羞耻", "example": "It grows in a calm home, allowing children to ask questions without shame.", "example_zh": "佢會喺一個平靜嘅屋企成長，令小朋友可以冇羞愧噉問問題。", "accept": [ "ashamed" ] },
+        { "id": "worksheet", "word": "worksheet", "ipa": "/ˈwɜːkʃiːt/", "pos": "名詞", "zh": "工作紙", "example": "Last term a colleague's daughter did not finish her worksheets before midnight.", "example_zh": "上個學期，一位同事個女冇喺午夜前完成佢啲工作紙。", "accept": [ "worksheets", "work sheet", "work sheets" ] },
+        { "id": "drill", "word": "drill", "ipa": "/drɪl/", "pos": "名詞", "zh": "操練；反覆練習", "example": "Now the family does not push extra drills every night, and they keep talking about small wins.", "example_zh": "而家呢家人唔會每晚再逼額外操練，亦會繼續傾計講啲小勝利。", "say": "drill", "accept": [ "drills" ] },
+        { "id": "constant", "word": "constant", "ipa": "/ˈkɒnstənt/", "pos": "形容詞", "zh": "持續不斷嘅；經常嘅", "example": "Many teachers say no, because constant pressure helps nobody feel ready for real understanding.", "example_zh": "好多老師話唔會，因為持續壓力幫唔到任何人對真正理解感到準備好。", "accept": [ "constantly" ] },
+        { "id": "argument", "word": "argument", "ipa": "/ˈɑːɡjumənt/", "pos": "名詞", "zh": "爭執；爭論", "example": "Although exam results still matter, being patient avoids bigger family arguments.", "example_zh": "雖然考試成績仍然重要，保持有耐心可以避免更大嘅家庭爭執。", "accept": [ "arguments" ] },
+        { "id": "parenting", "word": "parenting", "ipa": "/ˈpeərəntɪŋ/", "pos": "名詞", "zh": "教養子女；育兒", "example": "In short, parenting under homework pressure is not a race without kindness.", "example_zh": "簡單嚟講，喺功課壓力之下教養子女唔係一場冇善意嘅競賽。", "accept": [ "parent", "parents" ] },
+        { "id": "fear", "word": "fear", "ipa": "/fɪə/", "pos": "名詞", "zh": "恐懼；害怕", "example": "Adults can help children learn without fear, making weak confidence stronger.", "example_zh": "成年人可以幫助小朋友喺冇恐懼之下學習，令薄弱信心變得更穩。", "accept": [ "fears", "fearful", "afraid" ] }
+      ]
     }
   ]
 }
