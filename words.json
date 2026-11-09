@@ -484,6 +484,24 @@
         { "id": "parenting", "word": "parenting", "ipa": "/ˈpeərəntɪŋ/", "pos": "名詞", "zh": "教養子女；育兒", "example": "In short, parenting under homework pressure is not a race without kindness.", "example_zh": "簡單嚟講，喺功課壓力之下教養子女唔係一場冇善意嘅競賽。", "accept": [ "parent", "parents" ] },
         { "id": "fear", "word": "fear", "ipa": "/fɪə/", "pos": "名詞", "zh": "恐懼；害怕", "example": "Adults can help children learn without fear, making weak confidence stronger.", "example_zh": "成年人可以幫助小朋友喺冇恐懼之下學習，令薄弱信心變得更穩。", "accept": [ "fears", "fearful", "afraid" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-10 · Lifelong Learning",
+      "added": "2026-11-10",
+      "words": [
+        { "id": "software", "word": "software", "ipa": "/ˈsɒftweə/", "pos": "名詞", "zh": "軟件", "example": "New software and new duties do not wait for anyone to feel ready.", "example_zh": "新軟件同新職責唔會等人覺得準備好先嚟。", "say": "software", "accept": [ "softwares" ] },
+        { "id": "anxious", "word": "anxious", "ipa": "/ˈæŋkʃəs/", "pos": "形容詞", "zh": "焦慮嘅；擔心嘅", "example": "People often become anxious, and learning starts to feel like a second job.", "example_zh": "人們好多時會變得焦慮，學習亦開始令人覺得好似第二份工。", "accept": [ "anxiety", "anxiously" ] },
+        { "id": "postpone", "word": "postpone", "ipa": "/pəˈspəʊn/", "pos": "動詞", "zh": "推遲；延期", "example": "Even though many adults want to grow, they keep postponing evening classes after work.", "example_zh": "即使好多成年人都想成長，佢哋仍然放工後繼續推遲夜校課程。", "say": "postpone", "accept": [ "postponing", "postponed", "postpones" ] },
+        { "id": "update", "word": "update", "ipa": "/ˌʌpˈdeɪt/", "pos": "動詞", "zh": "更新", "example": "Last year a colleague did not update his computer skills for a decade.", "example_zh": "舊年，一位同事十年都冇更新自己嘅電腦技能。", "accept": [ "updated", "updates", "updating" ] },
+        { "id": "decade", "word": "decade", "ipa": "/ˈdekeɪd/", "pos": "名詞", "zh": "十年", "example": "Last year a colleague did not update his computer skills for a decade.", "example_zh": "舊年，一位同事十年都冇更新自己嘅電腦技能。", "accept": [ "decades" ] },
+        { "id": "module", "word": "module", "ipa": "/ˈmɒdjuːl/", "pos": "名詞", "zh": "（課程）單元；模組", "example": "How long did it take to finish the first short online module?", "example_zh": "完成第一個短嘅網上單元用咗幾耐？", "accept": [ "modules" ] },
+        { "id": "lifelong-learning", "word": "lifelong learning", "ipa": "/ˌlaɪfˈlɒŋ ˈlɜːnɪŋ/", "pos": "名詞片語", "zh": "終身學習", "example": "Does lifelong learning really make every worker richer in Hong Kong?", "example_zh": "終身學習真係會令每個香港打工仔都更富有？", "say": "lifelong learning", "accept": [ "lifelong", "life-long learning", "life long learning" ] },
+        { "id": "trainer", "word": "trainer", "ipa": "/ˈtreɪnə/", "pos": "名詞", "zh": "培訓導師；教練", "example": "Many trainers say no, because one short course does not solve every problem.", "example_zh": "好多培訓導師話唔會，因為一個短期課程解決唔到每一個問題。", "accept": [ "trainers" ] },
+        { "id": "certificate", "word": "certificate", "ipa": "/səˈtɪfɪkət/", "pos": "名詞", "zh": "證書", "example": "Although certificates still matter, being curious helps people stay useful at work.", "example_zh": "雖然證書仍然重要，保持好奇可以幫助人們喺工作上保持有用。", "accept": [ "certificates" ] },
+        { "id": "curious", "word": "curious", "ipa": "/ˈkjʊəriəs/", "pos": "形容詞", "zh": "好奇嘅", "example": "Although certificates still matter, being curious helps people stay useful at work.", "example_zh": "雖然證書仍然重要，保持好奇可以幫助人們喺工作上保持有用。", "accept": [ "curiosity", "curiously" ] },
+        { "id": "teammate", "word": "teammate", "ipa": "/ˈtiːmmeɪt/", "pos": "名詞", "zh": "隊友；一齊工作嘅同事", "example": "Letting a teammate explain a simple new tool after work also helps.", "example_zh": "讓同事放工後解釋一個簡單嘅新工具都有幫助。", "accept": [ "teammates", "team-mate", "team mate" ] },
+        { "id": "capable", "word": "capable", "ipa": "/ˈkeɪpəbl/", "pos": "形容詞", "zh": "有能力嘅", "example": "When people keep a steady weekly pace, they become more capable at work.", "example_zh": "當人們保持穩定嘅每週節奏，佢哋喺工作上會變得更有能力。", "accept": [ "capability", "capabilities" ] }
+      ]
     }
   ]
 }
