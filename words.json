@@ -502,6 +502,24 @@
         { "id": "teammate", "word": "teammate", "ipa": "/ˈtiːmmeɪt/", "pos": "名詞", "zh": "隊友；一齊工作嘅同事", "example": "Letting a teammate explain a simple new tool after work also helps.", "example_zh": "讓同事放工後解釋一個簡單嘅新工具都有幫助。", "accept": [ "teammates", "team-mate", "team mate" ] },
         { "id": "capable", "word": "capable", "ipa": "/ˈkeɪpəbl/", "pos": "形容詞", "zh": "有能力嘅", "example": "When people keep a steady weekly pace, they become more capable at work.", "example_zh": "當人們保持穩定嘅每週節奏，佢哋喺工作上會變得更有能力。", "accept": [ "capability", "capabilities" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-11 · Cashless Payment",
+      "added": "2026-11-11",
+      "words": [
+        { "id": "cashless-payment", "word": "cashless payment", "ipa": "/ˌkæʃləs ˈpeɪmənt/", "pos": "名詞片語", "zh": "無現金支付；電子支付", "example": "Does cashless payment really make every shopper spend less in Hong Kong?", "example_zh": "無現金支付真係會令每個香港購物者都花得更少？", "say": "cashless payment", "accept": [ "cashless", "cash-less payment", "cash less payment" ] },
+        { "id": "tap", "word": "tap", "ipa": "/tæp/", "pos": "名詞", "zh": "（輕）拍；拍卡", "example": "A quick tap or a phone scan feels faster than counting coins.", "example_zh": "快速拍一拍或者用手機掃描，感覺快過數硬幣。", "accept": [ "taps", "tapping" ] },
+        { "id": "errand", "word": "errand", "ipa": "/ˈerənd/", "pos": "名詞", "zh": "差事；外出辦事", "example": "Even though cashless tools make errands easy, some small shops have not installed FPS yet.", "example_zh": "即使無現金工具令日常差事變得輕鬆，一啲細舖仍然未安裝轉數快。", "accept": [ "errands" ] },
+        { "id": "install", "word": "install", "ipa": "/ɪnˈstɔːl/", "pos": "動詞", "zh": "安裝", "example": "Even though cashless tools make errands easy, some small shops have not installed FPS yet.", "example_zh": "即使無現金工具令日常差事變得輕鬆，一啲細舖仍然未安裝轉數快。", "accept": [ "installed", "installs", "installing", "instal" ] },
+        { "id": "stall", "word": "stall", "ipa": "/stɔːl/", "pos": "名詞", "zh": "檔口；攤檔", "example": "What should a busy worker do when a stall does not accept FPS?", "example_zh": "當一個檔口唔接受轉數快，忙碌嘅打工仔應該點做？", "accept": [ "stalls" ] },
+        { "id": "relative", "word": "relative", "ipa": "/ˈrelətɪv/", "pos": "名詞", "zh": "親戚", "example": "Where do elderly relatives often feel most unsure about these new e-wallets?", "example_zh": "年紀大嘅親戚通常喺邊度對呢啲新電子錢包感到最唔肯定？", "accept": [ "relatives" ] },
+        { "id": "e-wallet", "word": "e-wallet", "ipa": "/ˈiːˌwɒlɪt/", "pos": "名詞", "zh": "電子錢包", "example": "Where do elderly relatives often feel most unsure about these new e-wallets?", "example_zh": "年紀大嘅親戚通常喺邊度對呢啲新電子錢包感到最唔肯定？", "say": "e-wallet", "accept": [ "e-wallets", "e wallet", "ewallet" ] },
+        { "id": "till", "word": "till", "ipa": "/tɪl/", "pos": "名詞", "zh": "收銀處；收銀機", "example": "They feel unsure at the till, allowing younger family members to help them practise.", "example_zh": "佢哋喺收銀處會感到唔肯定，令年輕嘅家人可以幫佢哋練習。", "accept": [ "tills" ] },
+        { "id": "add-value", "word": "add value", "ipa": "/æd ˈvæljuː/", "pos": "動詞片語", "zh": "（為八達通）增值", "example": "Last month my uncle did not add value before a long bus ride.", "example_zh": "上個月，我叔叔喺一段長巴士路程之前冇增值。", "say": "add value", "accept": [ "added value", "adding value", "adds value", "add-value", "top up", "top-up" ] },
+        { "id": "shopper", "word": "shopper", "ipa": "/ˈʃɒpə/", "pos": "名詞", "zh": "購物者；消費者", "example": "Does cashless payment really make every shopper spend less in Hong Kong?", "example_zh": "無現金支付真係會令每個香港購物者都花得更少？", "accept": [ "shoppers" ] },
+        { "id": "overspending", "word": "overspending", "ipa": "/ˌəʊvəˈspendɪŋ/", "pos": "名詞", "zh": "超支；花得太多", "example": "Although the habit is convenient, being careful helps people avoid overspending and scams.", "example_zh": "雖然呢個習慣好方便，保持小心可以幫助人們避免超支同騙案。", "accept": [ "overspend", "overspends", "overspent" ] },
+        { "id": "payment-alert", "word": "payment alert", "ipa": "/ˈpeɪmənt əˈlɜːt/", "pos": "名詞片語", "zh": "付款提示；付款通知", "example": "Letting an app send a payment alert after each purchase also helps.", "example_zh": "讓應用程式喺每次購物後發出付款提示都有幫助。", "say": "payment alert", "accept": [ "payment alerts", "alert", "alerts" ] }
+      ]
     }
   ]
 }
