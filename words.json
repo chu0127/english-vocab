@@ -520,6 +520,24 @@
         { "id": "overspending", "word": "overspending", "ipa": "/ˌəʊvəˈspendɪŋ/", "pos": "名詞", "zh": "超支；花得太多", "example": "Although the habit is convenient, being careful helps people avoid overspending and scams.", "example_zh": "雖然呢個習慣好方便，保持小心可以幫助人們避免超支同騙案。", "accept": [ "overspend", "overspends", "overspent" ] },
         { "id": "payment-alert", "word": "payment alert", "ipa": "/ˈpeɪmənt əˈlɜːt/", "pos": "名詞片語", "zh": "付款提示；付款通知", "example": "Letting an app send a payment alert after each purchase also helps.", "example_zh": "讓應用程式喺每次購物後發出付款提示都有幫助。", "say": "payment alert", "accept": [ "payment alerts", "alert", "alerts" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-12 · Time Management",
+      "added": "2026-11-12",
+      "words": [
+        { "id": "rushed", "word": "rushed", "ipa": "/rʌʃt/", "pos": "形容詞", "zh": "匆忙嘅；趕時間嘅", "example": "Many working adults in Hong Kong feel rushed from morning until late evening.", "example_zh": "好多香港在職成年人由朝到晚都感到好趕。", "accept": [ "rush", "rushes", "rushing" ] },
+        { "id": "chore", "word": "chore", "ipa": "/tʃɔː/", "pos": "名詞", "zh": "家務；雜務", "example": "They rush to the MTR, reply to messages, and still have chores at home.", "example_zh": "佢哋趕去搭港鐵、回覆訊息，返到屋企仲有家務要做。", "accept": [ "chores" ] },
+        { "id": "to-do-list", "word": "to-do list", "ipa": "/tə ˈduː lɪst/", "pos": "名詞片語", "zh": "待辦清單", "example": "A long to-do list often becomes a source of stress, not a helpful plan.", "example_zh": "一張長長嘅待辦清單好多時會變成壓力來源，而唔係一個有用嘅計劃。", "say": "to-do list", "accept": [ "to do list", "todo list", "to-do lists", "to do lists" ] },
+        { "id": "weekday", "word": "weekday", "ipa": "/ˈwiːkdeɪ/", "pos": "名詞", "zh": "工作日；平日", "example": "Where do most office workers waste time during a normal weekday?", "example_zh": "大多數上班族喺平常工作日通常會喺邊度浪費時間？", "accept": [ "weekdays", "week day", "week days" ] },
+        { "id": "pile-up", "word": "pile up", "ipa": "/ˌpaɪl ˈʌp/", "pos": "動詞片語", "zh": "積累；堆積", "example": "They waste minutes on their phones, causing small delays that pile up.", "example_zh": "佢哋喺手機上面浪費幾分鐘，導致細微延誤慢慢積累。", "say": "pile up", "accept": [ "piles up", "piled up", "piling up", "pile-up" ] },
+        { "id": "overdue", "word": "overdue", "ipa": "/ˌəʊvəˈdjuː/", "pos": "形容詞", "zh": "逾期嘅；過期未完成嘅", "example": "How long did it take to finish the overdue report after work?", "example_zh": "放工之後完成嗰份逾期報告用咗幾耐？", "accept": [ "over due", "over-due" ] },
+        { "id": "planner", "word": "planner", "ipa": "/ˈplænə/", "pos": "名詞", "zh": "計劃簿；行事曆", "example": "Now she does not ignore her planner, and she keeps blocking short breaks.", "example_zh": "而家佢唔會再忽略自己嘅計劃簿，亦會繼續預留短暫休息。", "accept": [ "planners" ] },
+        { "id": "panic", "word": "panic", "ipa": "/ˈpænɪk/", "pos": "名詞", "zh": "恐慌；慌亂", "example": "Although surprises still happen at work, being organised helps people avoid last-minute panic.", "example_zh": "雖然工作上仍然會有突發情況，保持有條理可以幫助人們避免臨急先慌亂。", "accept": [ "panics", "panicked", "panicking" ] },
+        { "id": "calendar", "word": "calendar", "ipa": "/ˈkælɪndə/", "pos": "名詞", "zh": "日曆；行事曆", "example": "Letting a simple calendar send a reminder before each key task also helps.", "example_zh": "讓一個簡單日曆喺每件重要任務之前發出提醒都有幫助。", "accept": [ "calendars" ] },
+        { "id": "reminder", "word": "reminder", "ipa": "/rɪˈmaɪndə/", "pos": "名詞", "zh": "提醒；提示", "example": "Letting a simple calendar send a reminder before each key task also helps.", "example_zh": "讓一個簡單日曆喺每件重要任務之前發出提醒都有幫助。", "accept": [ "reminders" ] },
+        { "id": "time-management", "word": "time management", "ipa": "/ˌtaɪm ˈmænɪdʒmənt/", "pos": "名詞片語", "zh": "時間管理", "example": "In short, time management is not a rigid system without any flexibility.", "example_zh": "簡單嚟講，時間管理並唔係一個完全冇任何彈性嘅死板系統。", "say": "time management", "accept": [ "time-management" ] },
+        { "id": "rigid", "word": "rigid", "ipa": "/ˈrɪdʒɪd/", "pos": "形容詞", "zh": "死板嘅；僵硬嘅", "example": "In short, time management is not a rigid system without any flexibility.", "example_zh": "簡單嚟講，時間管理並唔係一個完全冇任何彈性嘅死板系統。", "accept": [ "rigidly", "rigidity" ] }
+      ]
     }
   ]
 }
