@@ -538,6 +538,24 @@
         { "id": "time-management", "word": "time management", "ipa": "/ˌtaɪm ˈmænɪdʒmənt/", "pos": "名詞片語", "zh": "時間管理", "example": "In short, time management is not a rigid system without any flexibility.", "example_zh": "簡單嚟講，時間管理並唔係一個完全冇任何彈性嘅死板系統。", "say": "time management", "accept": [ "time-management" ] },
         { "id": "rigid", "word": "rigid", "ipa": "/ˈrɪdʒɪd/", "pos": "形容詞", "zh": "死板嘅；僵硬嘅", "example": "In short, time management is not a rigid system without any flexibility.", "example_zh": "簡單嚟講，時間管理並唔係一個完全冇任何彈性嘅死板系統。", "accept": [ "rigidly", "rigidity" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-13 · Electric Vehicles",
+      "added": "2026-11-13",
+      "words": [
+        { "id": "roadside", "word": "roadside", "ipa": "/ˈrəʊdsaɪd/", "pos": "形容詞／名詞", "zh": "路邊嘅；路邊", "example": "Many roadside areas in Hong Kong feel dusty during the morning rush.", "example_zh": "香港好多路邊地方喺朝早繁忙時段都令人感到好塵。", "accept": [ "road side", "road-side", "roadsides" ] },
+        { "id": "dusty", "word": "dusty", "ipa": "/ˈdʌsti/", "pos": "形容詞", "zh": "多塵嘅；滿佈灰塵嘅", "example": "Many roadside areas in Hong Kong feel dusty during the morning rush.", "example_zh": "香港好多路邊地方喺朝早繁忙時段都令人感到好塵。", "accept": [ "dust", "dustiness" ] },
+        { "id": "fumes", "word": "fumes", "ipa": "/fjuːmz/", "pos": "名詞（多數用複數）", "zh": "廢氣；濃煙", "example": "Heavy traffic fumes often become a serious problem for walkers and drivers.", "example_zh": "濃烈嘅交通廢氣好多時會成為行人同駕駛者嘅嚴重問題。", "accept": [ "fume", "traffic fumes" ] },
+        { "id": "exhaust", "word": "exhaust", "ipa": "/ɪɡˈzɔːst/", "pos": "名詞", "zh": "廢氣；排氣", "example": "Electric vehicles produce no tailpipe exhaust, making the street air feel cleaner.", "example_zh": "電動車唔會排出尾氣，令到街道空氣感覺更清新。", "accept": [ "exhausts", "tailpipe exhaust" ] },
+        { "id": "electric-vehicle", "word": "electric vehicle", "ipa": "/ɪˈlektrɪk ˈvɪəkl/", "pos": "名詞片語", "zh": "電動車", "example": "Does an electric vehicle make every Hong Kong driver feel safer about air quality?", "example_zh": "電動車會令每個香港司機都對空氣質素感到更安心？", "say": "electric vehicle", "accept": [ "electric vehicles", "EV", "EVs", "electric car", "electric cars" ] },
+        { "id": "charger", "word": "charger", "ipa": "/ˈtʃɑːdʒə/", "pos": "名詞", "zh": "充電器；充電樁", "example": "Last Saturday my neighbour did not find a free charger near his block.", "example_zh": "上星期六，我隔籬鄰舍喺自己棟廈附近搵唔到一個空置嘅充電器。", "accept": [ "chargers", "public charger", "public chargers" ] },
+        { "id": "parking-space", "word": "parking space", "ipa": "/ˈpɑːkɪŋ speɪs/", "pos": "名詞片語", "zh": "停車位；車位", "example": "What should a busy adult do if a private parking space is not available?", "example_zh": "如果冇私人車位，忙碌嘅成年人應該點做？", "say": "parking space", "accept": [ "parking spaces", "private parking space", "parking-space" ] },
+        { "id": "switch", "word": "switch", "ipa": "/swɪtʃ/", "pos": "動詞", "zh": "轉用；轉換", "example": "Even though electric taxis and buses are more common, many families have not switched yet.", "example_zh": "即使電動的士同巴士已經愈嚟愈常見，好多家庭都仲未轉用。", "accept": [ "switches", "switched", "switching" ] },
+        { "id": "car-park", "word": "car park", "ipa": "/ˈkɑː pɑːk/", "pos": "名詞片語", "zh": "停車場", "example": "They often wait at estate car parks, causing long queues after work.", "example_zh": "佢哋好多時要喺屋苑停車場等候，導致放工之後出現長龍。", "say": "car park", "accept": [ "car parks", "carpark", "carparks", "estate car park", "estate car parks" ] },
+        { "id": "attendant", "word": "attendant", "ipa": "/əˈtendənt/", "pos": "名詞", "zh": "服務員；管理員", "example": "The car park attendant let him wait, making the evening even tighter.", "example_zh": "停車場管理員讓佢等候，令個夜晚更加緊湊。", "accept": [ "attendants", "car park attendant" ] },
+        { "id": "incentive", "word": "incentive", "ipa": "/ɪnˈsentɪv/", "pos": "名詞", "zh": "優惠；激勵措施", "example": "Although the government offers incentives, being patient still helps new buyers avoid sudden stress.", "example_zh": "雖然政府有提供優惠，保持有耐性仍然可以幫助新買家避免突然嘅壓力。", "accept": [ "incentives" ] },
+        { "id": "air-quality", "word": "air quality", "ipa": "/eə ˈkwɒləti/", "pos": "名詞片語", "zh": "空氣質素", "example": "Does an electric vehicle make every Hong Kong driver feel safer about air quality?", "example_zh": "電動車會令每個香港司機都對空氣質素感到更安心？", "say": "air quality", "accept": [ "air-quality", "air qualities" ] }
+      ]
     }
   ]
 }
