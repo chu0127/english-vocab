@@ -556,6 +556,24 @@
         { "id": "incentive", "word": "incentive", "ipa": "/ɪnˈsentɪv/", "pos": "名詞", "zh": "優惠；激勵措施", "example": "Although the government offers incentives, being patient still helps new buyers avoid sudden stress.", "example_zh": "雖然政府有提供優惠，保持有耐性仍然可以幫助新買家避免突然嘅壓力。", "accept": [ "incentives" ] },
         { "id": "air-quality", "word": "air quality", "ipa": "/eə ˈkwɒləti/", "pos": "名詞片語", "zh": "空氣質素", "example": "Does an electric vehicle make every Hong Kong driver feel safer about air quality?", "example_zh": "電動車會令每個香港司機都對空氣質素感到更安心？", "say": "air quality", "accept": [ "air-quality", "air qualities" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-14 · Hong Kong Festivals",
+      "added": "2026-11-14",
+      "words": [
+        { "id": "festival", "word": "festival", "ipa": "/ˈfestɪvl/", "pos": "名詞", "zh": "節日；慶典", "example": "Many Hong Kong adults feel excited when a major festival is near.", "example_zh": "香港好多成年人喺重大節日快到嗰陣都會感到興奮。", "accept": [ "festivals" ] },
+        { "id": "tradition", "word": "tradition", "ipa": "/trəˈdɪʃn/", "pos": "名詞", "zh": "傳統", "example": "The city becomes livelier, and familiar traditions return to everyday streets.", "example_zh": "城市會變得更有生氣，熟悉嘅傳統亦會重返日常街道。", "accept": [ "traditions", "traditional" ] },
+        { "id": "reunion-dinner", "word": "reunion dinner", "ipa": "/riːˈjuːniən ˈdɪnə/", "pos": "名詞片語", "zh": "團圓飯；團年飯", "example": "Families often gather for a reunion dinner, making the holiday feel warmer.", "example_zh": "家人好多時會聚埋一齊食團圓飯，令假期感覺更溫暖。", "say": "reunion dinner", "accept": [ "reunion dinners", "reunion-dinner" ] },
+        { "id": "mid-autumn-festival", "word": "Mid-Autumn Festival", "ipa": "/ˌmɪd ˈɔːtəm ˈfestɪvl/", "pos": "名詞片語", "zh": "中秋節", "example": "Where do most adults celebrate the Mid-Autumn Festival during a normal year?", "example_zh": "大多數成年人喺平常一年通常會喺邊度慶祝中秋節？", "say": "Mid-Autumn Festival", "accept": [ "Mid Autumn Festival", "Mid-Autumn", "the Mid-Autumn Festival" ] },
+        { "id": "lantern", "word": "lantern", "ipa": "/ˈlæntən/", "pos": "名詞", "zh": "燈籠", "example": "They often walk around parks with lanterns, causing crowded but cheerful paths.", "example_zh": "佢哋好多時會攞住燈籠喺公園周圍行，導致小路變得擠擁但熱鬧開心。", "accept": [ "lanterns" ] },
+        { "id": "lunar-new-year", "word": "Lunar New Year", "ipa": "/ˈluːnə njuː ˈjɪə/", "pos": "名詞片語", "zh": "農曆新年；春節", "example": "Last Lunar New Year my cousin did not return home until the second day.", "example_zh": "舊年農曆新年，我表哥直到初二先返到屋企。", "say": "Lunar New Year", "accept": [ "lunar new year", "Chinese New Year", "CNY" ] },
+        { "id": "custom", "word": "custom", "ipa": "/ˈkʌstəm/", "pos": "名詞", "zh": "習俗；風俗", "example": "Does every traditional custom make every young adult feel equally connected?", "example_zh": "每個傳統習俗都會令每個年輕成年人都感到同樣有連結？", "accept": [ "customs" ] },
+        { "id": "ritual", "word": "ritual", "ipa": "/ˈrɪtʃuəl/", "pos": "名詞", "zh": "儀式；禮儀", "example": "Many people say no, because some old rituals are not always easy to follow.", "example_zh": "好多人都話唔會，因為有啲舊儀式並唔一定容易跟從。", "accept": [ "rituals" ] },
+        { "id": "celebration", "word": "celebration", "ipa": "/ˌselɪˈbreɪʃn/", "pos": "名詞", "zh": "慶祝活動；慶典", "example": "Although the streets are noisy, being respectful still helps neighbours enjoy the celebration.", "example_zh": "雖然街道好嘈，保持有禮仍然可以幫助鄰居享受慶祝活動。", "accept": [ "celebrations", "celebrate" ] },
+        { "id": "heritage", "word": "heritage", "ipa": "/ˈherɪtɪdʒ/", "pos": "名詞", "zh": "遺產；傳統文化", "example": "It is a living heritage which any careful resident can honour this year.", "example_zh": "佢係一種任何謹慎嘅居民今年都可以尊重同傳承嘅活遺產。", "accept": [ "heritages", "living heritage" ] },
+        { "id": "resident", "word": "resident", "ipa": "/ˈrezɪdənt/", "pos": "名詞", "zh": "居民", "example": "It is a living heritage which any careful resident can honour this year.", "example_zh": "佢係一種任何謹慎嘅居民今年都可以尊重同傳承嘅活遺產。", "accept": [ "residents" ] },
+        { "id": "honour", "word": "honour", "ipa": "/ˈɒnə/", "pos": "動詞／名詞", "zh": "尊重；向…致敬；（名）榮譽", "example": "It is a living heritage which any careful resident can honour this year.", "example_zh": "佢係一種任何謹慎嘅居民今年都可以尊重同傳承嘅活遺產。", "accept": [ "honor", "honours", "honored", "honoured", "honoring", "honouring" ] }
+      ]
     }
   ]
 }
