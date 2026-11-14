@@ -574,6 +574,24 @@
         { "id": "resident", "word": "resident", "ipa": "/ˈrezɪdənt/", "pos": "名詞", "zh": "居民", "example": "It is a living heritage which any careful resident can honour this year.", "example_zh": "佢係一種任何謹慎嘅居民今年都可以尊重同傳承嘅活遺產。", "accept": [ "residents" ] },
         { "id": "honour", "word": "honour", "ipa": "/ˈɒnə/", "pos": "動詞／名詞", "zh": "尊重；向…致敬；（名）榮譽", "example": "It is a living heritage which any careful resident can honour this year.", "example_zh": "佢係一種任何謹慎嘅居民今年都可以尊重同傳承嘅活遺產。", "accept": [ "honor", "honours", "honored", "honoured", "honoring", "honouring" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-15 · AI in Education",
+      "added": "2026-11-15",
+      "words": [
+        { "id": "hopeful", "word": "hopeful", "ipa": "/ˈhəʊpfl/", "pos": "形容詞", "zh": "抱有希望的；感到有盼頭", "example": "Many adult learners in Hong Kong feel hopeful when a new study tool appears.", "example_zh": "香港好多成人學習者喺新嘅學習工具出現嗰陣都會感到有盼頭。", "accept": [ "hope", "hopefully" ] },
+        { "id": "artificial-intelligence", "word": "artificial intelligence", "ipa": "/ˌɑːtɪˈfɪʃl ɪnˈtelɪdʒəns/", "pos": "名詞", "zh": "人工智能", "example": "Artificial intelligence becomes more common in language classes and self-study apps.", "example_zh": "人工智能喺語文課堂同自學應用程式入面變得愈嚟愈常見。", "say": "artificial intelligence", "accept": [ "AI", "A.I." ] },
+        { "id": "self-study", "word": "self-study", "ipa": "/ˌself ˈstʌdi/", "pos": "名詞", "zh": "自學", "example": "Artificial intelligence becomes more common in language classes and self-study apps.", "example_zh": "人工智能喺語文課堂同自學應用程式入面變得愈嚟愈常見。", "accept": [ "self study", "selfstudy" ] },
+        { "id": "chatbot", "word": "chatbot", "ipa": "/ˈtʃætbɒt/", "pos": "名詞", "zh": "聊天機械人；智能對話程式", "example": "Teachers often let students practise with a chatbot, making homework feel less lonely.", "example_zh": "老師好多時會讓學生用聊天機械人練習，令功課感覺冇咁孤單。", "accept": [ "chatbots", "chat bot" ] },
+        { "id": "review", "word": "review", "ipa": "/rɪˈvjuː/", "pos": "動詞", "zh": "複習；檢視", "example": "They often review notes on the MTR, allowing short trips to become study time.", "example_zh": "佢哋好多時會喺港鐵上面複習筆記，令短途行程變成溫習時間。", "accept": [ "reviews", "reviewed", "reviewing" ] },
+        { "id": "rewrite", "word": "rewrite", "ipa": "/ˌriːˈraɪt/", "pos": "動詞", "zh": "重寫", "example": "The teacher let her rewrite the draft first, making the final essay much clearer.", "example_zh": "老師讓佢先重寫初稿，令最終嘅作文清晰好多。", "accept": [ "rewrites", "rewrote", "rewritten", "rewriting" ] },
+        { "id": "revision", "word": "revision", "ipa": "/rɪˈvɪʒn/", "pos": "名詞", "zh": "修改；修訂", "example": "How long did the revision take after she received the first suggestions?", "example_zh": "當佢收到第一批建議之後，嗰次修改用咗幾耐？", "accept": [ "revisions" ] },
+        { "id": "suggestion", "word": "suggestion", "ipa": "/səˈdʒestʃən/", "pos": "名詞", "zh": "建議", "example": "How long did the revision take after she received the first suggestions?", "example_zh": "當佢收到第一批建議之後，嗰次修改用咗幾耐？", "accept": [ "suggestions" ] },
+        { "id": "organised", "word": "organised", "ipa": "/ˈɔːɡənaɪzd/", "pos": "形容詞", "zh": "有條理的", "example": "It took almost forty minutes, and she felt her plan become more organised.", "example_zh": "用咗差不多四十分鐘，佢覺得自己嘅大綱變得更有條理。", "accept": [ "organized", "organise", "organize" ] },
+        { "id": "paragraph", "word": "paragraph", "ipa": "/ˈpærəɡrɑːf/", "pos": "名詞", "zh": "段落", "example": "Now she does not start a paragraph without checking the main idea carefully.", "example_zh": "而家佢唔會唔仔細檢查中心意思就開始寫一個段落。", "accept": [ "paragraphs" ] },
+        { "id": "equally", "word": "equally", "ipa": "/ˈiːkwəli/", "pos": "副詞", "zh": "同樣地", "example": "Does every AI tool make every adult learner feel equally confident?", "example_zh": "每個人工智能工具都會令每個成人學習者都感到同樣有自信？" },
+        { "id": "shortcut", "word": "shortcut", "ipa": "/ˈʃɔːtkʌt/", "pos": "名詞", "zh": "捷徑", "example": "In short, AI is not only a shortcut without real thinking.", "example_zh": "簡單嚟講，人工智能並唔只係一條完全冇真正思考嘅捷徑。", "accept": [ "shortcuts" ] }
+      ]
     }
   ]
 }
