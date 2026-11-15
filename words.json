@@ -592,6 +592,24 @@
         { "id": "equally", "word": "equally", "ipa": "/ˈiːkwəli/", "pos": "副詞", "zh": "同樣地", "example": "Does every AI tool make every adult learner feel equally confident?", "example_zh": "每個人工智能工具都會令每個成人學習者都感到同樣有自信？" },
         { "id": "shortcut", "word": "shortcut", "ipa": "/ˈʃɔːtkʌt/", "pos": "名詞", "zh": "捷徑", "example": "In short, AI is not only a shortcut without real thinking.", "example_zh": "簡單嚟講，人工智能並唔只係一條完全冇真正思考嘅捷徑。", "accept": [ "shortcuts" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-16 · Switching Off After Work",
+      "added": "2026-11-16",
+      "words": [
+        { "id": "restful", "word": "restful", "ipa": "/ˈrestfl/", "pos": "形容詞", "zh": "令人安穩休息的；寧靜的", "example": "After forty, restful evenings become more important for health and personal time.", "example_zh": "過咗四十歲，可以好好休息嘅夜晚對健康同私人時間就變得更加重要。" },
+        { "id": "notification", "word": "notification", "ipa": "/ˌnəʊtɪfɪˈkeɪʃn/", "pos": "名詞", "zh": "（手機／應用程式）通知", "example": "Even though the workday has ended, a late notification can still interrupt the night.", "example_zh": "即使工作日已經結束，一則遲嚟嘅通知仍然可以打斷呢個夜晚。", "accept": [ "notifications" ] },
+        { "id": "interrupt", "word": "interrupt", "ipa": "/ˌɪntəˈrʌpt/", "pos": "動詞", "zh": "打斷、打擾", "example": "Even though the workday has ended, a late notification can still interrupt the night.", "example_zh": "即使工作日已經結束，一則遲嚟嘅通知仍然可以打斷呢個夜晚。", "accept": [ "interrupted", "interrupts" ] },
+        { "id": "immediately", "word": "immediately", "ipa": "/ɪˈmiːdiətli/", "pos": "副詞", "zh": "立即、即刻", "example": "A sensible worker does not need to reply immediately after leaving the office.", "example_zh": "一個明智嘅員工離開辦公室之後，唔需要即刻回覆。" },
+        { "id": "expect", "word": "expect", "ipa": "/ɪkˈspekt/", "pos": "動詞", "zh": "預期、期望", "example": "Does every colleague expect a late reply on a normal weekday evening?", "example_zh": "喺平常嘅平日夜晚，係咪每個同事都預期你夜晚都要回覆？", "accept": [ "expects", "expected" ] },
+        { "id": "switch-off", "word": "switch off", "ipa": "/ˌswɪtʃ ˈɒf/", "pos": "片語", "zh": "關掉（手機／電源）；斷線", "example": "Last Friday my neighbour did not switch off her phone until nearly eleven.", "example_zh": "上星期五，我鄰居直到將近十一點先關掉佢部手機。", "say": "switch off", "accept": [ "switch-off", "switching off", "switched off" ] },
+        { "id": "cut-off-time", "word": "cut-off time", "ipa": "/ˈkʌtɒf taɪm/", "pos": "名詞片語", "zh": "截止時間；停止處理工作的時間", "example": "A simple cut-off time can help people unwind after a long day.", "example_zh": "一個簡單嘅截止時間，可以幫助大家喺漫長一日之後放鬆落嚟。", "say": "cut-off time", "accept": [ "cutoff time", "cut off time", "cut-off", "cutoff" ] },
+        { "id": "unwind", "word": "unwind", "ipa": "/ˌʌnˈwaɪnd/", "pos": "動詞", "zh": "放鬆、鬆一口氣", "example": "A simple cut-off time can help people unwind after a long day.", "example_zh": "一個簡單嘅截止時間，可以幫助大家喺漫長一日之後放鬆落嚟。", "accept": [ "unwinds", "unwound" ] },
+        { "id": "silence", "word": "silence", "ipa": "/ˈsaɪləns/", "pos": "動詞", "zh": "將（通知）靜音；使安靜", "example": "They can silence notifications and enjoy walking home or sharing a proper dinner.", "example_zh": "佢哋可以將通知靜音，同埋享受行路返屋企，或者同人好好食一餐晚飯。", "accept": [ "silences", "silenced" ] },
+        { "id": "after-hours", "word": "after hours", "ipa": "/ˌɑːftə ˈaʊəz/", "pos": "片語", "zh": "辦公時間以外；放工之後", "example": "Although a late email may arrive, being unavailable after hours is not rude.", "example_zh": "雖然可能會有遲到嘅電郵，放工後唔在線並唔算無禮。", "say": "after hours", "accept": [ "after-hours", "afterhours" ] },
+        { "id": "boundary", "word": "boundary", "ipa": "/ˈbaʊndri/", "pos": "名詞", "zh": "界限、界線", "example": "In short, switching off after work is a useful boundary, not a lack of care.", "example_zh": "簡單嚟講，放工之後斷線係一條有用嘅界限，而唔係欠缺關心。", "accept": [ "boundaries" ] },
+        { "id": "protect", "word": "protect", "ipa": "/prəˈtekt/", "pos": "動詞", "zh": "保護", "example": "Workers who protect their evenings often feel fresher and calmer the next day.", "example_zh": "會保護自己夜晚嘅員工，第二日往往感到更有精神、更平靜。", "accept": [ "protects", "protected" ] }
+      ]
     }
   ]
 }
