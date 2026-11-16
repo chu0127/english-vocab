@@ -610,6 +610,24 @@
         { "id": "boundary", "word": "boundary", "ipa": "/ˈbaʊndri/", "pos": "名詞", "zh": "界限、界線", "example": "In short, switching off after work is a useful boundary, not a lack of care.", "example_zh": "簡單嚟講，放工之後斷線係一條有用嘅界限，而唔係欠缺關心。", "accept": [ "boundaries" ] },
         { "id": "protect", "word": "protect", "ipa": "/prəˈtekt/", "pos": "動詞", "zh": "保護", "example": "Workers who protect their evenings often feel fresher and calmer the next day.", "example_zh": "會保護自己夜晚嘅員工，第二日往往感到更有精神、更平靜。", "accept": [ "protects", "protected" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-17 · Evening Classes After Work",
+      "added": "2026-11-17",
+      "words": [
+        { "id": "evening-class", "word": "evening class", "ipa": "/ˈiːvnɪŋ klɑːs/", "pos": "名詞片語", "zh": "夜間課程；晚上上的課", "example": "Many working adults in Hong Kong attend evening classes after a long day at work.", "example_zh": "香港好多在職人士，經過漫長一日工作之後，都會去上夜間課程。", "say": "evening class", "accept": [ "evening classes", "evening-class" ] },
+        { "id": "weeknight", "word": "weeknight", "ipa": "/ˈwiːknaɪt/", "pos": "名詞／形容詞", "zh": "平日夜晚（星期一至五的晚上）", "example": "After forty, weeknight study often feels heavy, and late lessons become much harder.", "example_zh": "過咗四十歲，平日夜晚讀書往往感覺好沉重，而較遲嘅課堂就變得更加辛苦。", "accept": [ "weeknights", "week-night", "week night" ] },
+        { "id": "lecture", "word": "lecture", "ipa": "/ˈlektʃə/", "pos": "名詞", "zh": "課堂講授；講座", "example": "What should a busy adult do when a weeknight lecture starts at seven?", "example_zh": "當平日夜晚嘅課堂喺七點開始，一個忙碌嘅成年人應該點做？", "accept": [ "lectures" ] },
+        { "id": "lecturer", "word": "lecturer", "ipa": "/ˈlektʃərə/", "pos": "名詞", "zh": "講師；大學或課程的授課老師", "example": "Many honest lecturers say no, because a shorter class can still work well.", "example_zh": "好多老實嘅講師都會話唔會，因為較短嘅課堂一樣可以學得好。", "accept": [ "lecturers" ] },
+        { "id": "campus", "word": "campus", "ipa": "/ˈkæmpəs/", "pos": "名詞", "zh": "校園", "example": "How long did she take to reach the campus after leaving the office?", "example_zh": "佢離開辦公室之後，用咗幾耐先到校園？", "accept": [ "campuses" ] },
+        { "id": "packed-meal", "word": "packed meal", "ipa": "/ˌpækt ˈmiːl/", "pos": "名詞片語", "zh": "自備餐；預先裝好帶走的食物", "example": "Since that Tuesday night she has not forgotten her packed meal.", "example_zh": "自從嗰個星期二夜晚之後，佢再冇忘記過自備餐。", "say": "packed meal", "accept": [ "packed meals", "packed-meal" ] },
+        { "id": "struggle", "word": "struggle", "ipa": "/ˈstrʌɡl/", "pos": "動詞", "zh": "掙扎；費力地做", "example": "That packed schedule, which left no time for food, made her struggle to take notes.", "example_zh": "嗰個排得密密麻麻嘅時間表，冇留時間食嘢，令佢記筆記都變得好吃力。", "accept": [ "struggles", "struggled", "struggling" ] },
+        { "id": "take-notes", "word": "take notes", "ipa": "/ˌteɪk ˈnəʊts/", "pos": "片語", "zh": "做筆記、記筆記", "example": "That packed schedule, which left no time for food, made her struggle to take notes.", "example_zh": "嗰個排得密密麻麻嘅時間表，冇留時間食嘢，令佢記筆記都變得好吃力。", "say": "take notes", "accept": [ "taking notes", "took notes", "takes notes", "taken notes" ] },
+        { "id": "stay-alert", "word": "stay alert", "ipa": "/ˌsteɪ əˈlɜːt/", "pos": "片語", "zh": "保持清醒、保持警覺", "example": "A simple pre-class habit can help busy adults stay alert in class.", "example_zh": "一個簡單嘅課前習慣，可以幫助忙碌嘅成年人喺課堂上保持清醒。", "say": "stay alert", "accept": [ "staying alert", "stays alert", "stayed alert", "alert" ] },
+        { "id": "handout", "word": "handout", "ipa": "/ˈhændaʊt/", "pos": "名詞", "zh": "（課堂）講義、派發的資料", "example": "They can pack a light meal and enjoy going over handouts on the train.", "example_zh": "佢哋可以自備一頓清淡嘅餐，同埋享受喺火車上面重溫講義。", "accept": [ "handouts", "hand-out", "hand out" ] },
+        { "id": "doze-off", "word": "doze off", "ipa": "/ˌdəʊz ˈɒf/", "pos": "片語", "zh": "打瞌睡、不知不覺睡著", "example": "It lets tired students settle quickly and helps them avoid dozing off during the lecture.", "example_zh": "咁樣可以讓疲倦嘅學生快快定低，亦幫助佢哋避免喺講課期間打瞌睡。", "say": "doze off", "accept": [ "dozing off", "dozed off", "dozes off", "doze-off" ] },
+        { "id": "tutorial", "word": "tutorial", "ipa": "/tjuːˈtɔːriəl/", "pos": "名詞", "zh": "導修課；較小組的輔導課", "example": "Saturday tutorials should stay lighter, allowing weeknight learners to keep some rest.", "example_zh": "星期六嘅導修課應該輕鬆啲，讓平日夜晚上課嘅學員可以保留一啲休息。", "accept": [ "tutorials" ] }
+      ]
     }
   ]
 }
