@@ -628,6 +628,24 @@
         { "id": "doze-off", "word": "doze off", "ipa": "/ˌdəʊz ˈɒf/", "pos": "片語", "zh": "打瞌睡、不知不覺睡著", "example": "It lets tired students settle quickly and helps them avoid dozing off during the lecture.", "example_zh": "咁樣可以讓疲倦嘅學生快快定低，亦幫助佢哋避免喺講課期間打瞌睡。", "say": "doze off", "accept": [ "dozing off", "dozed off", "dozes off", "doze-off" ] },
         { "id": "tutorial", "word": "tutorial", "ipa": "/tjuːˈtɔːriəl/", "pos": "名詞", "zh": "導修課；較小組的輔導課", "example": "Saturday tutorials should stay lighter, allowing weeknight learners to keep some rest.", "example_zh": "星期六嘅導修課應該輕鬆啲，讓平日夜晚上課嘅學員可以保留一啲休息。", "accept": [ "tutorials" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-18 · Rush Hour Calm",
+      "added": "2026-11-18",
+      "words": [
+        { "id": "commuter", "word": "commuter", "ipa": "/kəˈmjuːtə/", "pos": "名詞", "zh": "通勤者；日常搭車返工放工嘅人", "example": "What should a tired commuter do when the platform is already full?", "example_zh": "當月台已經爆滿，一個疲倦嘅通勤者應該點做？", "accept": [ "commuters" ] },
+        { "id": "packed", "word": "packed", "ipa": "/pækt/", "pos": "形容詞", "zh": "擠滿的；迫爆的", "example": "After forty, a packed carriage often feels heavier, and the crowd becomes harder to face.", "example_zh": "過咗四十歲，擠滿人嘅車廂往往感覺更沉重，而人群亦變得更難面對。" },
+        { "id": "crowd", "word": "crowd", "ipa": "/kraʊd/", "pos": "名詞", "zh": "人群；人潮", "example": "After forty, a packed carriage often feels heavier, and the crowd becomes harder to face.", "example_zh": "過咗四十歲，擠滿人嘅車廂往往感覺更沉重，而人群亦變得更難面對。", "accept": [ "crowds" ] },
+        { "id": "passenger", "word": "passenger", "ipa": "/ˈpæsɪndʒə/", "pos": "名詞", "zh": "乘客", "example": "A calm passenger does not push towards the doors or squeeze into a closing doorway.", "example_zh": "一個冷靜嘅乘客唔會衝去車門，或者硬擠入即將關上嘅車廂門口。", "accept": [ "passengers" ] },
+        { "id": "squeeze", "word": "squeeze", "ipa": "/skwiːz/", "pos": "動詞", "zh": "擠入；擠進", "example": "A calm passenger does not push towards the doors or squeeze into a closing doorway.", "example_zh": "一個冷靜嘅乘客唔會衝去車門，或者硬擠入即將關上嘅車廂門口。", "accept": [ "squeezes", "squeezed", "squeezing" ] },
+        { "id": "doorway", "word": "doorway", "ipa": "/ˈdɔːweɪ/", "pos": "名詞", "zh": "門口；門位", "example": "They should keep standing away from the doorway, making the trip calmer.", "example_zh": "佢哋應該繼續企離門口遠啲，令旅程更加平靜。", "accept": [ "doorways", "door way" ] },
+        { "id": "alight", "word": "alight", "ipa": "/əˈlaɪt/", "pos": "動詞", "zh": "落車；下車（較正式，常見於車站廣播）", "example": "Considerate riders let other passengers alight first, giving everyone more personal space.", "example_zh": "體諒嘅乘客會先讓其他乘客落車，令大家都有多啲私人空間。", "say": "alight", "accept": [ "alights", "alighted", "alighting" ] },
+        { "id": "considerate", "word": "considerate", "ipa": "/kənˈsɪdərət/", "pos": "形容詞", "zh": "體諒的；為他人着想的", "example": "Considerate riders let other passengers alight first, giving everyone more personal space.", "example_zh": "體諒嘅乘客會先讓其他乘客落車，令大家都有多啲私人空間。" },
+        { "id": "journey", "word": "journey", "ipa": "/ˈdʒɜːni/", "pos": "名詞", "zh": "路程；旅程", "example": "Even though the journey is short, a tired commuter still needs to stay calm.", "example_zh": "即使路程好短，一個疲倦嘅通勤者仍然需要保持冷靜。", "accept": [ "journeys" ] },
+        { "id": "noisy", "word": "noisy", "ipa": "/ˈnɔɪzi/", "pos": "形容詞", "zh": "嘈吵的；嘈雜的", "example": "Although the platform may feel noisy after work, being patient is not difficult.", "example_zh": "雖然放工之後月台可能感覺好嘈，保持忍耐並唔困難。" },
+        { "id": "personal-space", "word": "personal space", "ipa": "/ˌpɜːsənl ˈspeɪs/", "pos": "名詞片語", "zh": "私人空間；個人空間", "example": "Considerate riders let other passengers alight first, giving everyone more personal space.", "example_zh": "體諒嘅乘客會先讓其他乘客落車，令大家都有多啲私人空間。", "say": "personal space", "accept": [ "personal-space" ] },
+        { "id": "off-peak", "word": "off-peak", "ipa": "/ˌɒfˈpiːk/", "pos": "形容詞", "zh": "非繁忙時間的", "example": "Off-peak trains and weekend rides can stay lighter, allowing regular commuters to rest.", "example_zh": "非繁忙時間嘅列車同週末嘅車程可以輕鬆啲，讓慣常嘅通勤者可以休息。", "say": "off-peak", "accept": [ "off peak", "offpeak" ] }
+      ]
     }
   ]
 }
