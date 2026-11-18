@@ -646,6 +646,24 @@
         { "id": "personal-space", "word": "personal space", "ipa": "/ˌpɜːsənl ˈspeɪs/", "pos": "名詞片語", "zh": "私人空間；個人空間", "example": "Considerate riders let other passengers alight first, giving everyone more personal space.", "example_zh": "體諒嘅乘客會先讓其他乘客落車，令大家都有多啲私人空間。", "say": "personal space", "accept": [ "personal-space" ] },
         { "id": "off-peak", "word": "off-peak", "ipa": "/ˌɒfˈpiːk/", "pos": "形容詞", "zh": "非繁忙時間的", "example": "Off-peak trains and weekend rides can stay lighter, allowing regular commuters to rest.", "example_zh": "非繁忙時間嘅列車同週末嘅車程可以輕鬆啲，讓慣常嘅通勤者可以休息。", "say": "off-peak", "accept": [ "off peak", "offpeak" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-19 · Packed Lunch",
+      "added": "2026-11-19",
+      "words": [
+        { "id": "packed-lunch", "word": "packed lunch", "ipa": "/ˌpækt ˈlʌntʃ/", "pos": "名詞片語", "zh": "自備午餐；便當；帶去返工嘅飯盒", "example": "Many working adults in Hong Kong bring a packed lunch to work as a daily habit.", "example_zh": "香港好多在職人士，都會帶飯返工，當成日常習慣。", "say": "packed lunch", "accept": [ "packed lunches", "packed-lunch" ] },
+        { "id": "greasy", "word": "greasy", "ipa": "/ˈɡriːsi/", "pos": "形容詞", "zh": "油膩的；油口的", "example": "After forty, a greasy canteen meal often feels heavier, and the afternoon becomes harder to face.", "example_zh": "過咗四十歲，一餐油膩嘅食堂飯往往感覺更滯口，而個下午亦變得更難捱。", "accept": [ "greasier", "greasiest" ] },
+        { "id": "canteen", "word": "canteen", "ipa": "/kænˈtiːn/", "pos": "名詞", "zh": "食堂；員工飯堂", "example": "Does every office canteen offer a truly nutritious choice at lunchtime?", "example_zh": "係咪每間公司食堂喺午餐時間都真係提供有營養嘅選擇？", "accept": [ "canteens" ] },
+        { "id": "balanced-meal", "word": "balanced meal", "ipa": "/ˌbælənst ˈmiːl/", "pos": "名詞片語", "zh": "均衡飲食嘅一餐；營養均衡嘅飯餐", "example": "A careful colleague does not buy a large set lunch or skip a balanced meal.", "example_zh": "一個謹慎嘅同事唔會買一份超大套餐，或者跳過一餐均衡嘅飯。", "say": "balanced meal", "accept": [ "balanced meals", "balanced-meal" ] },
+        { "id": "nutritious", "word": "nutritious", "ipa": "/njuːˈtrɪʃəs/", "pos": "形容詞", "zh": "有營養的；營養豐富的", "example": "Does every office canteen offer a truly nutritious choice at lunchtime?", "example_zh": "係咪每間公司食堂喺午餐時間都真係提供有營養嘅選擇？" },
+        { "id": "lunchtime", "word": "lunchtime", "ipa": "/ˈlʌntʃtaɪm/", "pos": "名詞", "zh": "午餐時間；午膳時間", "example": "Although leftover rice may feel plain at lunchtime, being organised is not difficult.", "example_zh": "雖然隔夜飯喺午餐時間可能感覺平平無奇，保持有條理並唔困難。", "accept": [ "lunch time", "lunch-time" ] },
+        { "id": "portion", "word": "portion", "ipa": "/ˈpɔːʃn/", "pos": "名詞", "zh": "一份的分量；餐量", "example": "The set meal, which came in a huge portion, made her struggle to stay alert.", "example_zh": "嗰份套餐，份量非常大，令佢好難保持清醒。", "accept": [ "portions" ] },
+        { "id": "homemade", "word": "homemade", "ipa": "/ˌhəʊmˈmeɪd/", "pos": "形容詞", "zh": "自家製的；屋企整嘅", "example": "They can consider cooking a homemade meal and enjoy packing it the night before.", "example_zh": "佢哋可以考慮煮一餐自家製嘅飯，同埋享受前一晚執飯盒。", "accept": [ "home-made", "home made" ] },
+        { "id": "snack", "word": "snack", "ipa": "/snæk/", "pos": "名詞", "zh": "小食；零食", "example": "This simple habit also helps them avoid buying greasy snacks after lunch.", "example_zh": "呢個簡單習慣亦幫助佢哋避免喺午餐後買油膩小食。", "accept": [ "snacks" ] },
+        { "id": "microwave", "word": "microwave", "ipa": "/ˈmaɪkrəweɪv/", "pos": "名詞", "zh": "微波爐", "example": "Careful colleagues let other staff use the microwave first, giving everyone a fair turn.", "example_zh": "謹慎嘅同事會先讓其他同事用微波爐，令大家都有公平輪候嘅機會。", "accept": [ "microwaves", "microwave oven" ] },
+        { "id": "ingredients", "word": "ingredients", "ipa": "/ɪnˈɡriːdiənts/", "pos": "名詞（複數）", "zh": "食材；材料；成分", "example": "They should keep choosing fresh ingredients, and they should not rush the reheating.", "example_zh": "佢哋應該繼續揀新鮮食材，而且唔應該趕急翻熱食物。", "accept": [ "ingredient" ] },
+        { "id": "reheating", "word": "reheating", "ipa": "/ˌriːˈhiːtɪŋ/", "pos": "名詞／動名詞", "zh": "翻熱；重新加熱", "example": "They should keep choosing fresh ingredients, and they should not rush the reheating.", "example_zh": "佢哋應該繼續揀新鮮食材，而且唔應該趕急翻熱食物。", "accept": [ "reheat", "reheats", "reheated" ] }
+      ]
     }
   ]
 }
