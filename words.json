@@ -664,6 +664,21 @@
         { "id": "ingredients", "word": "ingredients", "ipa": "/ɪnˈɡriːdiənts/", "pos": "名詞（複數）", "zh": "食材；材料；成分", "example": "They should keep choosing fresh ingredients, and they should not rush the reheating.", "example_zh": "佢哋應該繼續揀新鮮食材，而且唔應該趕急翻熱食物。", "accept": [ "ingredient" ] },
         { "id": "reheating", "word": "reheating", "ipa": "/ˌriːˈhiːtɪŋ/", "pos": "名詞／動名詞", "zh": "翻熱；重新加熱", "example": "They should keep choosing fresh ingredients, and they should not rush the reheating.", "example_zh": "佢哋應該繼續揀新鮮食材，而且唔應該趕急翻熱食物。", "accept": [ "reheat", "reheats", "reheated" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-20 · Office Movement",
+      "added": "2026-11-20",
+      "words": [
+        { "id": "desk", "word": "desk", "ipa": "/desk/", "pos": "名詞", "zh": "書檯；辦公桌", "example": "Many office workers in Hong Kong sit at their desks for most of the day as a daily habit.", "example_zh": "香港好多辦公室職員，都會坐喺自己張書檯度大半日，當成日常習慣。", "accept": [ "desks" ] },
+        { "id": "stiff", "word": "stiff", "ipa": "/stɪf/", "pos": "形容詞", "zh": "僵硬的；不靈活的", "example": "After forty, a long morning in a chair often feels stiffer, and the back becomes sore.", "example_zh": "過咗四十歲，坐喺椅度成個上午往往感覺更加僵硬，背部亦會開始痠痛。", "say": "stiff", "accept": [ "stiffer", "stiffest" ] },
+        { "id": "sore", "word": "sore", "ipa": "/sɔː/", "pos": "形容詞", "zh": "痠痛的；疼痛的", "example": "After forty, a long morning in a chair often feels stiffer, and the back becomes sore.", "example_zh": "過咗四十歲，坐喺椅度成個上午往往感覺更加僵硬，背部亦會開始痠痛。" },
+        { "id": "movement", "word": "movement", "ipa": "/ˈmuːvmənt/", "pos": "名詞", "zh": "活動；動作；走動", "example": "Even though the work still needs to be finished, the body still needs a little movement.", "example_zh": "即使份工作仍然要做完，身體仍然需要少少活動。", "accept": [ "movements" ] },
+        { "id": "staircase", "word": "staircase", "ipa": "/ˈsteəkeɪs/", "pos": "名詞", "zh": "樓梯；樓梯間", "example": "Does every office building offer a convenient staircase near the lift?", "example_zh": "係咪每座寫字樓都喺升降機附近提供一條方便嘅樓梯？", "accept": [ "staircases" ] },
+        { "id": "comfortable", "word": "comfortable", "ipa": "/ˈkʌmftəbl/", "pos": "形容詞", "zh": "舒適的；舒服的", "example": "The meeting, which ran for almost three hours, made him struggle to stay comfortable.", "example_zh": "嗰場會議開咗差唔多三個鐘，令佢好難保持舒服。", "accept": [ "comfortably", "comfort" ] },
+        { "id": "pantry", "word": "pantry", "ipa": "/ˈpæntri/", "pos": "名詞", "zh": "茶水間；食物儲藏處", "example": "They can consider standing during a short call and enjoy walking to a pantry farther away.", "example_zh": "佢哋可以考慮喺短電話期間站住，同埋享受行去遠啲嘅茶水間。", "accept": [ "pantries" ] },
+        { "id": "consistent", "word": "consistent", "ipa": "/kənˈsɪstənt/", "pos": "形容詞", "zh": "持之以恆的；一貫的；穩定的", "example": "Although a short stretch may feel awkward at first, being consistent is not difficult.", "example_zh": "雖然短暫伸展起初可能感覺尷尬，做到持之以恆並唔困難。" },
+        { "id": "lift", "word": "lift", "ipa": "/lɪft/", "pos": "名詞", "zh": "升降機（英式；美式叫 elevator）", "example": "Careful colleagues let other staff use the lift first, giving themselves time for the stairs.", "example_zh": "謹慎嘅同事會先讓其他同事用升降機，令自己有時間行樓梯。", "accept": [ "lifts", "elevator", "elevators" ] }
+      ]
     }
   ]
 }
