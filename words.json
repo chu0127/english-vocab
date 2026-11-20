@@ -679,6 +679,24 @@
         { "id": "consistent", "word": "consistent", "ipa": "/kənˈsɪstənt/", "pos": "形容詞", "zh": "持之以恆的；一貫的；穩定的", "example": "Although a short stretch may feel awkward at first, being consistent is not difficult.", "example_zh": "雖然短暫伸展起初可能感覺尷尬，做到持之以恆並唔困難。" },
         { "id": "lift", "word": "lift", "ipa": "/lɪft/", "pos": "名詞", "zh": "升降機（英式；美式叫 elevator）", "example": "Careful colleagues let other staff use the lift first, giving themselves time for the stairs.", "example_zh": "謹慎嘅同事會先讓其他同事用升降機，令自己有時間行樓梯。", "accept": [ "lifts", "elevator", "elevators" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-21 · Asking for Help",
+      "added": "2026-11-21",
+      "words": [
+        { "id": "overwhelmed", "word": "overwhelmed", "ipa": "/ˌəʊvəˈwelmd/", "pos": "形容詞", "zh": "被壓到透唔過氣；不堪重負的", "example": "Many working adults in Hong Kong feel overwhelmed when deadlines pile up at the office.", "example_zh": "香港好多在職人士，當辦公室嘅死線一件疊一件，都會覺得被壓到透唔過氣。", "accept": [ "overwhelm", "overwhelming" ] },
+        { "id": "silent", "word": "silent", "ipa": "/ˈsaɪlənt/", "pos": "形容詞", "zh": "沉默的；不作聲的", "example": "Even though the work still needs to be finished, staying silent does not make the problem smaller.", "example_zh": "即使份工作仍然要做完，保持沉默都唔會令問題變細。", "accept": [ "stay silent", "staying silent", "stayed silent", "silence" ] },
+        { "id": "wise", "word": "wise", "ipa": "/waɪz/", "pos": "形容詞", "zh": "明智的；聰明的", "example": "A wise colleague does not hide the pressure or keep the worry inside.", "example_zh": "一個明智嘅同事唔會隱藏壓力，或者將擔心收喺心入面。", "accept": [ "wiser", "wisest" ] },
+        { "id": "ask-for-help", "word": "ask for help", "ipa": "/ˌɑːsk fə ˈhelp/", "pos": "片語", "zh": "求助；開口求幫忙", "example": "A simple habit can help busy adults ask for help in time.", "example_zh": "一個簡單嘅習慣，可以幫助忙碌嘅成年人及時求助。", "say": "ask for help", "accept": [ "ask for help", "asking for help" ] },
+        { "id": "private", "word": "private", "ipa": "/ˈpraɪvət/", "pos": "形容詞", "zh": "私人的；不公開的", "example": "Many workers prefer talking to a teammate first, because a private conversation can still stay short.", "example_zh": "好多上班族都寧願先同隊友傾，因為一次私人傾談仍然可以好短。", "accept": [ "privately" ] },
+        { "id": "mention", "word": "mention", "ipa": "/ˈmenʃn/", "pos": "動詞", "zh": "提及；說起", "example": "Last Thursday my teammate did not mention the unfinished report to anyone.", "example_zh": "上星期四，我隊友並冇同任何人提及嗰份未完成嘅報告。", "accept": [ "mentions", "mentioned", "mentioning" ] },
+        { "id": "project", "word": "project", "ipa": "/ˈprɒdʒekt/", "pos": "名詞", "zh": "項目；專案", "example": "How long did that heavy project take to become manageable in the end?", "example_zh": "嗰個沉重嘅項目，最後用咗幾耐先變得應付得嚟？", "say": "project", "accept": [ "projects" ] },
+        { "id": "hesitate", "word": "hesitate", "ipa": "/ˈhezɪteɪt/", "pos": "動詞", "zh": "猶豫；遲疑", "example": "The report, which had two tight deadlines, made him hesitate to speak up.", "example_zh": "嗰份報告有兩個好緊嘅死線，令佢猶豫要唔要講出嚟。", "accept": [ "hesitates", "hesitated", "hesitating", "hesitation" ] },
+        { "id": "raise-a-concern", "word": "raise a concern", "ipa": "/ˌreɪz ə kənˈsɜːn/", "pos": "片語", "zh": "提出擔心；表達關注", "example": "A short meeting also helps them raise a concern before the work becomes too heavy.", "example_zh": "一次短暫會議亦幫助佢哋喺工作變得太沉重之前，提出自己嘅擔心。", "say": "raise a concern", "accept": [ "raise a concern", "raise concern", "raise concerns" ] },
+        { "id": "honest", "word": "honest", "ipa": "/ˈɒnɪst/", "pos": "形容詞", "zh": "誠實的；坦白的", "example": "Although an honest talk may feel uncomfortable at first, being honest is not difficult.", "example_zh": "雖然坦白傾訴起初可能感覺唔自在，做到誠實並唔困難。", "accept": [ "honestly", "honesty" ] },
+        { "id": "timely", "word": "timely", "ipa": "/ˈtaɪmli/", "pos": "形容詞", "zh": "及時的；適時的", "example": "In short, timely help lets working adults enjoy a lighter working day.", "example_zh": "簡單嚟講，及時嘅幫助讓在職人士享受輕鬆啲嘅工作一日。" },
+        { "id": "relieved", "word": "relieved", "ipa": "/rɪˈliːvd/", "pos": "形容詞", "zh": "感到寬慰的；鬆一口氣的", "example": "A supportive conversation can stay brief, allowing a tired colleague to feel relieved.", "example_zh": "一次帶有支持嘅傾談可以好簡短，讓疲累嘅同事感到寬慰。", "accept": [ "relieve", "relief" ] }
+      ]
     }
   ]
 }
