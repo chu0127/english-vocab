@@ -697,6 +697,24 @@
         { "id": "timely", "word": "timely", "ipa": "/ˈtaɪmli/", "pos": "形容詞", "zh": "及時的；適時的", "example": "In short, timely help lets working adults enjoy a lighter working day.", "example_zh": "簡單嚟講，及時嘅幫助讓在職人士享受輕鬆啲嘅工作一日。" },
         { "id": "relieved", "word": "relieved", "ipa": "/rɪˈliːvd/", "pos": "形容詞", "zh": "感到寬慰的；鬆一口氣的", "example": "A supportive conversation can stay brief, allowing a tired colleague to feel relieved.", "example_zh": "一次帶有支持嘅傾談可以好簡短，讓疲累嘅同事感到寬慰。", "accept": [ "relieve", "relief" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-22 · Phone-Free Meals",
+      "added": "2026-11-22",
+      "words": [
+        { "id": "thoughtful", "word": "thoughtful", "ipa": "/ˈθɔːtfl/", "pos": "形容詞", "zh": "貼心的；體貼的", "example": "A thoughtful guest does not scroll through messages or keep the phone beside the bowl.", "example_zh": "一個貼心嘅客人唔會滑睇訊息，或者將手機放喺碗旁邊。", "accept": [ "thoughtfully", "thoughtfulness" ] },
+        { "id": "put-away", "word": "put away", "ipa": "/pʊt əˈweɪ/", "pos": "片語", "zh": "收起；放好", "example": "Many adults prefer putting the phone away first, because a real conversation can still stay simple.", "example_zh": "好多成年人都寧願先收起手機，因為一次真正嘅傾談仍然可以好簡單。", "say": "put away", "accept": [ "put away", "putting away", "put the phone away", "putting the phone away" ] },
+        { "id": "cousin", "word": "cousin", "ipa": "/ˈkʌzn/", "pos": "名詞", "zh": "堂／表兄弟姊妹", "example": "Last Sunday my cousin did not put her phone down during the meal.", "example_zh": "上星期日，我表妹並冇喺食飯期間放下手機。", "accept": [ "cousins" ] },
+        { "id": "light-up", "word": "light up", "ipa": "/laɪt ʌp/", "pos": "片語", "zh": "亮起；發亮", "example": "The phone, which kept lighting up with new messages, made her miss her mother's stories.", "example_zh": "部手機不斷有新訊息亮起，令佢錯過咗媽媽講嘅故仔。", "say": "light up", "accept": [ "light up", "lights up", "lighting up", "lit up" ] },
+        { "id": "uncomfortable", "word": "uncomfortable", "ipa": "/ʌnˈkʌmftəbl/", "pos": "形容詞", "zh": "唔自在的；不舒服的", "example": "Since that uncomfortable Sunday she has not brought her phone to the table again.", "example_zh": "自從嗰個唔自在嘅星期日之後，佢再冇將手機帶到飯桌。", "accept": [ "uncomfortably" ] },
+        { "id": "present", "word": "present", "ipa": "/ˈpreznt/", "pos": "形容詞", "zh": "專心在場的；此刻的", "example": "A simple habit can help busy adults stay present with their family.", "example_zh": "一個簡單嘅習慣，可以幫助忙碌嘅成年人專心陪伴家人。", "say": "present", "accept": [ "present", "stay present", "being present" ] },
+        { "id": "strange", "word": "strange", "ipa": "/streɪndʒ/", "pos": "形容詞", "zh": "奇怪的；陌生的", "example": "Although a phone-free meal may feel strange at first, being present is not difficult.", "example_zh": "雖然一頓唔用手機嘅飯起初可能感覺奇怪，做到專心陪伴並唔困難。", "accept": [ "strangely", "strangeness" ] },
+        { "id": "mood", "word": "mood", "ipa": "/muːd/", "pos": "名詞", "zh": "氣氛；心情", "example": "Kind relatives let everyone share the day's news, giving the table a warmer mood.", "example_zh": "體諒嘅親人會讓大家分享當日見聞，令飯桌氣氛更溫暖。", "accept": [ "moods" ] },
+        { "id": "reach-for", "word": "reach for", "ipa": "/ˈriːtʃ fə/", "pos": "片語", "zh": "伸手去拿", "example": "They should keep listening carefully, and they should not reach for the screen too soon.", "example_zh": "佢哋應該繼續用心聆聽，而且唔應該太快伸手拿屏幕。", "say": "reach for", "accept": [ "reach for", "reaches for", "reached for", "reaching for" ] },
+        { "id": "genuine", "word": "genuine", "ipa": "/ˈdʒenjuɪn/", "pos": "形容詞", "zh": "真誠的；真正的", "example": "A genuine conversation can stay brief, allowing a tired relative to feel valued.", "example_zh": "一次真誠嘅傾談可以好簡短，讓疲累嘅親人感到被重視。", "accept": [ "genuinely", "genuineness" ] },
+        { "id": "brief", "word": "brief", "ipa": "/briːf/", "pos": "形容詞", "zh": "簡短的；短暫的", "example": "A genuine conversation can stay brief, allowing a tired relative to feel valued.", "example_zh": "一次真誠嘅傾談可以好簡短，讓疲累嘅親人感到被重視。", "accept": [ "briefly" ] },
+        { "id": "valued", "word": "valued", "ipa": "/ˈvæljuːd/", "pos": "形容詞", "zh": "被重視的；受珍視的", "example": "A genuine conversation can stay brief, allowing a tired relative to feel valued.", "example_zh": "一次真誠嘅傾談可以好簡短，讓疲累嘅親人感到被重視。", "accept": [ "value", "values", "valuing" ] }
+      ]
     }
   ]
 }
