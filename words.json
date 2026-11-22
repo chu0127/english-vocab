@@ -715,6 +715,24 @@
         { "id": "brief", "word": "brief", "ipa": "/briːf/", "pos": "形容詞", "zh": "簡短的；短暫的", "example": "A genuine conversation can stay brief, allowing a tired relative to feel valued.", "example_zh": "一次真誠嘅傾談可以好簡短，讓疲累嘅親人感到被重視。", "accept": [ "briefly" ] },
         { "id": "valued", "word": "valued", "ipa": "/ˈvæljuːd/", "pos": "形容詞", "zh": "被重視的；受珍視的", "example": "A genuine conversation can stay brief, allowing a tired relative to feel valued.", "example_zh": "一次真誠嘅傾談可以好簡短，讓疲累嘅親人感到被重視。", "accept": [ "value", "values", "valuing" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-23 · Neighbourhood Shopping",
+      "added": "2026-11-23",
+      "words": [
+        { "id": "deal", "word": "deal", "ipa": "/diːl/", "pos": "名詞", "zh": "優惠；交易", "example": "After forty, a cheap online deal often feels convenient, and a tired shopper becomes less careful.", "example_zh": "過咗四十歲，平價網購優惠往往感覺好方便，疲累嘅購物者會變得冇咁小心。", "accept": [ "deals" ] },
+        { "id": "parcel", "word": "parcel", "ipa": "/ˈpɑːsl/", "pos": "名詞", "zh": "包裹", "example": "Even though a parcel arrives quickly, buying without looking does not make the quality clearer.", "example_zh": "即使包裹到得好快，唔親自睇就買都唔會令質素更清楚。", "accept": [ "parcels" ] },
+        { "id": "around-the-corner", "word": "around the corner", "ipa": "/əˈraʊnd ðə ˈkɔːnə/", "pos": "片語", "zh": "就在附近；轉個彎就到", "example": "What should a busy adult do when a local shop is still around the corner?", "example_zh": "當街坊舖仍然就喺轉角，一個忙碌嘅成年人應該點做？", "say": "around the corner", "accept": [ "around the corner", "just around the corner" ] },
+        { "id": "inspect", "word": "inspect", "ipa": "/ɪnˈspekt/", "pos": "動詞", "zh": "檢查；驗看", "example": "Does every neighbourhood still keep a small store that lets people inspect the goods?", "example_zh": "係咪每個社區都仍然保留一間可以讓人驗看貨品嘅小店？", "accept": [ "inspects", "inspected", "inspecting", "inspection" ] },
+        { "id": "goods", "word": "goods", "ipa": "/ɡʊdz/", "pos": "名詞", "zh": "貨品；商品", "example": "Does every neighbourhood still keep a small store that lets people inspect the goods?", "example_zh": "係咪每個社區都仍然保留一間可以讓人驗看貨品嘅小店？", "accept": [ "goods" ] },
+        { "id": "disappointing", "word": "disappointing", "ipa": "/ˌdɪsəˈpɔɪntɪŋ/", "pos": "形容詞", "zh": "令人失望的", "example": "How long did that online order take to become a disappointing return?", "example_zh": "嗰個網購訂單，用咗幾耐先變成一次令人失望嘅退貨？", "accept": [ "disappoint", "disappointed", "disappointment" ] },
+        { "id": "practical", "word": "practical", "ipa": "/ˈpræktɪkl/", "pos": "形容詞", "zh": "務實的；實際的", "example": "A simple habit can help busy adults stay practical with everyday shopping.", "example_zh": "一個簡單嘅習慣，可以幫助忙碌嘅成年人喺日常購物時保持務實。", "accept": [ "practically", "practicality" ] },
+        { "id": "freshness", "word": "freshness", "ipa": "/ˈfreʃnəs/", "pos": "名詞", "zh": "新鮮程度", "example": "They can consider visiting a neighbourhood store and avoid guessing the size or freshness.", "example_zh": "佢哋可以考慮去一間街坊舖，同埋避免估量尺碼或者新鮮程度。", "accept": [ "fresh" ] },
+        { "id": "shopkeeper", "word": "shopkeeper", "ipa": "/ˈʃɒpkiːpə/", "pos": "名詞", "zh": "店主", "example": "A short talk with the shopkeeper also helps them notice better products before money is spent.", "example_zh": "同店主簡短傾一傾，亦幫助佢哋喺使錢之前留意到更好嘅產品。", "accept": [ "shopkeepers", "shop keeper", "shop-keeper" ] },
+        { "id": "basket", "word": "basket", "ipa": "/ˈbɑːskɪt/", "pos": "名詞", "zh": "購物籃；籃子", "example": "Although an online basket may feel faster at first, being careful is not difficult.", "example_zh": "雖然網上購物籃起初可能感覺更快，做到小心並唔困難。", "accept": [ "baskets" ] },
+        { "id": "guess", "word": "guess", "ipa": "/ɡes/", "pos": "動詞", "zh": "猜測；估量", "example": "They can consider visiting a neighbourhood store and avoid guessing the size or freshness.", "example_zh": "佢哋可以考慮去一間街坊舖，同埋避免估量尺碼或者新鮮程度。", "accept": [ "guesses", "guessed", "guessing" ] },
+        { "id": "choice", "word": "choice", "ipa": "/tʃɔɪs/", "pos": "名詞", "zh": "選擇", "example": "In short, shopping in the neighbourhood lets working adults enjoy clearer choices.", "example_zh": "簡單嚟講，喺街坊購物讓在職人士享受更清楚嘅選擇。", "accept": [ "choices" ] }
+      ]
     }
   ]
 }
