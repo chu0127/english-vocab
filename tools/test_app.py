@@ -32,7 +32,28 @@ with sync_playwright() as pw:
     if EXPECT_LS: check(mode == "ls" and not pg.is_visible("#notice"), "localStorage works, no storage-blocked notice")
     NW = pg.evaluate("WORDS.length"); NA = pg.evaluate("Object.values(AUDIO).reduce((s,o)=>s+Object.keys(o).length,0)")
     check(NW >= 19 and NA == 2 * NW, f"{NW} words / {NA} embedded clips (2 per word)")
-    clips = pg.evaluate("""()=>Promise.all(Object.values(AUDIO).flatMap(o=>[o.w,o.e]).map(s=>new Promise(r=>{const a=new Audio();a.oncanplaythrough=()=>r(a.duration);a.onerror=()=>r(-1);a.src=s;a.load();setTimeout(()=>r(-2),8000)})))""")
+    # Decode in small batches and drop each Audio, or Chromium hits the WebMediaPlayer cap (~1000).
+    clips = pg.evaluate("""async () => {
+      const srcs = Object.values(AUDIO).flatMap(o => [o.w, o.e]);
+      const out = [];
+      const batch = 16;
+      for (let i = 0; i < srcs.length; i += batch) {
+        const part = await Promise.all(srcs.slice(i, i + batch).map(s => new Promise(r => {
+          const a = new Audio();
+          const done = (v) => {
+            try { a.oncanplaythrough = a.onerror = null; a.pause(); a.removeAttribute('src'); a.load(); } catch (e) {}
+            r(v);
+          };
+          a.oncanplaythrough = () => done(a.duration);
+          a.onerror = () => done(-1);
+          a.src = s;
+          a.load();
+          setTimeout(() => done(-2), 8000);
+        })));
+        out.push(...part);
+      }
+      return out;
+    }""")
     check(len(clips) == NA and all(c > 0 for c in clips), f"all {len(clips)} embedded clips decode")
     check(pg.is_visible("#notice") == (mode == "hash"), "storage notice shown only when storage blocked")
     check(pg.inner_text("#dueCount") == "10", "home shows 10 new words due on day 1")

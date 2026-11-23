@@ -733,6 +733,24 @@
         { "id": "guess", "word": "guess", "ipa": "/ɡes/", "pos": "動詞", "zh": "猜測；估量", "example": "They can consider visiting a neighbourhood store and avoid guessing the size or freshness.", "example_zh": "佢哋可以考慮去一間街坊舖，同埋避免估量尺碼或者新鮮程度。", "accept": [ "guesses", "guessed", "guessing" ] },
         { "id": "choice", "word": "choice", "ipa": "/tʃɔɪs/", "pos": "名詞", "zh": "選擇", "example": "In short, shopping in the neighbourhood lets working adults enjoy clearer choices.", "example_zh": "簡單嚟講，喺街坊購物讓在職人士享受更清楚嘅選擇。", "accept": [ "choices" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-24 · Quiet Spending Leaks",
+      "added": "2026-11-24",
+      "words": [
+        { "id": "unused", "word": "unused", "ipa": "/ʌnˈjuːzd/", "pos": "形容詞", "zh": "未使用的；用唔着的", "example": "Even though each payment looks small, unused subscriptions do not stay cheap for long.", "example_zh": "即使每筆付款睇落好細，用唔着嘅訂閱費都唔會長期都算平。", "accept": [ "unused" ] },
+        { "id": "membership", "word": "membership", "ipa": "/ˈmembəʃɪp/", "pos": "名詞", "zh": "會籍；會員身份", "example": "The gym membership, which he has not used for months, made him waste money every month.", "example_zh": "嗰個健身會籍佢已經幾個月冇用過，卻令佢每個月都浪費錢。", "accept": [ "memberships" ] },
+        { "id": "charge", "word": "charge", "ipa": "/tʃɑːdʒ/", "pos": "名詞", "zh": "收費；扣款", "example": "After forty, a tiny monthly charge often feels harmless, and a busy worker becomes less careful.", "example_zh": "過咗四十歲，一筆細細嘅每月收費往往感覺冇咩所謂，忙碌嘅上班族會變得冇咁小心。", "accept": [ "charges", "charged", "charging" ] },
+        { "id": "harmless", "word": "harmless", "ipa": "/ˈhɑːmləs/", "pos": "形容詞", "zh": "無害的；看似沒問題的", "example": "After forty, a tiny monthly charge often feels harmless, and a busy worker becomes less careful.", "example_zh": "過咗四十歲，一筆細細嘅每月收費往往感覺冇咩所謂，忙碌嘅上班族會變得冇咁小心。", "accept": [ "harmlessly" ] },
+        { "id": "subscription", "word": "subscription", "ipa": "/səbˈskrɪpʃn/", "pos": "名詞", "zh": "訂閱；訂閱費", "example": "How long did that forgotten subscription take to drain a few hundred dollars?", "example_zh": "嗰個被遺忘嘅訂閱，用咗幾耐先抽走幾百蚊？", "accept": [ "subscriptions", "subscribe", "subscribed" ] },
+        { "id": "quietly", "word": "quietly", "ipa": "/ˈkwaɪətli/", "pos": "副詞", "zh": "悄悄地；靜靜地", "example": "What should a busy adult do when money quietly leaves the bank account?", "example_zh": "當錢靜靜喺銀行戶口流失，一個忙碌嘅成年人應該點做？", "accept": [ "quiet" ] },
+        { "id": "leak", "word": "leak", "ipa": "/liːk/", "pos": "名詞", "zh": "洩漏；流失", "example": "A careful saver does not leave those quiet spending leaks unchecked for months.", "example_zh": "一個細心慳錢嘅人，唔會讓呢啲靜靜流失嘅開支連續幾個月都冇人查。", "say": "leak", "accept": [ "leaks", "leaking", "leaked" ] },
+        { "id": "bank-statement", "word": "bank statement", "ipa": "/ˌbæŋk ˈsteɪtmənt/", "pos": "名詞片語", "zh": "銀行月結單", "example": "Many adults prefer checking their bank statements first, because they can spot the leaks.", "example_zh": "好多成年人都寧願先查銀行月結單，因為佢哋可以搵到呢啲流失。", "say": "bank statement", "accept": [ "bank statements", "statement", "statements" ] },
+        { "id": "cancel", "word": "cancel", "ipa": "/ˈkænsl/", "pos": "動詞", "zh": "取消", "example": "Last month my neighbour did not cancel an old cloud storage plan in time.", "example_zh": "上個月，我鄰居並冇及時取消一個舊嘅雲端儲存計劃。", "accept": [ "cancels", "cancelled", "canceled", "cancelling", "canceling", "cancellation" ] },
+        { "id": "forgotten", "word": "forgotten", "ipa": "/fəˈɡɒtn/", "pos": "形容詞", "zh": "被遺忘的", "example": "How long did that forgotten subscription take to drain a few hundred dollars?", "example_zh": "嗰個被遺忘嘅訂閱，用咗幾耐先抽走幾百蚊？", "accept": [ "forget", "forgot", "forgetful" ] },
+        { "id": "drain", "word": "drain", "ipa": "/dreɪn/", "pos": "動詞", "zh": "耗盡；慢慢抽走", "example": "How long did that forgotten subscription take to drain a few hundred dollars?", "example_zh": "嗰個被遺忘嘅訂閱，用咗幾耐先抽走幾百蚊？", "accept": [ "drains", "drained", "draining" ] },
+        { "id": "hidden", "word": "hidden", "ipa": "/ˈhɪdn/", "pos": "形容詞", "zh": "隱藏的", "example": "A short look at the bank app also helps them notice hidden charges early.", "example_zh": "喺銀行 App 度快速望一眼，亦幫助佢哋及早留意到隱藏收費。", "accept": [ "hide", "hid", "hiding" ] }
+      ]
     }
   ]
 }
