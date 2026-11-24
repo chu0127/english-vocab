@@ -751,6 +751,24 @@
         { "id": "drain", "word": "drain", "ipa": "/dreɪn/", "pos": "動詞", "zh": "耗盡；慢慢抽走", "example": "How long did that forgotten subscription take to drain a few hundred dollars?", "example_zh": "嗰個被遺忘嘅訂閱，用咗幾耐先抽走幾百蚊？", "accept": [ "drains", "drained", "draining" ] },
         { "id": "hidden", "word": "hidden", "ipa": "/ˈhɪdn/", "pos": "形容詞", "zh": "隱藏的", "example": "A short look at the bank app also helps them notice hidden charges early.", "example_zh": "喺銀行 App 度快速望一眼，亦幫助佢哋及早留意到隱藏收費。", "accept": [ "hide", "hid", "hiding" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-25 · Regular Parent Visits",
+      "added": "2026-11-25",
+      "words": [
+        { "id": "district", "word": "district", "ipa": "/ˈdɪstrɪkt/", "pos": "名詞", "zh": "地區；行政區", "example": "Many working adults in Hong Kong after forty still have ageing parents in another district.", "example_zh": "香港好多過咗四十歲嘅在職人士，仍然有年長父母住喺另一個區。", "accept": [ "districts" ] },
+        { "id": "useful", "word": "useful", "ipa": "/ˈjuːsfl/", "pos": "形容詞", "zh": "有用的", "example": "A short weekly visit often feels more useful than a late transfer of money.", "example_zh": "一次短暫嘅每週探訪，往往感覺比起遲啲先轉賬更有用。", "accept": [ "usefully", "usefulness" ] },
+        { "id": "weekend", "word": "weekend", "ipa": "/ˈwiːkend/", "pos": "名詞", "zh": "週末", "example": "Even though work keeps them busy, regular visits do not take a whole weekend.", "example_zh": "即使工作令佢哋好忙，定期探訪都唔使花成個週末。", "accept": [ "weekends" ] },
+        { "id": "accompany", "word": "accompany", "ipa": "/əˈkʌmpəni/", "pos": "動詞", "zh": "陪同；陪伴前往", "example": "Last month my neighbour did not accompany his father to a morning check-up.", "example_zh": "上個月，我鄰居並冇陪佢爸爸去朝早嗰次檢查。", "accept": [ "accompanies", "accompanied", "accompanying" ] },
+        { "id": "check-up", "word": "check-up", "ipa": "/ˈtʃek ʌp/", "pos": "名詞", "zh": "身體檢查；覆檢", "example": "Last month my neighbour did not accompany his father to a morning check-up.", "example_zh": "上個月，我鄰居並冇陪佢爸爸去朝早嗰次檢查。", "say": "check-up", "accept": [ "checkup", "check up", "check-ups", "checkups", "check ups" ] },
+        { "id": "clinic", "word": "clinic", "ipa": "/ˈklɪnɪk/", "pos": "名詞", "zh": "診所", "example": "Does a quick phone call still replace a morning at the clinic with Mum?", "example_zh": "一個匆匆嘅電話，係咪仍然可以取代同媽咪一齊喺診所度過一個朝早？", "accept": [ "clinics" ] },
+        { "id": "discuss", "word": "discuss", "ipa": "/dɪˈskʌs/", "pos": "動詞", "zh": "討論；傾談", "example": "The long wait, which he has not discussed with his son, made him feel lonely.", "example_zh": "嗰段漫長嘅等候佢一直都未同仔傾過，令佢覺得孤單。", "accept": [ "discusses", "discussed", "discussing", "discussion" ] },
+        { "id": "company", "word": "company", "ipa": "/ˈkʌmpəni/", "pos": "名詞", "zh": "陪伴（有人陪）", "example": "Since that quiet afternoon he has not attended any important appointment without asking for company.", "example_zh": "自從嗰個安靜嘅下晝之後，佢再冇未叫人陪就去赴任何重要預約。", "say": "company", "accept": [ "companies" ] },
+        { "id": "slot", "word": "slot", "ipa": "/slɒt/", "pos": "名詞", "zh": "時段；預約空檔", "example": "Adult children can consider booking the earliest clinic slot and avoid rushing through the waiting room.", "example_zh": "成年子女可以考慮預約診所最早嗰個時段，同埋避免喺候診室度趕時間。", "accept": [ "slots" ] },
+        { "id": "waiting-room", "word": "waiting room", "ipa": "/ˈweɪtɪŋ ruːm/", "pos": "名詞片語", "zh": "候診室", "example": "Adult children can consider booking the earliest clinic slot and avoid rushing through the waiting room.", "example_zh": "成年子女可以考慮預約診所最早嗰個時段，同埋避免喺候診室度趕時間。", "say": "waiting room", "accept": [ "waiting rooms", "waiting-room" ] },
+        { "id": "precious", "word": "precious", "ipa": "/ˈpreʃəs/", "pos": "形容詞", "zh": "寶貴的", "example": "Although a Sunday morning may feel precious at first, being present is not difficult.", "example_zh": "雖然星期日朝早起初可能感覺好寶貴，做到陪喺身邊並唔困難。", "accept": [ "preciously" ] },
+        { "id": "peace", "word": "peace", "ipa": "/piːs/", "pos": "名詞", "zh": "安心；平靜", "example": "Honest conversations let parents share worries, giving them more peace after the appointment.", "example_zh": "老實嘅傾偈讓父母講出擔心，令佢哋覆診後更安心。", "accept": [ "peaceful", "peacefully" ] }
+      ]
     }
   ]
 }
