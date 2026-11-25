@@ -769,6 +769,24 @@
         { "id": "precious", "word": "precious", "ipa": "/ˈpreʃəs/", "pos": "形容詞", "zh": "寶貴的", "example": "Although a Sunday morning may feel precious at first, being present is not difficult.", "example_zh": "雖然星期日朝早起初可能感覺好寶貴，做到陪喺身邊並唔困難。", "accept": [ "preciously" ] },
         { "id": "peace", "word": "peace", "ipa": "/piːs/", "pos": "名詞", "zh": "安心；平靜", "example": "Honest conversations let parents share worries, giving them more peace after the appointment.", "example_zh": "老實嘅傾偈讓父母講出擔心，令佢哋覆診後更安心。", "accept": [ "peaceful", "peacefully" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-26 · Noisy Neighbours",
+      "added": "2026-11-26",
+      "words": [
+        { "id": "neighbour", "word": "neighbour", "ipa": "/ˈneɪbə/", "pos": "名詞", "zh": "鄰居", "example": "What should a neighbour do when footsteps upstairs become too heavy at night?", "example_zh": "當樓上嘅腳步聲喺夜晚變得太重，一個鄰居應該點做？", "accept": [ "neighbours", "neighbor", "neighbors" ] },
+        { "id": "downstairs", "word": "downstairs", "ipa": "/ˌdaʊnˈsteəz/", "pos": "形容詞／副詞", "zh": "樓下的；在樓下", "example": "Last month my downstairs neighbour did not mention the late music until Sunday morning.", "example_zh": "上個月，我樓下嘅鄰居直到星期日朝早先提到晚黑嗰啲音樂。", "accept": [ "down-stairs", "down stairs" ] },
+        { "id": "renovation", "word": "renovation", "ipa": "/ˌrenəˈveɪʃn/", "pos": "名詞", "zh": "裝修；翻新工程", "example": "Does a late renovation still disturb every family along the corridor?", "example_zh": "一次晚黑進行嘅裝修，係咪仍然會騷擾走廊兩邊每一戶人家？", "accept": [ "renovations", "renovate", "renovated", "renovating" ] },
+        { "id": "disturb", "word": "disturb", "ipa": "/dɪˈstɜːb/", "pos": "動詞", "zh": "打擾；騷擾", "example": "Does a late renovation still disturb every family along the corridor?", "example_zh": "一次晚黑進行嘅裝修，係咪仍然會騷擾走廊兩邊每一戶人家？", "accept": [ "disturbs", "disturbed", "disturbing" ] },
+        { "id": "volume", "word": "volume", "ipa": "/ˈvɒljuːm/", "pos": "名詞", "zh": "音量", "example": "Even though people need rest after work, some households do not lower the volume after nine.", "example_zh": "即使啲人放工之後需要休息，有啲住戶九點之後都唔會調低音量。", "accept": [ "volumes" ] },
+        { "id": "household", "word": "household", "ipa": "/ˈhaʊshəʊld/", "pos": "名詞", "zh": "住戶；家庭", "example": "A careful household does not wear hard shoes after quiet hours begin.", "example_zh": "一個小心嘅住戶，喺安靜時段開始之後就唔會着硬底鞋。", "accept": [ "households" ] },
+        { "id": "insulation", "word": "insulation", "ipa": "/ˌɪnsjʊˈleɪʃn/", "pos": "名詞", "zh": "隔音層；隔熱／隔音物料", "example": "The thin ceiling, which has not had better insulation for years, made every step sound sharp.", "example_zh": "嗰層薄天花板好多年都未有更好嘅隔音層，令每一步都聽起來好尖好響。", "accept": [ "insulate", "insulated", "insulating" ] },
+        { "id": "ceiling", "word": "ceiling", "ipa": "/ˈsiːlɪŋ/", "pos": "名詞", "zh": "天花板", "example": "The thin ceiling, which has not had better insulation for years, made every step sound sharp.", "example_zh": "嗰層薄天花板好多年都未有更好嘅隔音層，令每一步都聽起來好尖好響。", "accept": [ "ceilings" ] },
+        { "id": "slippers", "word": "slippers", "ipa": "/ˈslɪpəz/", "pos": "名詞", "zh": "拖鞋", "example": "Soft slippers can help a family move more quietly around the flat after dinner.", "example_zh": "一雙柔軟嘅拖鞋，可以幫助一家人晚飯後喺單位入面行得更靜。", "say": "slippers", "accept": [ "slipper" ] },
+        { "id": "earplugs", "word": "earplugs", "ipa": "/ˈɪəplʌɡz/", "pos": "名詞", "zh": "耳塞", "example": "Adults can consider using earplugs on bad nights and avoid turning the television up.", "example_zh": "成年人可以考慮喺特別嘈嘅夜晚用耳塞，同埋避免將電視開得更大聲。", "say": "earplugs", "accept": [ "earplug", "ear plugs", "ear plug", "ear-plugs" ] },
+        { "id": "quiet-hours", "word": "quiet hours", "ipa": "/ˌkwaɪət ˈaʊəz/", "pos": "名詞片語", "zh": "安靜時段；休息時間（樓宇內應保持安靜）", "example": "A careful household does not wear hard shoes after quiet hours begin.", "example_zh": "一個小心嘅住戶，喺安靜時段開始之後就唔會着硬底鞋。", "say": "quiet hours", "accept": [ "quiet hour", "quiet-hours" ] },
+        { "id": "hallway", "word": "hallway", "ipa": "/ˈhɔːlweɪ/", "pos": "名詞", "zh": "走廊；門廳通道", "example": "A short, calm talk in the hallway also helps both sides stay reasonable.", "example_zh": "喺走廊一次簡短平靜嘅傾偈，亦幫助雙方保持理智。", "accept": [ "hallways", "hall way", "hall-way" ] }
+      ]
     }
   ]
 }
