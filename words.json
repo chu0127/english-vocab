@@ -787,6 +787,24 @@
         { "id": "quiet-hours", "word": "quiet hours", "ipa": "/ˌkwaɪət ˈaʊəz/", "pos": "名詞片語", "zh": "安靜時段；休息時間（樓宇內應保持安靜）", "example": "A careful household does not wear hard shoes after quiet hours begin.", "example_zh": "一個小心嘅住戶，喺安靜時段開始之後就唔會着硬底鞋。", "say": "quiet hours", "accept": [ "quiet hour", "quiet-hours" ] },
         { "id": "hallway", "word": "hallway", "ipa": "/ˈhɔːlweɪ/", "pos": "名詞", "zh": "走廊；門廳通道", "example": "A short, calm talk in the hallway also helps both sides stay reasonable.", "example_zh": "喺走廊一次簡短平靜嘅傾偈，亦幫助雙方保持理智。", "accept": [ "hallways", "hall way", "hall-way" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-27 · Weekend Volunteering",
+      "added": "2026-11-27",
+      "words": [
+        { "id": "sign-up", "word": "sign up", "ipa": "/saɪn ˈʌp/", "pos": "動詞片語", "zh": "報名；登記參加", "example": "Last month I did not sign up until a neighbour invited me to the centre.", "example_zh": "上個月，直到有鄰居邀請我去中心，我先報名。", "say": "sign up", "accept": [ "sign-up", "signed up", "signing up", "signs up", "signup" ] },
+        { "id": "invite", "word": "invite", "ipa": "/ɪnˈvaɪt/", "pos": "動詞", "zh": "邀請", "example": "Last month I did not sign up until a neighbour invited me to the centre.", "example_zh": "上個月，直到有鄰居邀請我去中心，我先報名。", "accept": [ "invites", "invited", "inviting", "invitation" ] },
+        { "id": "activity-room", "word": "activity room", "ipa": "/ækˈtɪvəti ruːm/", "pos": "名詞片語", "zh": "活動室", "example": "The activity room, which has not had enough helpers for months, made the staff look relieved.", "example_zh": "個活動室已經好幾個月都唔夠幫手，令職員看起來鬆咗一口氣。", "say": "activity room", "accept": [ "activity rooms", "activities room" ] },
+        { "id": "helper", "word": "helper", "ipa": "/ˈhelpə/", "pos": "名詞", "zh": "幫手；助手", "example": "The activity room, which has not had enough helpers for months, made the staff look relieved.", "example_zh": "個活動室已經好幾個月都唔夠幫手，令職員看起來鬆咗一口氣。", "accept": [ "helpers" ] },
+        { "id": "tea-service", "word": "tea service", "ipa": "/ˈtiː ˌsɜːvɪs/", "pos": "名詞片語", "zh": "茶點服務；奉茶服務", "example": "Since that day I have not missed a weekend shift, allowing the tea service to run more smoothly.", "example_zh": "自從嗰日之後，我再冇錯過一個週末更次，讓茶點服務運作得更順利。", "say": "tea service", "accept": [ "tea services" ] },
+        { "id": "smoothly", "word": "smoothly", "ipa": "/ˈsmuːðli/", "pos": "副詞", "zh": "順利地；順暢地", "example": "Since that day I have not missed a weekend shift, allowing the tea service to run more smoothly.", "example_zh": "自從嗰日之後，我再冇錯過一個週末更次，讓茶點服務運作得更順利。", "accept": [ "smooth" ] },
+        { "id": "suit", "word": "suit", "ipa": "/suːt/", "pos": "動詞", "zh": "適合；對……合適", "example": "Many adults prefer starting with simple tasks, because a heavy role does not suit everyone at first.", "example_zh": "好多成年人都寧願由簡單工作開始，因為沉重嘅職責一開始並唔適合每一個人。", "accept": [ "suits", "suited", "suiting" ] },
+        { "id": "member", "word": "member", "ipa": "/ˈmembə/", "pos": "名詞", "zh": "會員；成員", "example": "Does a short morning shift still help the elderly members who come for tea?", "example_zh": "一段短嘅早上更次，係咪仍然幫到嚟飲茶嘅長者會員？", "accept": [ "members" ] },
+        { "id": "ordinary", "word": "ordinary", "ipa": "/ˈɔːdnri/", "pos": "形容詞", "zh": "普通的；平常的", "example": "A kind routine lets ordinary people give time regularly, giving lonely residents a warmer morning.", "example_zh": "一個善意嘅習慣讓普通人定期貢獻時間，令寂寞嘅住客有一個更溫暖嘅早上。", "accept": [ "ordinarily" ] },
+        { "id": "show-up", "word": "show up", "ipa": "/ʃəʊ ˈʌp/", "pos": "動詞片語", "zh": "依時到場；出現", "example": "They should keep showing up, and they should not leave the staff without a word.", "example_zh": "佢哋應該繼續依時到場，而且唔應該冇打聲招呼就離開職員。", "say": "show up", "accept": [ "showing up", "shows up", "showed up", "shown up", "show-up" ] },
+        { "id": "promise", "word": "promise", "ipa": "/ˈprɒmɪs/", "pos": "名詞", "zh": "承諾；答應咗嘅事", "example": "A small promise can stay realistic, allowing a tired worker to keep going.", "example_zh": "一個細嘅承諾可以保持務實，讓疲倦嘅打工仔繼續堅持落去。", "accept": [ "promises", "promised", "promising" ] },
+        { "id": "realistic", "word": "realistic", "ipa": "/ˌrɪəˈlɪstɪk/", "pos": "形容詞", "zh": "務實的；切合實際的", "example": "A small promise can stay realistic, allowing a tired worker to keep going.", "example_zh": "一個細嘅承諾可以保持務實，讓疲倦嘅打工仔繼續堅持落去。", "accept": [ "realistically", "realism" ] }
+      ]
     }
   ]
 }
