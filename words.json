@@ -805,6 +805,24 @@
         { "id": "promise", "word": "promise", "ipa": "/ˈprɒmɪs/", "pos": "名詞", "zh": "承諾；答應咗嘅事", "example": "A small promise can stay realistic, allowing a tired worker to keep going.", "example_zh": "一個細嘅承諾可以保持務實，讓疲倦嘅打工仔繼續堅持落去。", "accept": [ "promises", "promised", "promising" ] },
         { "id": "realistic", "word": "realistic", "ipa": "/ˌrɪəˈlɪstɪk/", "pos": "形容詞", "zh": "務實的；切合實際的", "example": "A small promise can stay realistic, allowing a tired worker to keep going.", "example_zh": "一個細嘅承諾可以保持務實，讓疲倦嘅打工仔繼續堅持落去。", "accept": [ "realistically", "realism" ] }
       ]
+    },
+    {
+      "lesson": "每日文章 · 2026-11-28 · Reusable Bottles",
+      "added": "2026-11-28",
+      "words": [
+        { "id": "water-bottle", "word": "water bottle", "ipa": "/ˈwɔːtə ˌbɒtl/", "pos": "名詞片語", "zh": "水樽；水瓶", "example": "Many working adults in Hong Kong carry a water bottle to the office every morning.", "example_zh": "香港好多在職人士每個早上都會帶住水樽返公司。", "say": "water bottle", "accept": [ "water bottles", "water-bottle" ] },
+        { "id": "shopping-bag", "word": "shopping bag", "ipa": "/ˈʃɒpɪŋ bæɡ/", "pos": "名詞片語", "zh": "購物袋；環保袋", "example": "A foldable shopping bag often sits in a backpack or a desk drawer.", "example_zh": "一個可摺疊嘅環保袋，好多時會放喺背囊或者書桌櫃桶入面。", "say": "shopping bag", "accept": [ "shopping bags", "shopping-bag" ] },
+        { "id": "foldable", "word": "foldable", "ipa": "/ˈfəʊldəbl/", "pos": "形容詞", "zh": "可摺疊的", "example": "A foldable shopping bag often sits in a backpack or a desk drawer.", "example_zh": "一個可摺疊嘅環保袋，好多時會放喺背囊或者書桌櫃桶入面。", "accept": [ "fold", "folding", "folded" ] },
+        { "id": "disposable", "word": "disposable", "ipa": "/dɪˈspəʊzəbl/", "pos": "形容詞", "zh": "即棄的；一次性的", "example": "Even though a disposable cup feels convenient at lunch, a durable bottle lasts much longer.", "example_zh": "即使即棄紙杯喺午餐時感覺方便，一個耐用嘅水樽可以用得更耐。", "accept": [ "disposables", "dispose" ] },
+        { "id": "durable", "word": "durable", "ipa": "/ˈdjʊərəbl/", "pos": "形容詞", "zh": "耐用的", "example": "Even though a disposable cup feels convenient at lunch, a durable bottle lasts much longer.", "example_zh": "即使即棄紙杯喺午餐時感覺方便，一個耐用嘅水樽可以用得更耐。", "accept": [ "durability", "durably" ] },
+        { "id": "plastic-bag", "word": "plastic bag", "ipa": "/ˈplæstɪk bæɡ/", "pos": "名詞片語", "zh": "膠袋", "example": "A shopper does not need a new plastic bag at every supermarket checkout.", "example_zh": "購物嘅人並唔需要每次喺超市收銀台都攞一個新膠袋。", "say": "plastic bag", "accept": [ "plastic bags", "plastic-bag" ] },
+        { "id": "supermarket", "word": "supermarket", "ipa": "/ˈsuːpəmɑːkɪt/", "pos": "名詞", "zh": "超市；超級市場", "example": "A shopper does not need a new plastic bag at every supermarket checkout.", "example_zh": "購物嘅人並唔需要每次喺超市收銀台都攞一個新膠袋。", "accept": [ "supermarkets" ] },
+        { "id": "checkout", "word": "checkout", "ipa": "/ˈtʃekaʊt/", "pos": "名詞", "zh": "收銀台；付款處", "example": "A shopper does not need a new plastic bag at every supermarket checkout.", "example_zh": "購物嘅人並唔需要每次喺超市收銀台都攞一個新膠袋。", "accept": [ "check-out", "checkouts", "check-outs" ] },
+        { "id": "cutlery", "word": "cutlery", "ipa": "/ˈkʌtləri/", "pos": "名詞", "zh": "餐具（叉、刀、匙等）", "example": "Many adults prefer packing cutlery from home, because disposable forks do not suit a simple meal.", "example_zh": "好多成年人都寧願由屋企帶餐具，因為即棄叉並唔適合一頓簡單嘅飯。", "accept": [ "cutleries" ] },
+        { "id": "water-cooler", "word": "water cooler", "ipa": "/ˈwɔːtə ˌkuːlə/", "pos": "名詞片語", "zh": "飲水機", "example": "Does a water bottle still help when the pantry has a water cooler?", "example_zh": "當茶水間有飲水機嘅時候，水樽係咪仍然有用？", "say": "water cooler", "accept": [ "water coolers", "water-cooler" ] },
+        { "id": "refill-station", "word": "refill station", "ipa": "/ˈriːfɪl ˌsteɪʃn/", "pos": "名詞片語", "zh": "加水站；補水站", "example": "The office can let staff fill a bottle at a refill station downstairs.", "example_zh": "公司可以讓職員喺樓下嘅加水站注滿水樽。", "say": "refill station", "accept": [ "refill stations", "refill-station" ] },
+        { "id": "throw-away", "word": "throw away", "ipa": "/ˌθrəʊ əˈweɪ/", "pos": "動詞片語", "zh": "扔掉；丟棄", "example": "They should keep carrying both items, and they should not throw a usable bag away.", "example_zh": "佢哋應該繼續帶住兩樣嘢，而且唔應該將仲用得嘅袋子扔掉。", "say": "throw away", "accept": [ "throw-away", "threw away", "thrown away", "throwing away", "throws away" ] }
+      ]
     }
   ]
 }
